@@ -17,3 +17,13 @@ In order to use this project it is necessary to follow the following steps:
   -pieceScrapper.py (Retrieve car pieces list and sort it by category).
 
   -selenuim.py (Retrieves information about Vehicle (Brand, model and type).
+  
+  Here is an Output Examples : 
+  
+## List Of Brands : 
+  
+  ![Alt Text](marque.png)
+  
+##List Of Models : 
+  
+  ![Alt Text](modeleAU.png)
