@@ -1,0 +1,13 @@
+-Installation python 2.7.11 (3.4)
+
+-Fichier "selenuim.py" (ligne 47) specifier le chemin d'accès au driver chrome.
+
+*CMD EXCECUTION = python <Nom Fichier>.py
+
+-marqueImgLinkScrapper.py (Recupere les information sur la marque et le modele, techarger les images).
+
+-pieceScrapper.py (Recupere la liste des pieces en triant selon la categorie).
+
+-selenuim.py (Recupere les infos sur Vehicule(Marque, modeleet type) du site de la douane).
+
+

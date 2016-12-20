@@ -1,0 +1,9168 @@
+<?xml version="1.0" ?>
+<marques>
+<marque nom="ACREA">
+<modele nom="ZEST 0.5">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="ALEKO">
+<modele nom="1600">
+<type>*</type>
+<type>200400</type>
+<type>F40E05</type>
+</modele>
+</marque>
+<marque nom="ALFA ROMEO">
+<modele nom="145 1.3 / 1.4">
+<type>930A3</type>
+<type>930A3A00</type>
+<type>MLA1301CH074</type>
+</modele>
+<modele nom="145 1.6">
+<type>930A2</type>
+<type>930A2A</type>
+</modele>
+<modele nom="145 1.9 JTD">
+<type>930A4B</type>
+</modele>
+<modele nom="145 2.0">
+<type>930A5</type>
+</modele>
+<modele nom="145 TBO DIES 2.0">
+<type>930A4</type>
+<type>930A4A</type>
+</modele>
+<modele nom="146 1.3">
+<type>930B3</type>
+</modele>
+<modele nom="146 1.6">
+<type>930B2A</type>
+</modele>
+<modele nom="146 1.7 16V">
+<type>*</type>
+</modele>
+<modele nom="146 1.9 JTD/JTD L">
+<type>93000</type>
+</modele>
+<modele nom="146 TBO DIES">
+<type>930B4</type>
+<type>930B4A</type>
+</modele>
+<modele nom="146 TI">
+<type>930B5</type>
+</modele>
+<modele nom="147 1.6">
+<type>*</type>
+</modele>
+<modele nom="147 1.6 (TYPE 937)">
+<type>937BXA1A05H</type>
+</modele>
+<modele nom="147 1.9 DIES">
+<type>937AXD1A04</type>
+</modele>
+<modele nom="147 1.9 JTD">
+<type>9370000</type>
+<type>937BXU1A33</type>
+</modele>
+<modele nom="147 1.9 TDI/JTD">
+<type>*</type>
+</modele>
+<modele nom="147 2.0">
+<type>*</type>
+</modele>
+<modele nom="147 3.2 V6 GTA">
+<type>*</type>
+</modele>
+<modele nom="155 1.6 16V">
+<type>167A6A</type>
+</modele>
+<modele nom="155 1.7 16V">
+<type>*</type>
+</modele>
+<modele nom="155 1.8 16V">
+<type>167A4C</type>
+<type>167A4P</type>
+</modele>
+<modele nom="155 2.0 16V">
+<type>167A2A</type>
+<type>167A2G</type>
+</modele>
+<modele nom="155 2.0 TD">
+<type>167A3B</type>
+<type>167AB</type>
+</modele>
+<modele nom="155 2.5 ESSENCE">
+<type>167A1</type>
+</modele>
+<modele nom="155 2.5 TBO DIES">
+<type>167A1A</type>
+<type>167A1G</type>
+</modele>
+<modele nom="156 1.6">
+<type>932</type>
+<type>932A40</type>
+<type>932B4</type>
+</modele>
+<modele nom="156 1.8">
+<type>932A30</type>
+</modele>
+<modele nom="156 1.9 JTD/TD/BREAK">
+<type>932</type>
+<type>932A2A</type>
+<type>932A2B</type>
+<type>937A2</type>
+</modele>
+<modele nom="156 2.0/16V">
+<type>932A20</type>
+</modele>
+<modele nom="156 2.4 TD/JTD">
+<type>932A1A</type>
+</modele>
+<modele nom="156 2.5 V6">
+<type>932A10</type>
+</modele>
+<modele nom="156 3.2 GTA V6">
+<type>*</type>
+</modele>
+<modele nom="159 1.9 JTD/SPORT WAGON/GTS">
+<type>939000</type>
+<type>939AXA1BXXC</type>
+<type>939AXF1B05</type>
+</modele>
+<modele nom="159 2.0 JTD/SW">
+<type>939AXS1B66</type>
+<type>939BXP1B</type>
+</modele>
+<modele nom="159 2.4 JTD/SW">
+<type>939AXD1B</type>
+<type>939BXD1226</type>
+</modele>
+<modele nom="164 2.0">
+<type>164A1</type>
+<type>164A2</type>
+<type>164A2B</type>
+<type>164H3</type>
+</modele>
+<modele nom="164 2.5 TURBO D">
+<type>164A1</type>
+<type>164K2</type>
+<type>164K2A</type>
+<type>164K2B</type>
+</modele>
+<modele nom="164 3.0 QUADRIFOGLIO 4 (17CV)">
+<type>164K1H</type>
+</modele>
+<modele nom="164 3.0 V6">
+<type>164A</type>
+<type>164AB</type>
+<type>164AD</type>
+<type>164K1F</type>
+<type>164K1N</type>
+</modele>
+<modele nom="166 2.0">
+<type>*</type>
+</modele>
+<modele nom="166 2.4 JTD/TD">
+<type>*</type>
+</modele>
+<modele nom="166 2.5 V6">
+<type>*</type>
+</modele>
+<modele nom="166 3.0 V6">
+<type>*</type>
+</modele>
+<modele nom="166 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="33 1.3">
+<type>3317</type>
+<type>901D4</type>
+<type>90511H</type>
+<type>905A1</type>
+<type>905A1A</type>
+<type>905A1B</type>
+<type>905A1C</type>
+<type>905A1G</type>
+<type>905A1H</type>
+<type>907A3</type>
+<type>907B3</type>
+<type>920A1B</type>
+</modele>
+<modele nom="33 1.5/1.5 4X4">
+<type>2905A2</type>
+<type>905A2</type>
+<type>905A2A</type>
+<type>905A2B</type>
+<type>905A2C</type>
+<type>905A2D</type>
+<type>905A2F</type>
+<type>905A2G</type>
+<type>905A2H</type>
+<type>905A2L</type>
+<type>905A2M</type>
+<type>905A2P</type>
+<type>905A2R</type>
+<type>905A2S</type>
+<type>905A2T</type>
+<type>905A2V</type>
+<type>905A3G</type>
+<type>905AZL</type>
+<type>905AZN</type>
+<type>9072A</type>
+<type>907A2</type>
+</modele>
+<modele nom="33 1.7">
+<type>904000</type>
+<type>905A3</type>
+<type>905A3C</type>
+<type>905A3D</type>
+<type>905A4</type>
+<type>907A1</type>
+</modele>
+<modele nom="33 1.7 QUADRIFOGLIO 4">
+<type>907A1G</type>
+</modele>
+<modele nom="33 1.8 TD">
+<type>905A4</type>
+</modele>
+<modele nom="4C 1.7 COUPE">
+<type>960000</type>
+</modele>
+<modele nom="4C 1.7 SPIDER CABRIOLET">
+<type>960000</type>
+</modele>
+<modele nom="625 TD">
+<type>119A2</type>
+</modele>
+<modele nom="75 1.6">
+<type>162B2A</type>
+<type>162B2C</type>
+<type>162B2F</type>
+</modele>
+<modele nom="75 1.8">
+<type>162B1A</type>
+<type>162B1B</type>
+<type>162B1F</type>
+</modele>
+<modele nom="75 1.8 TURBO">
+<type>162B1C</type>
+<type>162B1D</type>
+<type>162B1G</type>
+<type>162B1M</type>
+</modele>
+<modele nom="75 2.0 TURBO D">
+<type>162BD</type>
+<type>162BG</type>
+</modele>
+<modele nom="75 2.0 TWIN SPARK">
+<type>162B4</type>
+<type>162B4A</type>
+</modele>
+<modele nom="75 2.4 TURBO D">
+<type>162B5</type>
+</modele>
+<modele nom="75 3.0 V 6">
+<type>162B6</type>
+<type>162B6B</type>
+<type>162B6X</type>
+</modele>
+<modele nom="90 2.0">
+<type>162A2</type>
+<type>162A2A</type>
+<type>ZAR162A2</type>
+<type>ZAR162A2A</type>
+</modele>
+<modele nom="90 2.4 TURBO D">
+<type>162A3</type>
+<type>ZAR162A3</type>
+</modele>
+<modele nom="90 2.5 V 6 INJ">
+<type>162A</type>
+</modele>
+<modele nom="ALFA SUD BERLINE 1300 A 1700CC">
+<type>901F1</type>
+<type>901F4B</type>
+<type>901F4D</type>
+<type>901G4B</type>
+</modele>
+<modele nom="ALFETA 2.0">
+<type>11655</type>
+<type>11655F</type>
+<type>11655N</type>
+</modele>
+<modele nom="ALFETA 2.0 TD">
+<type>116B</type>
+<type>116BA</type>
+</modele>
+<modele nom="ALFETTA 2.4 TD">
+<type>116B3</type>
+<type>91ZHS</type>
+</modele>
+<modele nom="ES 30">
+<type>162C1</type>
+</modele>
+<modele nom="FOURG VITRE 9PL">
+<type>30AR8</type>
+<type>35AR8B</type>
+</modele>
+<modele nom="GIULIETTA  1.6/1.8">
+<type>11650</type>
+<type>11650B</type>
+<type>1165OB</type>
+<type>116A</type>
+<type>116AA</type>
+</modele>
+<modele nom="GIULIETTA 1.4">
+<type>940FXA1A00</type>
+</modele>
+<modele nom="GIULIETTA 1.4 EXCLUSIVE/COLLEZIONE">
+<type>940FXA1A00</type>
+</modele>
+<modele nom="GIULIETTA 1.6 JTD">
+<type>940FXD1A03</type>
+</modele>
+<modele nom="GIULIETTA 1.6 JTD EXCLUSIVE">
+<type>940FXD1A03</type>
+</modele>
+<modele nom="GIULIETTA 2.0">
+<type>116A1</type>
+<type>116A1A</type>
+</modele>
+<modele nom="GIULIETTA 2.0 JTDM">
+<type>940FXE1A04</type>
+<type>940FXL1A08</type>
+<type>940FXM1A09</type>
+</modele>
+<modele nom="GIULIETTA 2.0 JTDM EXCLUSIVE/ COLLEZIONE">
+<type>940FXE1A04</type>
+<type>940FXL1A08</type>
+<type>940FXM1A09</type>
+</modele>
+<modele nom="GIULIETTA 2.0 TD">
+<type>116A2</type>
+</modele>
+<modele nom="GT 1.9 JTD">
+<type>*</type>
+</modele>
+<modele nom="GT 1.9 JTD (TYPE 937)">
+<type>937CXN1B24C</type>
+</modele>
+<modele nom="GT 2.0 JTS">
+<type>*</type>
+</modele>
+<modele nom="GT 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="GTV ( TYPES 116)">
+<type>11636</type>
+<type>11636C</type>
+<type>11637</type>
+<type>116CA</type>
+</modele>
+<modele nom="GTV 2.0 16V">
+<type>916C2</type>
+</modele>
+<modele nom="GTV 2.0 V6 TB">
+<type>916C2A</type>
+</modele>
+<modele nom="GTV 3.0 V6 24V">
+<type>916C1</type>
+</modele>
+<modele nom="GTV COUPE 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="MITO 1.3 JTD">
+<type>955AXP1A11C</type>
+</modele>
+<modele nom="MITO 1.4">
+<type>955AXL1B08</type>
+</modele>
+<modele nom="MITO 1.4 (170CV)">
+<type>955AX1NB10</type>
+</modele>
+<modele nom="MITO 1.6 JTD">
+<type>955AXC1B02B</type>
+<type>955AXE1B04M</type>
+</modele>
+<modele nom="SPIDER 2.0 ( TYPES 115)">
+<type>11538</type>
+<type>115A1</type>
+</modele>
+<modele nom="SPIDER 2.0 16V CABRIOLET">
+<type>916S2</type>
+</modele>
+<modele nom="SPIDER 2.0/3.0 V6">
+<type>916S1</type>
+</modele>
+<modele nom="SPIDER 2.4 JTD CABRIOLET">
+<type>939EXD1B34</type>
+</modele>
+<modele nom="SPIDER 3.2 JTS CABRIOLET">
+<type>939EXG2B20</type>
+</modele>
+<modele nom="SPIDER 3.2 JTS COUPE">
+<type>*</type>
+</modele>
+<modele nom="SPRINT 1.3/1.5 COUPE">
+<type>9024A4A</type>
+<type>9024A4B</type>
+<type>902A4A</type>
+<type>902A4B</type>
+<type>902A5B</type>
+</modele>
+<modele nom="SPRINT 1.7 COUPE Q.V">
+<type>902A6</type>
+</modele>
+</marque>
+<marque nom="ARO">
+<modele nom="ARO 7CV">
+<type>10.1</type>
+<type>10.3</type>
+<type>10.4</type>
+</modele>
+<modele nom="FORESTER 10CV">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="ASIA">
+<modele nom="FOURGON 0.8">
+<type>ANM8D1</type>
+</modele>
+</marque>
+<marque nom="ASTON MARTIN">
+<modele nom="CYGNET 1.3 VVT">
+<type>MH11</type>
+</modele>
+<modele nom="DB7 3.2 COUPE">
+<type>*</type>
+</modele>
+<modele nom="DB7 6.0 CABRIOLET">
+<type>*</type>
+</modele>
+<modele nom="DB7 6.0 COUPE/6.0 GT COUPE">
+<type>*</type>
+</modele>
+<modele nom="DB9 5.9 COUPE">
+<type>FDAAM2</type>
+<type>VF3CU9HP0</type>
+</modele>
+<modele nom="DB9/DB9 VOLANTE">
+<type>*</type>
+</modele>
+<modele nom="DBS 5.9 COUPE/DBS 5.9 VOLANTE">
+<type>*</type>
+<type>AD06D3</type>
+</modele>
+<modele nom="RAPIDE 5.9">
+<type>*</type>
+</modele>
+<modele nom="RAPIDE S 5.9">
+<type>HDDAT1</type>
+<type>VH1G4L4TAAE</type>
+</modele>
+<modele nom="V8 VANTAGE 4.3 COUPE/CABRIOLET">
+<type>BF03B</type>
+</modele>
+<modele nom="V8 VANTAGE 4.7 COUPE/CABRIOLET">
+<type>BF03C9</type>
+</modele>
+<modele nom="V8 VANTAGE N430 4.7 COUPE">
+<type>GBBAL3</type>
+</modele>
+<modele nom="V8 VANTAGE S 4.7 COUPE">
+<type>EKBDL6</type>
+<type>KBDL6EGC</type>
+</modele>
+<modele nom="VANQUISH 6.0/6.0 SSM COUPE">
+<type>*</type>
+</modele>
+<modele nom="VIRAGE COUPE V8">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="AUDI">
+<modele nom="100 1.8">
+<type>43YV2</type>
+<type>44</type>
+<type>44DR2</type>
+<type>44DS2</type>
+<type>44DS3</type>
+<type>44NP2</type>
+</modele>
+<modele nom="100 2.0 E">
+<type>43WA</type>
+<type>43WB</type>
+<type>44KP2</type>
+<type>44KP3</type>
+<type>44RT2</type>
+<type>44RT3</type>
+<type>44WC</type>
+</modele>
+<modele nom="100 2.2">
+<type>44KU2</type>
+<type>44KU3</type>
+</modele>
+<modele nom="100 2.3 E /5000 SI">
+<type>44</type>
+<type>44KV</type>
+<type>44NF2</type>
+<type>44NF3</type>
+<type>4AZOH4</type>
+<type>HD044</type>
+</modele>
+<modele nom="100 2.4 D">
+<type>C4AAS2</type>
+</modele>
+<modele nom="100 2.5 TDI">
+<type>441T2</type>
+<type>4A20N2</type>
+<type>C4</type>
+<type>C4AAT4</type>
+<type>Q4AAT4</type>
+</modele>
+<modele nom="100 2.8 V6">
+<type>C4AAH2</type>
+<type>C4AAH4</type>
+</modele>
+<modele nom="100 AVANT 1.8 7 CV (BREAK)">
+<type>445DS2</type>
+<type>445NP2</type>
+</modele>
+<modele nom="100 AVANT 2.0 E (BREAK)">
+<type>445RT2</type>
+<type>445RT3</type>
+</modele>
+<modele nom="100 AVANT 2.2 E (BREAK)">
+<type>445KU2</type>
+<type>445KU3</type>
+</modele>
+<modele nom="100 AVANT 2.3 E (BREAK)">
+<type>445NF2</type>
+<type>445NF3</type>
+</modele>
+<modele nom="100 AVANT DIES TBO (BREAK)">
+<type>445DE2</type>
+<type>445DN2</type>
+<type>445NC2</type>
+</modele>
+<modele nom="100 AVANT DIESEL (BREAK)">
+<type>4453D2</type>
+<type>445CN2</type>
+<type>44CN2</type>
+</modele>
+<modele nom="100 AVANT QUATRO TURBO SP (BREAK)">
+<type>445MC2Q</type>
+</modele>
+<modele nom="100 AVANT QUATRO/CS QUATRO (BREAK)">
+<type>445KU2Q</type>
+<type>445NF2Q</type>
+</modele>
+<modele nom="100 AVANT TURBO SPORT (BREAK)">
+<type>445MC2</type>
+<type>445MC3</type>
+</modele>
+<modele nom="100 DIES/ DIES TBO">
+<type>43CN1</type>
+<type>43CN2</type>
+<type>44</type>
+<type>443D2</type>
+<type>44CN</type>
+<type>44CN1</type>
+<type>44CN2</type>
+<type>44CN21</type>
+<type>44DE</type>
+<type>44DE2</type>
+<type>44DE3</type>
+<type>44K42</type>
+<type>44KU</type>
+<type>44KU2</type>
+<type>44NC2</type>
+<type>44ZN</type>
+</modele>
+<modele nom="100 QUATRO SPORT">
+<type>44NF22</type>
+<type>44NF2Q</type>
+</modele>
+<modele nom="100 QUATRO TURBO SPORT">
+<type>44MC2Q</type>
+</modele>
+<modele nom="100 QUATRO/CS QUATRO">
+<type>44KU2Q</type>
+<type>44NF2Q</type>
+</modele>
+<modele nom="200 QUATRO">
+<type>445KG2Q</type>
+<type>4471B2Q</type>
+<type>44KG2A</type>
+</modele>
+<modele nom="200 QUATRO 20 V">
+<type>4473B2Q</type>
+<type>447KG2A</type>
+</modele>
+<modele nom="200 QUATRO AVANT 20 V (BREAK)">
+<type>4453B22</type>
+<type>4453B2Q</type>
+</modele>
+<modele nom="200 TURBO">
+<type>43</type>
+<type>43WJ2</type>
+<type>44</type>
+<type>4471B2</type>
+<type>4472B3</type>
+<type>44KG2</type>
+<type>44KG3</type>
+</modele>
+<modele nom="80 1.6 DIES/ DIES TBO">
+<type>81</type>
+<type>813191</type>
+<type>81CR</type>
+<type>81CR1</type>
+<type>81CR2</type>
+<type>81CY</type>
+<type>81CY2</type>
+<type>81CY2A</type>
+<type>81GR1</type>
+<type>81JK2</type>
+<type>81ZC</type>
+<type>81ZCA</type>
+<type>89</type>
+<type>89JK</type>
+<type>89JK2</type>
+<type>89RA</type>
+<type>89RA2</type>
+<type>89RA21</type>
+<type>89RAZ</type>
+<type>89SB2</type>
+<type>89ZHA</type>
+<type>89ZJA</type>
+<type>89ZK1</type>
+<type>89ZKA</type>
+<type>RA89</type>
+</modele>
+<modele nom="80 1.8">
+<type>81DZ2</type>
+<type>85DS2</type>
+<type>85DS3</type>
+<type>89</type>
+<type>89DZ2</type>
+<type>89NE2</type>
+<type>89NE3</type>
+<type>89RU2</type>
+<type>8A20P2</type>
+</modele>
+<modele nom="80 1.9 D/TD/TDI CABRIOLET ">
+<type>89</type>
+<type>8G</type>
+</modele>
+<modele nom="80 1.9 DIESEL">
+<type>81</type>
+<type>891Y</type>
+<type>891Y2</type>
+</modele>
+<modele nom="80 1.9 TD/TDI">
+<type>44</type>
+<type>8C17</type>
+<type>8C1Z</type>
+<type>8C20W4</type>
+<type>8CAAZ</type>
+<type>B4</type>
+<type>B41Z2</type>
+<type>B41Z4</type>
+<type>B4AA72</type>
+<type>B4AAZ2</type>
+</modele>
+<modele nom="80 1.9 TDI AVANT (BREAK)">
+<type>8C50X4</type>
+<type>B4</type>
+</modele>
+<modele nom="80 2.0 AVANT (BREAK)">
+<type>B4</type>
+<type>B4ABT2</type>
+<type>BAADA2</type>
+</modele>
+<modele nom="80 2.0 E">
+<type>893A2</type>
+<type>89AAD2</type>
+<type>89AAD3</type>
+<type>B4</type>
+<type>B4ABK2</type>
+<type>B4ABK4</type>
+<type>B4ACE2</type>
+</modele>
+<modele nom="80 2.3 E">
+<type>8CNG</type>
+<type>B4</type>
+</modele>
+<modele nom="80 2.6 AVANT">
+<type>BAABC2, BAABC4A </type>
+</modele>
+<modele nom="80 2.8 E V6">
+<type>B4</type>
+<type>B4AAH2</type>
+</modele>
+<modele nom="80 CC/CD/GL/GLS/L/LS">
+<type>80N</type>
+<type>81</type>
+<type>813131</type>
+<type>813231</type>
+<type>814P1</type>
+<type>814Z1</type>
+<type>814Z2</type>
+<type>81DS</type>
+<type>81DS1</type>
+<type>81DS2</type>
+<type>81DS3</type>
+<type>81DT1</type>
+<type>81DT2</type>
+<type>81DT3</type>
+<type>81EP1A</type>
+<type>81FZ</type>
+<type>81FZ1</type>
+<type>81JS2</type>
+<type>81WN2</type>
+<type>81WN3</type>
+<type>81YN</type>
+<type>81YP1</type>
+<type>81YP2</type>
+<type>81YZ1</type>
+<type>89RN</type>
+<type>89RN2</type>
+<type>8CAAZ</type>
+<type>92YP1</type>
+</modele>
+<modele nom="80 QUATRO 1.8/1.8 CABRIOLET">
+<type>81</type>
+<type>81DZ24Q</type>
+<type>89DZ2</type>
+<type>89DZ2Q</type>
+<type>8G</type>
+</modele>
+<modele nom="80 QUATRO 2.0 E">
+<type>85DS</type>
+<type>85DS2Q</type>
+<type>893A2Q</type>
+<type>B4ABK2Q</type>
+<type>B4LACE2Q</type>
+</modele>
+<modele nom="80 QUATRO 2.2">
+<type>85</type>
+</modele>
+<modele nom="80 RS 2.2 QUATTRO AVANT">
+<type>8C</type>
+<type>BAADU6Q</type>
+</modele>
+<modele nom="80 TBO">
+<type>81DT2</type>
+<type>89</type>
+<type>89RU</type>
+</modele>
+<modele nom="90 2.0 E/2.0">
+<type>81JS224</type>
+<type>81KV24</type>
+<type>81KV240</type>
+<type>89KV2</type>
+<type>89PS2</type>
+</modele>
+<modele nom="90 2.2 E">
+<type>81KV24</type>
+<type>89KV2</type>
+</modele>
+<modele nom="90 2.3 E">
+<type>89NG2</type>
+<type>89NG3</type>
+</modele>
+<modele nom="90 20 V">
+<type>897A2</type>
+</modele>
+<modele nom="90 DIES TBO">
+<type>81CY2</type>
+</modele>
+<modele nom="90 QUATTRO">
+<type>81KV22</type>
+<type>81KV24</type>
+<type>81KV24Q</type>
+<type>81KV2Q</type>
+<type>89KV2Q</type>
+<type>89KZ20</type>
+<type>89KZ2Q</type>
+<type>89NG2Q</type>
+</modele>
+<modele nom="90 QUATTRO 20 S">
+<type>897A2Q</type>
+<type>89NM2Q</type>
+</modele>
+<modele nom="A1 1.2/ TFSI/ SPORTBACK">
+<type>8X</type>
+</modele>
+<modele nom="A1 1.4 TFSI (185CH)">
+<type>8X</type>
+<type>8X7</type>
+</modele>
+<modele nom="A1 1.4/ TFSI/ SPORTBACK">
+<type>8X</type>
+</modele>
+<modele nom="A1 1.6 TDI/COUPE/S LINE/SPORTBACK">
+<type>8X</type>
+</modele>
+<modele nom="A2 1.4">
+<type>8Z</type>
+<type>AZ</type>
+</modele>
+<modele nom="A2 1.4 TDI">
+<type>AZ</type>
+</modele>
+<modele nom="A2 1.6">
+<type>AZ</type>
+</modele>
+<modele nom="A3 1.4 TFSI ">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 1.4 TFSI (140 CH)">
+<type>8V</type>
+</modele>
+<modele nom="A3 1.4 TFSI (TYPE AYJFF)">
+<type>AYJFF</type>
+</modele>
+<modele nom="A3 1.4 TFSI CABRIOLET">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.6">
+<type>8L</type>
+</modele>
+<modele nom="A3 1.6 TDI CABRIOLET">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.6 TDI CABRIOLET S LINE/LUXE">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.6 TDI S LINE/AMBITION LUXE/ SPORTBACK / BREAK">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 1.6 TDI/ SPORTBACK / BREAK">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 1.6/1.6 SPORT BACK">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.8 TFSI ">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.8/TBO">
+<type>8L</type>
+<type>MAUOOOAGN980</type>
+<type>MAUOOOAGS669</type>
+<type>MAUOOOAGT670</type>
+<type>MAUOOOAGY675</type>
+</modele>
+<modele nom="A3 1.9 TDI">
+<type>8L</type>
+<type>MAU000AG0677</type>
+<type>MAUOOOAGU671</type>
+<type>MAUOOOAGV672</type>
+</modele>
+<modele nom="A3 1.9 TDI / SPORT BACK (TYPE 8P)">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.9 TDI CABRIOLET">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.9 TDI CABRIOLET S LINE/LUXE">
+<type>8P</type>
+</modele>
+<modele nom="A3 2.0 TDI CABRIOLET/S TRONIC/S LINE/AMBITION LUXE">
+<type>8P</type>
+</modele>
+<modele nom="A3 2.0 TDI QUATTRO/SPORTBACK QUATTRO/S LINE/A.LUXE">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 2.0 TDI/A3 S3/SPORT BACK/S LINE/AMBITION LUXE">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 2.0 TFSI (200 CV)">
+<type>8P</type>
+</modele>
+<modele nom="A3 2.0 TFSI (265 CV)/A3 S3">
+<type>8P</type>
+</modele>
+<modele nom="A3 3.2 QUATTRO 4X4/ BREAK">
+<type>8L</type>
+<type>8P</type>
+<type>8P1B19</type>
+<type>8P1B1L</type>
+<type>8PAB19</type>
+<type>8PAB1L</type>
+</modele>
+<modele nom="A3 S3 1.8 TBO/S3/QUATTRO/COUPE/BERLINE">
+<type>1AB882</type>
+<type>MAU2961G2681</type>
+</modele>
+<modele nom="A3 S3 1.9 TDI">
+<type>8P</type>
+</modele>
+<modele nom="A4 1.6">
+<type>8D</type>
+<type>8E</type>
+<type>B5LADP2</type>
+<type>B5LADP4</type>
+</modele>
+<modele nom="A4 1.8 20V QUATTRO">
+<type>8D</type>
+<type>B5LADR2Q</type>
+</modele>
+<modele nom="A4 1.8 AMBITION LUXE/BREAK">
+<type>8K</type>
+</modele>
+<modele nom="A4 1.8 AVANT (BREAK)">
+<type>8D</type>
+<type>8E</type>
+<type>MAU000AF2</type>
+<type>MAUOOOAF3</type>
+</modele>
+<modele nom="A4 1.8 TBO AVANT (BREAK)">
+<type>8D</type>
+<type>8E</type>
+<type>MAU000AFC</type>
+<type>MAUOOOAFO</type>
+</modele>
+<modele nom="A4 1.8 TBO QUATTRO/ 1.8 20V TBO">
+<type>8E</type>
+<type>B5LAEB2Q</type>
+</modele>
+<modele nom="A4 1.8 TURBO/1.8 TURBO 20V">
+<type>8D</type>
+<type>B5LAEB</type>
+<type>B5LAEB2</type>
+<type>B5LAEB5</type>
+</modele>
+<modele nom="A4 1.8/1.8 20V">
+<type>8D</type>
+<type>8E</type>
+<type>B5LADR2</type>
+<type>B5LADR4</type>
+</modele>
+<modele nom="A4 1.8/BREAK">
+<type>8K</type>
+</modele>
+<modele nom="A4 1.8T CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 1.9 DI/AVANT">
+<type>8D</type>
+<type>8E</type>
+<type>MAUOOOAF</type>
+</modele>
+<modele nom="A4 1.9 TDI">
+<type>8D</type>
+<type>8E</type>
+<type>B51LZTA</type>
+<type>B5L1Z2</type>
+<type>B5L1Z4</type>
+<type>B5LAFN</type>
+<type>MAU5442FD745</type>
+</modele>
+<modele nom="A4 1.9 TDI /AVANT(BREAK)/QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 1.9 TDI SLINE/PACK +/A.LUXE/AVANT(BK)/QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.0 /BREAK">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.0 TDI ALLROAD /S LINE/BREAK/QUATTRO">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TDI ALLROAD AMBITION LUXE/ QUATTRO">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TDI AMBITION LUXE/ QUATTRO/ BREAK">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TDI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.0 TDI/S LINE/AMBITION LUXE/BREAK/AVANT">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.0 TDI/S LINE/BREAK / QUATTRO (TYPE 8K)">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TFSI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.0 TFSI CABRIOLET LUXE">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.0 TFSI/2.0 T/QUATTRO">
+<type>AF78E</type>
+<type>AFAFL</type>
+<type>DF78E8</type>
+<type>EF78E</type>
+<type>LF78K</type>
+</modele>
+<modele nom="A4 2.4">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.4 CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.5 TDI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.5 TDI QUATTRO/BRK QUATTRO">
+<type>8D</type>
+<type>8E</type>
+</modele>
+<modele nom="A4 2.5 TDI/BRK">
+<type>8D</type>
+<type>8E</type>
+</modele>
+<modele nom="A4 2.7 TDI S LINE PLUS">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.7 TDI/S LINE/AMBITION LUXE/AVANT">
+<type>8E</type>
+<type>8K</type>
+</modele>
+<modele nom="A4 2.8">
+<type>8D</type>
+<type>8E</type>
+<type>C4AAH2</type>
+<type>C4AAH4A</type>
+</modele>
+<modele nom="A4 2.8 AVANT (BREAK)">
+<type>8D</type>
+<type>8E</type>
+<type>MAUOOOAFS</type>
+<type>MAUOOOAFT</type>
+</modele>
+<modele nom="A4 2.8 AVANT QUATTRO (BREAK)">
+<type>8D</type>
+<type>MAU000AFV</type>
+</modele>
+<modele nom="A4 2.8 QUATTRO">
+<type>8D</type>
+<type>B5LAAH2Q</type>
+<type>B5LAAH5Q</type>
+</modele>
+<modele nom="A4 3.0">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 AVANT ( BREAK)">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 AVANT QUATTRO ( BREAK )">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 AVANT QUATTRO (TYPE VT)">
+<type>VT58E</type>
+<type>VT68E</type>
+</modele>
+<modele nom="A4 3.0 CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 3.0 QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 QUATTRO 4X4 CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 3.0 TDI ALLROAD QUATTRO">
+<type>8K</type>
+</modele>
+<modele nom="A4 3.0 TDI ALLROAD QUATTRO AMBITION LUXE">
+<type>8K</type>
+</modele>
+<modele nom="A4 3.0 TDI AVANT QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 TDI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 3.0 TDI QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 TDI QUATTRO AMBITION LUXE/BREAK (TYPE 8K)">
+<type>8K</type>
+</modele>
+<modele nom="A4 3.0 TDI QUATTRO/BREAK (TYPE 8K)">
+<type>8K</type>
+</modele>
+<modele nom="A4 S4 4.2 AVANT QUATTRO (BREAK)">
+<type>8EDS49</type>
+<type>8EDS4L</type>
+</modele>
+<modele nom="A4 S4 4.2 AVANT QUATTRO (BREAK) (TYPE 8D)">
+<type>8D</type>
+</modele>
+<modele nom="A4 S4 4.2 CABRIOLET QUATTRO">
+<type>8H7S49</type>
+<type>8H7S4L</type>
+</modele>
+<modele nom="A4 S4 4.2 QUATTRO">
+<type>8ECS49</type>
+<type>8ECS4L</type>
+</modele>
+<modele nom="A4 S4 4.2 QUATTRO (TYPE 8D)">
+<type>8D</type>
+</modele>
+<modele nom="A5 1.8">
+<type>8T98A0</type>
+</modele>
+<modele nom="A5 1.8 TFSI AVUS/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 1.8 TFSI S LINE/AMBITION LUXE/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 1.8 TFSI/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TDI CABRIOLET">
+<type>8F</type>
+</modele>
+<modele nom="A5 2.0 TDI CABRIOLET SLINE/AMBITION LUXE/AVUS">
+<type>8F</type>
+</modele>
+<modele nom="A5 2.0 TDI S LINE/AMBITION LUXE/SPORTBACK/QUATR">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TDI/QUATTRO/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TFSI S LINE/AMBITION LUXE/LINE PLUS/QUATTRO">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TFSI/QUATTRO">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TFSI/QUATTRO (TYPE CF/LF)">
+<type>CFAFR</type>
+<type>LFAFR</type>
+</modele>
+<modele nom="A5 2.7 TDI/S LINE/AMBITION LUXE">
+<type>8T</type>
+</modele>
+<modele nom="A5 3.0 TDI /QUATTRO/COUPE/S LINE/AMBITION LUXE">
+<type>8T</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET AMBIENTE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET AVUS">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET LUXE/S LINE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET QUATTRO AMBIENTE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET QUATTRO AVUS">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET QUATTRO LUXE/ S LINE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.2 COUPE/QUATTRO">
+<type>8T</type>
+</modele>
+<modele nom="A6 1.8">
+<type>C4ADR2</type>
+<type>C4ADR4</type>
+</modele>
+<modele nom="A6 1.8 AVANT (BREAK)">
+<type>CAADR2</type>
+<type>CAADR4</type>
+</modele>
+<modele nom="A6 1.8T">
+<type>*</type>
+</modele>
+<modele nom="A6 1.8T QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 1.9 TDI">
+<type>4B</type>
+<type>4B2014</type>
+<type>C41Z2</type>
+<type>C41Z4</type>
+</modele>
+<modele nom="A6 1.9 TDI AVANT (BREAK)">
+<type>CA1Z2</type>
+<type>CA1Z4</type>
+</modele>
+<modele nom="A6 2.0">
+<type>C4ABK2</type>
+<type>C4ABK4A</type>
+</modele>
+<modele nom="A6 2.0 AVANT (BREAK)">
+<type>CAABK2</type>
+<type>CAABK4A</type>
+</modele>
+<modele nom="A6 2.0 TDI AVUS/S LINE/ AMBITION/AVANT(TYPE 4G/4F)">
+<type>4F</type>
+<type>4G</type>
+</modele>
+<modele nom="A6 2.0 TDI/AVANT/BREAK (TYPES 4G/4F)">
+<type>4F</type>
+<type>4G</type>
+</modele>
+<modele nom="A6 2.0 TFSI (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.0 TFSI AMBITION LUXE/EXCLUSIVE LINE (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.0/QUATTRO/ PREMIUM/PREMIUM PLUS">
+<type>AFCFC</type>
+<type>FFAFC</type>
+<type>GFAFC</type>
+</modele>
+<modele nom="A6 2.4">
+<type>4B</type>
+<type>4F</type>
+</modele>
+<modele nom="A6 2.4 AVANT (BREAK)">
+<type>4B</type>
+</modele>
+<modele nom="A6 2.4 AVANT QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 2.4 LUXE/EXCLUSIVE LINE">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.4 QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 2.5 TDI">
+<type>4B</type>
+<type>C4AAT2</type>
+<type>C4AAT4</type>
+<type>C4AEL2</type>
+<type>C4AEL4</type>
+<type>C4AEL6</type>
+</modele>
+<modele nom="A6 2.5 TDI AVANT (BREAK)">
+<type>4B</type>
+<type>CAAAT2</type>
+<type>CAAAT4</type>
+<type>CAAEL2</type>
+<type>CAAEL4</type>
+<type>CAAEL6</type>
+</modele>
+<modele nom="A6 2.5 TDI AVANT QUATTRO (BREAK)">
+<type>CAAEL6Q</type>
+</modele>
+<modele nom="A6 2.5 TDI QUATTRO">
+<type>4B</type>
+<type>C4AEL6Q</type>
+</modele>
+<modele nom="A6 2.6">
+<type>C4ABC2</type>
+<type>C4ABC4</type>
+</modele>
+<modele nom="A6 2.6 AVANT (BREAK)">
+<type>CAABC2</type>
+<type>CAABC4</type>
+</modele>
+<modele nom="A6 2.7 T BREAK QUATTRO/ALLROAD 4X4">
+<type>4BHD7T</type>
+</modele>
+<modele nom="A6 2.7 TDI AMBITION LUX/EXCLUSIVE LINE/QUATTRO">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.7 TDI AVANT AMBITION LUXE/EXCLU LINE/QUATTRO">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.7 TDI AVANT/QUATTRO/S LINE">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.7 TDI/QUATTRO/S LINE">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.8">
+<type>C4AAH2</type>
+<type>C4AAH4A</type>
+<type>C4ACK2</type>
+<type>C4ACK4</type>
+<type>C4AKC2</type>
+<type>C4AKC4</type>
+</modele>
+<modele nom="A6 2.8 AVANT (BREAK)">
+<type>CAAAH2</type>
+<type>CAAAH4A</type>
+<type>CAACK2</type>
+<type>CAACK4</type>
+</modele>
+<modele nom="A6 2.8 V6 AVANT QUATTRO (BREAK)">
+<type>CAAAH2Q</type>
+<type>CAAAH4Q</type>
+<type>CAACK2Q</type>
+<type>CAACK4Q</type>
+</modele>
+<modele nom="A6 2.8 V6 QUATTRO">
+<type>C4AAH2Q</type>
+<type>C4AAH4Q</type>
+<type>C4ACK2Q</type>
+<type>C4ACK4Q</type>
+</modele>
+<modele nom="A6 3.0">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 ALLROAD QUATTRO/QUATTRO TIPTRONIC">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.0 AVANT">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 AVANT QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 BITDI AVUS/TDI 313CH/AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 BITDI/TDI 313CH/AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 TDI / QUATTRO/ AMBIENTE/AMBITION/S LINE ">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI AVUS AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI AVUS/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI QUATTRO (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.0 TDI QUATTRO LUXE/EXCLUSIVE LINE (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.2 FSI A.LUXE/EX.LINE/AVUS/QUATTRO/ALLROAD/BK ">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.2 FSI/QUATTRO/ALLROAD/BREAK">
+<type>4F</type>
+</modele>
+<modele nom="A6 4.2 ALLROAD QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 4.2 RS6 QUATTRO/AVANT (BREAK)">
+<type>*</type>
+</modele>
+<modele nom="A6 S6 2.2 QUATTRO">
+<type>C4AAN2Q</type>
+<type>C4AAN4Q</type>
+<type>C4AAN6Q</type>
+</modele>
+<modele nom="A6 S6 2.2 TBO 6V AVANT QUATTRO (BREAK)">
+<type>CAAAN2Q</type>
+<type>CAAAN4Q</type>
+<type>CAAAN6Q</type>
+</modele>
+<modele nom="A6 S6 4.2 V8 AVANT QUATTRO (BREAK)">
+<type>CAAEC4Q</type>
+<type>CAAEC6Q</type>
+<type>Q1AAHK6</type>
+</modele>
+<modele nom="A6 S6 4.2 V8 QUATTRO">
+<type>C4AEC4Q</type>
+<type>C4AEC6Q</type>
+<type>Q1LAHK6</type>
+</modele>
+<modele nom="A6 S6 TBO 6V QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 V8 4.2 / QUATTRO/AVANT (BREAK)">
+<type>*</type>
+</modele>
+<modele nom="A7 3.0 TDI SPORTBACK 204CH AVUS/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A7 3.0 TDI SPORTBACK 204CH/QUATTRO/A.LUXE">
+<type>4G</type>
+</modele>
+<modele nom="A7 3.0 TDI SPORTBACK QUATTRO AVUS 245CH/313CH">
+<type>4G</type>
+</modele>
+<modele nom="A7 3.0 TDI SPOTBACK QUATTRO 245/313CH/A.LUXE/SLINE">
+<type>4G</type>
+</modele>
+<modele nom="A8 2.5 TDI">
+<type>MAUOO1ABP246</type>
+</modele>
+<modele nom="A8 2.5 TDI AVUS">
+<type>MAUOO1ABL242</type>
+</modele>
+<modele nom="A8 2.5 TDI AVUS QUATTRO">
+<type>MAUOO1ABT250</type>
+</modele>
+<modele nom="A8 2.5 TDI QUATTRO">
+<type>MAUOO1ABT250</type>
+</modele>
+<modele nom="A8 2.8 V6 QUATTRO">
+<type>D2LAAH2Q</type>
+<type>D2LAAH5Q</type>
+</modele>
+<modele nom="A8 2.8/2.8 V6">
+<type>D2LAAH2</type>
+<type>D2LAAH4</type>
+<type>D2LAAH5</type>
+</modele>
+<modele nom="A8 3.0 TDI AVUS QUATTRO (TYPE 4E)">
+<type>4E204L</type>
+<type>4E806L</type>
+</modele>
+<modele nom="A8 3.0 TDI AVUS/QUATTRO/LIMOUSINE">
+<type>4H</type>
+<type>4HC0UA</type>
+</modele>
+<modele nom="A8 3.0 TDI QUATTRO (TYPE 4E)">
+<type>4E204L</type>
+</modele>
+<modele nom="A8 3.0 TDI/QUATTRO/LIMOUSINE">
+<type>4H</type>
+<type>4HC0UA</type>
+</modele>
+<modele nom="A8 3.0/QUATTRO">
+<type>AGAFD</type>
+<type>RGAFD</type>
+<type>YGBFD</type>
+</modele>
+<modele nom="A8 3.7 V8">
+<type>D2LAEWS</type>
+</modele>
+<modele nom="A8 3.7 V8 AVUS QUATTRO">
+<type>4E202L</type>
+</modele>
+<modele nom="A8 3.7 V8 QUATTRO">
+<type>4E202L</type>
+<type>MAUOOOAB3455</type>
+</modele>
+<modele nom="A8 4,2/A8L 4,2 (TYPE 4H)">
+<type>4H</type>
+</modele>
+<modele nom="A8 4.0 LIMOUSINE TFSI QUATTRO ">
+<type>4H80CA</type>
+</modele>
+<modele nom="A8 4.0 QUATTRO (TYPES R2/Y2)">
+<type>R2BFD</type>
+<type>Y2BFD</type>
+</modele>
+<modele nom="A8 4.0 TDI AVUS QUATTRO">
+<type>4E203L</type>
+</modele>
+<modele nom="A8 4.0 TDI LIMOUSINE AVUS QUATTRO">
+<type>4E803L</type>
+</modele>
+<modele nom="A8 4.0 TDI QUATTRO">
+<type>4E203L</type>
+</modele>
+<modele nom="A8 4.2 QUATTRO">
+<type>LV44E</type>
+<type>ML54D</type>
+<type>MV44E</type>
+<type>MV94E</type>
+</modele>
+<modele nom="A8 4.2 TDI">
+<type>4H</type>
+</modele>
+<modele nom="A8 4.2 TDI AVUS">
+<type>4H</type>
+</modele>
+<modele nom="A8 4.2 V8 AVUS QUATTRO">
+<type>4E201L</type>
+</modele>
+<modele nom="A8 4.2 V8 LIMOUSINE AVUS QUATTRO">
+<type>4E801L</type>
+</modele>
+<modele nom="A8 4.2 V8 QUATTRO">
+<type>4E201L</type>
+<type>D2LABZ4Q</type>
+</modele>
+<modele nom="A8 6.0 AVUS QUATTRO">
+<type>4E20CL</type>
+</modele>
+<modele nom="A8 6.0 LIMOUSINE AVUS QUATTRO">
+<type>4E80CL</type>
+</modele>
+<modele nom="A8 6.3 LIMOUSINE FSI W12 QUATTRO">
+<type>4H</type>
+<type>4H80GA</type>
+</modele>
+<modele nom="A8 S8 FSI 5.2">
+<type>4EX7N0</type>
+</modele>
+<modele nom="ALLROAD QUATTRO 2.5 TDI/BREAK">
+<type>4B</type>
+</modele>
+<modele nom="CABRIOLET 1.9 TDI">
+<type>8G</type>
+<type>BC1Z2</type>
+</modele>
+<modele nom="CABRIOLET 2.0 E">
+<type>ABK2K</type>
+<type>BCABK2</type>
+</modele>
+<modele nom="CABRIOLET 2.3L">
+<type>BCNG</type>
+<type>BCNG2</type>
+<type>BCNG4</type>
+</modele>
+<modele nom="CABRIOLET 2.6 V6">
+<type>BCABC2</type>
+<type>BCABC4</type>
+</modele>
+<modele nom="CABRIOLET 2.6/80">
+<type>BC70MB</type>
+</modele>
+<modele nom="CABRIOLET 2.8">
+<type>AGE251</type>
+<type>BCAAH2</type>
+<type>BCAAH4</type>
+</modele>
+<modele nom="COUPE 2.0 E/2.2 E/2.3 E">
+<type>8953A2</type>
+<type>8953A3</type>
+<type>895KV2</type>
+<type>895NG2</type>
+<type>89ABK2K</type>
+<type>BBABK2</type>
+<type>BBABK4A</type>
+</modele>
+<modele nom="COUPE 2.2 S2 TBO/2.2 QUATTRO 4X4">
+<type>BBABY6Q</type>
+</modele>
+<modele nom="COUPE 2.3E/2.3E QUATTRO">
+<type>8957A2</type>
+<type>8957A2Q</type>
+<type>895NG22</type>
+<type>895NG2Q</type>
+</modele>
+<modele nom="COUPE 2.6 V6">
+<type>BBABC2</type>
+<type>BBABC4A</type>
+</modele>
+<modele nom="Q3 2.0 TDI ">
+<type>8U</type>
+</modele>
+<modele nom="Q3 2.0 TDI QUATTRO/ S LINE/ LUXE">
+<type>8U</type>
+</modele>
+<modele nom="Q3 2.0 TFSI (211CH)/AMBITION LUXE/S LINE">
+<type>8U</type>
+</modele>
+<modele nom="Q3 2.0 TFSI/AMBITION LUXE/S LINE">
+<type>8U</type>
+</modele>
+<modele nom="Q5 2.0 T QUATTRO">
+<type>WFCFP</type>
+</modele>
+<modele nom="Q5 2.0 TDI AMBITION LUXE/S LINE/AVUS/QUATTRO S TRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TDI/QUATTRO S TRONIC">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TFSI AMBITION LUXE/S LINE/AVUS/QUATTRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TFSI/QUATTRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TFSI/QUATTRO/PREMIUM/PREMIUM PLUS">
+<type>CFAFP</type>
+<type>LFAFP</type>
+</modele>
+<modele nom="Q5 3.0 TDI/QUATTRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 3.0 TDI/QUATTRO/LUXE/S LINE/AVUS">
+<type>8R</type>
+</modele>
+<modele nom="Q5 3.2 QUATTRO/PREMIUM PLUS">
+<type>CKBFP</type>
+<type>DKAFP</type>
+<type>LKAFP</type>
+</modele>
+<modele nom="Q5 3.2/QUATTRO">
+<type>KF98R</type>
+<type>KK58R</type>
+<type>KK68R</type>
+<type>KK78R</type>
+</modele>
+<modele nom="Q7 3.0 T PREMIUM">
+<type>CGAFE</type>
+</modele>
+<modele nom="Q7 3.0 T PREMIUM PLUS">
+<type>LGAFE</type>
+</modele>
+<modele nom="Q7 3.0 T SLINE PRESTIGE">
+<type>AGD4L</type>
+<type>AGDFE</type>
+<type>DGAFE</type>
+</modele>
+<modele nom="Q7 3.0 TDI AVUS (TYPE 4M)">
+<type>4M</type>
+</modele>
+<modele nom="Q7 3.0 TDI AVUS/QUATTRO (4LBOQA/4LBOWA/4L2BD0)">
+<type>4L2BD0</type>
+<type>4LBOQA</type>
+<type>4LBOWA</type>
+</modele>
+<modele nom="Q7 3.0 TDI AVUS/QUATTRO/DPF">
+<type>4EBOFL</type>
+<type>4LB0FL</type>
+<type>4LB0UL</type>
+<type>4LB5BL</type>
+<type>4LB7BL</type>
+<type>4LBOHL</type>
+<type>4LBOML</type>
+<type>4LBOPL</type>
+</modele>
+<modele nom="Q7 3.0 TDI QUATTRO PREMIUM/PRESTGE(TYPE CM/LM/MM)">
+<type>CMAFE</type>
+<type>LMAFE </type>
+<type>MMAFE</type>
+<type>MMAFE2</type>
+</modele>
+<modele nom="Q7 3.0 TDI QUATTRO S LINE (TYPE CM/LM/MM)">
+<type>CMAFE</type>
+<type>LMAFE</type>
+<type>MMAFE</type>
+<type>MMAFE2</type>
+</modele>
+<modele nom="Q7 3.0 TDI QUATTRO/S LINE/DPF">
+<type>4EBOFL</type>
+<type>4LB0EL</type>
+<type>4LB0UL</type>
+<type>4LB5BL</type>
+<type>4LB7BL</type>
+<type>4LBOFL</type>
+<type>4LBOML</type>
+<type>4LBOPL</type>
+</modele>
+<modele nom="Q7 3.0 TDI/ S LINE/ AMBI LUXE (TYPE 4M)">
+<type>4M</type>
+</modele>
+<modele nom="Q7 3.0 TDI/AMBITIO LUX/S LINE/QUAT(4LBOQA/4LBOWA) ">
+<type>4L2BD0</type>
+<type>4LBOQA</type>
+<type>4LBOWA</type>
+</modele>
+<modele nom="Q7 3.0 TDI/QUATTRO (TYPE CM/LM/MM)">
+<type>CMAFE</type>
+<type>LMAFE5</type>
+<type>MMAFE</type>
+<type>MMAFE2</type>
+</modele>
+<modele nom="Q7 3.6 QUATTRO">
+<type>AY54L</type>
+<type>AY74L</type>
+<type>BY74L</type>
+<type>CYAFE</type>
+</modele>
+<modele nom="Q7 4.2 FSI QUATTRO">
+<type>4LB0EL</type>
+</modele>
+<modele nom="Q7 4.2 FSI QUATTRO (TYPE AV ET BV)">
+<type>AV54L</type>
+<type>BV74L</type>
+</modele>
+<modele nom="Q7 4.2 TDI (326 CH)/AVUS ">
+<type>4L</type>
+<type>4LBOGL</type>
+</modele>
+<modele nom="Q7 6.0 TDI">
+<type>4L</type>
+</modele>
+<modele nom="R8 4.2 ">
+<type>42</type>
+</modele>
+<modele nom="R8 4.2 R TRONIC">
+<type>42</type>
+</modele>
+<modele nom="R8 5.2 QUATTRO/R TRONIC">
+<type>42</type>
+</modele>
+<modele nom="R8 5.2 SPYDER/R TRONIC">
+<type>42</type>
+</modele>
+<modele nom="RS3 2.5 TFSI/SPORTBACK/QUATTRO">
+<type>8P</type>
+<type>8PARSY</type>
+</modele>
+<modele nom="RS4 4.2 QUATTRO AVANT ">
+<type>8K</type>
+</modele>
+<modele nom="RS4 4.2 QUATTRO CABRIOLET">
+<type>*</type>
+</modele>
+<modele nom="RS4 4.2 QUATTRO/BREAK">
+<type>8E</type>
+</modele>
+<modele nom="RS4 BITURBO 4X4 2.7 (BREAK)">
+<type>B5</type>
+</modele>
+<modele nom="RS5 4.2 FSI QUATTRO COUPE">
+<type>8T</type>
+</modele>
+<modele nom="RS6 4.0 TFSI">
+<type>4G</type>
+</modele>
+<modele nom="RS6 5.0 QUATTRO BREAK">
+<type>4F</type>
+</modele>
+<modele nom="RSQ3 2.5 TFSI">
+<type>8U</type>
+</modele>
+<modele nom="S1 2.0 TFSI/ SPORTBACK/ QUATTRO">
+<type>8X</type>
+</modele>
+<modele nom="S3 2.0 TFSI/ SPORTBACK">
+<type>8V</type>
+</modele>
+<modele nom="S4 2.7 BITURBO 4X4 V6">
+<type>*</type>
+</modele>
+<modele nom="S4 3.0 QUATTRO">
+<type>KGAFL</type>
+</modele>
+<modele nom="S4 3.0 TFSI">
+<type>8K</type>
+</modele>
+<modele nom="S5 3.0 CABRIOLET">
+<type>8F</type>
+</modele>
+<modele nom="S5 4.2 FSI QUATTRO COUPE">
+<type>8T</type>
+</modele>
+<modele nom="S5 4.2 QUATTRO COUPE">
+<type>RV78T</type>
+<type>VAAFR</type>
+</modele>
+<modele nom="S5 4.2/4.2 FSI">
+<type>8T</type>
+</modele>
+<modele nom="S5 SPORTBACK 3.0 ">
+<type>8T</type>
+</modele>
+<modele nom="S6 4.2 V8 QUATTRO/S6 4.2 V8 QUATTRO AVANT BREAK">
+<type>4F47N0</type>
+</modele>
+<modele nom="S8 4.0 TFSI QUATTRO/520 SPORT/TIPTRONIC 8 SPORT">
+<type>4H</type>
+</modele>
+<modele nom="S8 4.2/AVUS/QUATTRO">
+<type>4D</type>
+</modele>
+<modele nom="SQ5 3.0 TDI /QUATTRO/BITDI">
+<type>8R</type>
+</modele>
+<modele nom="SQ5 3.0 TDI EXCLUSIVE CONCEPT QUATTRO/BITDI">
+<type>8R</type>
+</modele>
+<modele nom="TT 1.8  ROADSTER">
+<type>8N9014</type>
+<type>8N9054</type>
+<type>8N905U</type>
+</modele>
+<modele nom="TT 1.8  ROADSTER QUATTRO">
+<type>8N9069</type>
+</modele>
+<modele nom="TT 1.8 COUPE ">
+<type>8N3014</type>
+<type>8N3054</type>
+<type>MAU1821ML916</type>
+</modele>
+<modele nom="TT 1.8 COUPE QUATTRO/S LINE">
+<type>8N3059</type>
+<type>8N3069</type>
+</modele>
+<modele nom="TT 1.8 COUPE S LINE">
+<type>8N3054</type>
+</modele>
+<modele nom="TT 1.8 COUPE TIPTRONIC S LINE">
+<type>8N305U</type>
+</modele>
+<modele nom="TT 1.8 ROADSTER (225 CV)">
+<type>8N9069</type>
+</modele>
+<modele nom="TT 1.8 ROADSTER S LINE">
+<type>8N9054</type>
+</modele>
+<modele nom="TT 1.8 ROADSTER TIPTRONIC S LINE">
+<type>8N905U</type>
+</modele>
+<modele nom="TT 1.8 TFSI COUPE (TYPE 8J)">
+<type>8J</type>
+</modele>
+<modele nom="TT 2.0 TDI COUPE QUATTRO/S LINE">
+<type>8J</type>
+</modele>
+<modele nom="TT 2.0/ROADSTER/QUATTRO">
+<type>8J</type>
+<type>AF38J</type>
+<type>DF38J</type>
+<type>MF28J</type>
+<type>MF38J</type>
+<type>RF38J</type>
+</modele>
+<modele nom="TT 3.2 COUPE QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="TT 3.2 ROADSTER">
+<type>8N90B9</type>
+<type>8N90BL</type>
+</modele>
+<modele nom="TTS 2.0 COUPE">
+<type>8J</type>
+</modele>
+<modele nom="V8 3.6">
+<type>441PT42</type>
+<type>441PT4Q</type>
+<type>441PTA</type>
+</modele>
+</marque>
+<marque nom="AUSTIN ROVER">
+<modele nom="2000 S">
+<type>RRAWB8</type>
+</modele>
+<modele nom="2400/SDT/TD">
+<type>RRAWE</type>
+<type>RRHWE8</type>
+</modele>
+<modele nom="2600">
+<type>RRHWM8</type>
+<type>RRMWM4</type>
+<type>RRMWM8</type>
+</modele>
+<modele nom="3500">
+<type>RRFWV</type>
+</modele>
+<modele nom="MAESTRO 1.3">
+<type>XCHWD2</type>
+<type>XCHWD2AM</type>
+<type>XCMW8</type>
+<type>XCMWD</type>
+<type>XCMWD8AM</type>
+<type>XCSWD2</type>
+<type>XCSWD8</type>
+</modele>
+<modele nom="MAESTRO MG 1.6">
+<type>SCTWY8</type>
+</modele>
+<modele nom="MAESTRO MG 2.0 EFI">
+<type>825L</type>
+<type>825S</type>
+<type>XCTWU</type>
+<type>XCTWU8</type>
+</modele>
+<modele nom="METRO">
+<type>XBANB</type>
+<type>XBFNB</type>
+<type>XBGN</type>
+<type>XBHNB</type>
+<type>XBHND</type>
+<type>XBMND</type>
+<type>XBPNB2</type>
+<type>XBZUD2</type>
+<type>XFDNB2</type>
+<type>XFDWB2</type>
+<type>XFHB2</type>
+<type>XFHNB</type>
+<type>XFHNB2</type>
+<type>XFHNB2BD</type>
+<type>XFHND2</type>
+<type>XFHNM</type>
+<type>XFHWB</type>
+<type>XFHWB2</type>
+<type>XFHWB2BD</type>
+<type>XFHWD2</type>
+<type>XFMND</type>
+<type>XFMNDA</type>
+<type>XFMWD</type>
+<type>XFMWD2</type>
+<type>XFMWD2BD</type>
+<type>XFSWD2</type>
+<type>XFWND2</type>
+<type>XFXND2</type>
+<type>XFYWB2</type>
+<type>XFYWD</type>
+<type>XFYWD2</type>
+</modele>
+<modele nom="METRO VANDEN PALAS">
+<type>XBRND</type>
+<type>XFYWM</type>
+<type>XFYWMN2BD</type>
+<type>XFZWD2</type>
+<type>XFZWM2</type>
+</modele>
+<modele nom="MINI/MARINA">
+<type>12V</type>
+<type>SL2S1S</type>
+<type>XC2S1N</type>
+<type>XFKP32</type>
+<type>XK2S1</type>
+<type>XL2S10</type>
+<type>XL2S1021</type>
+<type>XL2S1R</type>
+<type>XL2S1S1</type>
+<type>XL2S1S21</type>
+<type>XLE</type>
+<type>XNYADR</type>
+</modele>
+<modele nom="MONTEGO 1.3">
+<type>XEHL8</type>
+<type>XEHLD2</type>
+<type>XEHLD8</type>
+<type>XEHLDP</type>
+</modele>
+<modele nom="MONTEGO 1.6">
+<type>XELY8</type>
+<type>XEMLY</type>
+<type>XEMLY8BM</type>
+<type>XEMLYB</type>
+<type>XESLY</type>
+<type>XESLY8</type>
+<type>XESLY81</type>
+<type>XESLY8BM</type>
+<type>XESMY</type>
+<type>XESMY8</type>
+<type>XESMY81</type>
+<type>XESMY8BM</type>
+<type>XEWLY8</type>
+</modele>
+<modele nom="MONTEGO 2.0">
+<type>XEBL48</type>
+<type>XEML8</type>
+<type>XEMLU</type>
+<type>XEMLU8BM</type>
+<type>XEMW8BM</type>
+<type>XESLW</type>
+<type>XESLW8</type>
+<type>XESLW8BM</type>
+<type>XESMW</type>
+<type>XEWLU8</type>
+<type>XEYLU8</type>
+</modele>
+<modele nom="MORRIS">
+<type>*</type>
+</modele>
+<modele nom="SCHMIT">
+<type>A1CTBA</type>
+</modele>
+</marque>
+<marque nom="AUTOBLANCHI">
+<modele nom="1112">
+<type>A11281</type>
+<type>A112B1</type>
+<type>A112B2</type>
+<type>A112B25</type>
+<type>A112E</type>
+</modele>
+<modele nom="A112">
+<type>156AB/156C</type>
+<type>156AB/156C/</type>
+<type>156AB/15C</type>
+<type>A11281</type>
+<type>A112A2</type>
+<type>A112B1</type>
+<type>A112B2</type>
+<type>A112B25</type>
+<type>A112E</type>
+</modele>
+<modele nom="Y10">
+<type>156AB</type>
+<type>156AC</type>
+<type>156B</type>
+<type>156B1</type>
+<type>156C</type>
+<type>156C1</type>
+<type>156D</type>
+</modele>
+</marque>
+<marque nom="AUVERLAND">
+<modele nom="A3">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="AVIA">
+<modele nom="FOURGON VITRE 9 PL">
+<type>96BR</type>
+<type>F35N</type>
+</modele>
+</marque>
+<marque nom="BEDFORD">
+<modele nom="RASCAL 1.0">
+<type>99170</type>
+</modele>
+</marque>
+<marque nom="BENTLEY">
+<modele nom="ARNAGE 4.4">
+<type>LB51E</type>
+</modele>
+<modele nom="CONTINENTAL FLYING SPUR  6.0 (TYPE CBBE)">
+<type>CBBE53W</type>
+</modele>
+<modele nom="CONTINENTAL FLYING SPUR 6.0 ">
+<type>BA63Y8</type>
+</modele>
+<modele nom="CONTINENTAL FLYING SPUR SPEED 6.0 (610CH)">
+<type>BA63Y8</type>
+</modele>
+<modele nom="CONTINENTAL GT 6.0 COUPE">
+<type>CE63W6</type>
+<type>CR63W05</type>
+</modele>
+<modele nom="CONTINENTAL GT 6.0 COUPE (TYPE DF/TYPE FH)">
+<type>DF23W4</type>
+<type>FH63W</type>
+</modele>
+<modele nom="CONTINENTAL GT SPEED 6.0 COUPE (610 CV)">
+<type>*</type>
+</modele>
+<modele nom="CONTINENTAL GT V8 4.0">
+<type>FJ63W</type>
+<type>FN63W</type>
+</modele>
+<modele nom="CONTINENTAL GTC 6.0">
+<type>*</type>
+</modele>
+<modele nom="CONTINENTAL GTC V8 4.0">
+<type>GJ23W</type>
+<type>GN23W</type>
+</modele>
+<modele nom="FLYING SPUR 6.0 W12">
+<type>3W</type>
+<type>EB53W1</type>
+<type>EB53W5</type>
+</modele>
+<modele nom="MULSANNE 6.7">
+<type>BA63Y</type>
+</modele>
+<modele nom="MULSANNE 6.8 (TYPE BB7ZH)">
+<type>BB7ZH</type>
+</modele>
+</marque>
+<marque nom="BERTONE">
+<modele nom="BERTONE 1.5 X 19">
+<type>128AS1</type>
+<type>BSOOA</type>
+</modele>
+<modele nom="FREECLIMBER 1.6 4X4">
+<type>184BE0</type>
+<type>186AF05</type>
+<type>186AS0</type>
+</modele>
+<modele nom="FREECLIMBER 1.6 CABRIOLET">
+<type>184BCO</type>
+<type>186AF05</type>
+<type>186ASO</type>
+</modele>
+<modele nom="FREECLIMBER 2.4/2.5 TBO D">
+<type>184BCO</type>
+<type>184BEO</type>
+</modele>
+<modele nom="FREECLIMBER 2.4/2.5/CABRIOLET">
+<type>184BCO</type>
+<type>184BEO</type>
+</modele>
+</marque>
+<marque nom="BLMC">
+<modele nom="SHERPA LEYLAND DIES FOURGON 6PL">
+<type>250PFK</type>
+</modele>
+</marque>
+<marque nom="BMW">
+<modele nom="114 D">
+<type>1N51</type>
+<type>1T91</type>
+</modele>
+<modele nom="116 D">
+<type>1C71</type>
+<type>1C91</type>
+<type>PR31</type>
+<type>UH51</type>
+<type>UK51</type>
+</modele>
+<modele nom="116 I">
+<type>1A11</type>
+<type>UF11</type>
+<type>UH31</type>
+</modele>
+<modele nom="116 I GRAND TOURISME">
+<type>UF11</type>
+</modele>
+<modele nom="116 I LUXE/SPORT">
+<type>1A11</type>
+<type>UF11</type>
+<type>UH31</type>
+</modele>
+<modele nom="118 D ">
+<type>1C11</type>
+<type>UD71</type>
+</modele>
+<modele nom="118 D (TYPES UB/UG)">
+<type>MBM5432NR492</type>
+<type>UB31</type>
+<type>UG31</type>
+</modele>
+<modele nom="118 D CABRIOLET">
+<type>UM91</type>
+</modele>
+<modele nom="118 D COUPE">
+<type>UR11</type>
+</modele>
+<modele nom="118 D COUPE LUXE/SPORT">
+<type>UR11</type>
+</modele>
+<modele nom="118 D GRAND TOURISME">
+<type>UB31</type>
+<type>UG31</type>
+</modele>
+<modele nom="118 D LUXE/SPORT (TYPES UG/UB)">
+<type>UB31</type>
+<type>UG31</type>
+</modele>
+<modele nom="118 D M SPORT">
+<type>1C11</type>
+</modele>
+<modele nom="118 I">
+<type>UF31</type>
+</modele>
+<modele nom="118 I GRAND TOURISME">
+<type>UF31</type>
+</modele>
+<modele nom="118 I LUXE/SPORT">
+<type>UF31</type>
+</modele>
+<modele nom="118 I/LUXE/SPORT DESIGN">
+<type>UB91</type>
+</modele>
+<modele nom="120 D">
+<type>UB51</type>
+<type>UD91</type>
+<type>UG51</type>
+</modele>
+<modele nom="120 D CABRIOLET/LUXE/SPORT">
+<type>UM71</type>
+<type>YM71</type>
+</modele>
+<modele nom="120 D GRAND TOURISME">
+<type>UD91</type>
+<type>UG51</type>
+</modele>
+<modele nom="120 D LUXE/SPORT">
+<type>UB51</type>
+<type>UD91</type>
+<type>UG51</type>
+</modele>
+<modele nom="120 D/COUPE">
+<type>1C31</type>
+<type>UR31</type>
+</modele>
+<modele nom="120 I">
+<type>UF51</type>
+</modele>
+<modele nom="120 I CABRIOLET">
+<type>UL51</type>
+<type>UM51</type>
+</modele>
+<modele nom="120 I GRAND TOURISME">
+<type>UF51</type>
+</modele>
+<modele nom="120 I LUXE/SPORT">
+<type>UF51</type>
+</modele>
+<modele nom="123 D COUPE">
+<type>UR51</type>
+</modele>
+<modele nom="123 D/LUXE/SPORT">
+<type>UH11</type>
+<type>UK11</type>
+</modele>
+<modele nom="125 D">
+<type>1C51</type>
+</modele>
+<modele nom="125 I CABRIOLET/LUXE/SPORT DESIGN">
+<type>UL91</type>
+</modele>
+<modele nom="130 I">
+<type>UF91</type>
+</modele>
+<modele nom="130 I GRAND TOURISME">
+<type>UF91</type>
+</modele>
+<modele nom="135 I CABRIOLET">
+<type>UN9C5</type>
+</modele>
+<modele nom="135 I COUPE">
+<type>UC735</type>
+</modele>
+<modele nom="216 I GRAN TOURER SPORT/LUXURY">
+<type>2D91</type>
+</modele>
+<modele nom="216 I GRAN TOURER/LOUNGE">
+<type>2D91</type>
+</modele>
+<modele nom="218 D LOUNGE">
+<type>1H31</type>
+</modele>
+<modele nom="218 D SPORT/ M SPORT">
+<type>1H31</type>
+</modele>
+<modele nom="220 D LOUNGE/ ACTIVE TOURER">
+<type>1H11</type>
+<type>2C31</type>
+</modele>
+<modele nom="220 D SPORT/ M SPORT/LUXURY/ ACTIVE TOURER">
+<type>1H11</type>
+<type>2C31</type>
+</modele>
+<modele nom="315">
+<type>1701</type>
+<type>AG01</type>
+<type>AGO1</type>
+</modele>
+<modele nom="316">
+<type>1051</type>
+<type>1061</type>
+<type>1342</type>
+<type>1351</type>
+<type>1361</type>
+<type>2791</type>
+<type>316</type>
+<type>AC51</type>
+<type>AC61</type>
+<type>AG11</type>
+<type>AK51</type>
+<type>AK61</type>
+</modele>
+<modele nom="316 D LUXE/SPORT/TOURING">
+<type>3D91</type>
+<type>PR31</type>
+<type>PR51</type>
+<type>UY51</type>
+</modele>
+<modele nom="316 D/TOURING">
+<type>3D91</type>
+<type>PR31</type>
+<type>PR51</type>
+<type>UY51</type>
+</modele>
+<modele nom="316 I ">
+<type>PF31</type>
+</modele>
+<modele nom="316 I (TYPES AL/AY/EL)">
+<type>AL10</type>
+<type>AL11</type>
+<type>AY31</type>
+<type>ER10</type>
+<type>ER11</type>
+</modele>
+<modele nom="316 I (TYPES:AC,AB,CA,AK)">
+<type>AB11</type>
+<type>AB21</type>
+<type>AC11</type>
+<type>AC15</type>
+<type>AC21</type>
+<type>AK15</type>
+<type>CA11</type>
+<type>CA21</type>
+<type>CA70</type>
+<type>CA71</type>
+<type>CA73</type>
+<type>CA75</type>
+<type>CA80</type>
+<type>CA81</type>
+<type>CA83</type>
+<type>CA85</type>
+</modele>
+<modele nom="316 I COMPACT ( TYPES CG)">
+<type>CG10</type>
+<type>CG11</type>
+<type>CG16</type>
+<type>CG20</type>
+<type>CG21</type>
+<type>CG26</type>
+</modele>
+<modele nom="316 I COUPE">
+<type>BE11</type>
+<type>BE13</type>
+<type>BE17</type>
+<type>BE21</type>
+<type>BE23</type>
+<type>BE27</type>
+</modele>
+<modele nom="316 I TOURING/BREAK">
+<type>*</type>
+</modele>
+<modele nom="316 TI COMPACT">
+<type>AT50</type>
+<type>AT51</type>
+</modele>
+<modele nom="318">
+<type>*</type>
+</modele>
+<modele nom="318 CABRIOLET IE/IC (TYPE:BA,BH,BE,BK)">
+<type>BA51</type>
+<type>BH31</type>
+<type>BH33</type>
+<type>BH37</type>
+<type>BH41</type>
+<type>BH43</type>
+<type>BH47</type>
+<type>BK63</type>
+</modele>
+<modele nom="318 CI CABRIOLET">
+<type>BP71</type>
+</modele>
+<modele nom="318 CI COUPE">
+<type>BL30</type>
+<type>BL31</type>
+<type>BV70</type>
+<type>BV71</type>
+</modele>
+<modele nom="318 D / LOUNGE">
+<type>3D11</type>
+<type>PG11</type>
+<type>PN11</type>
+<type>VC11</type>
+<type>VG11</type>
+</modele>
+<modele nom="318 D BREAK">
+<type>UT31</type>
+<type>UX11</type>
+<type>VW11</type>
+</modele>
+<modele nom="318 D BREAK LUXE/SPORT">
+<type>UT31</type>
+<type>UX11</type>
+<type>VW11</type>
+</modele>
+<modele nom="318 D LUXE/SPORT/MODERN/M SPORT">
+<type>3D11</type>
+<type>PG11</type>
+<type>PN11</type>
+<type>VC11</type>
+<type>VG11</type>
+</modele>
+<modele nom="318 D TOURING/BREAK">
+<type>*</type>
+</modele>
+<modele nom="318 D/TD (TYPE: EU51)">
+<type>EU51</type>
+</modele>
+<modele nom="318 D/TD/BREAK">
+<type>AT91</type>
+<type>EL71</type>
+<type>EU71</type>
+</modele>
+<modele nom="318 I">
+<type>AL30</type>
+<type>AL31</type>
+<type>AY70</type>
+<type>AY71</type>
+</modele>
+<modele nom="318 I (TYPE: PF51)">
+<type>PF51</type>
+</modele>
+<modele nom="318 I TOURING (BREAK) (TYPE: AG,CE)">
+<type>AG71</type>
+<type>CE30</type>
+<type>CE31</type>
+<type>CE33</type>
+<type>CE35</type>
+<type>CE40</type>
+<type>CE41</type>
+<type>CE43</type>
+<type>CE45</type>
+</modele>
+<modele nom="318 I TOURING/BREAK">
+<type>US31</type>
+</modele>
+<modele nom="318 I TOURING/BREAK (TYPES AX ET AP)">
+<type>AP30</type>
+<type>AP31</type>
+<type>AX50</type>
+<type>AX51</type>
+</modele>
+<modele nom="318 I(TYPE:1000,1300,AC,AF,AG,AK,CA,AJ">
+<type>1031</type>
+<type>1041</type>
+<type>1071</type>
+<type>1081</type>
+<type>1371</type>
+<type>1381</type>
+<type>AC31</type>
+<type>AC71</type>
+<type>AC81</type>
+<type>AF51</type>
+<type>AF61</type>
+<type>AF91</type>
+<type>AG31</type>
+<type>AG41</type>
+<type>AJ51</type>
+<type>AJ61</type>
+<type>AJ931</type>
+<type>AK11</type>
+<type>AK31</type>
+<type>AK41</type>
+<type>AK71</type>
+<type>AK81</type>
+<type>CA00</type>
+<type>CA01</type>
+<type>CA03</type>
+<type>CA05</type>
+<type>CA31</type>
+<type>CA41</type>
+<type>CA90</type>
+<type>CA91</type>
+<type>CA93</type>
+<type>CA95</type>
+</modele>
+<modele nom="318 IS COUPE">
+<type>BE51</type>
+<type>BE61</type>
+<type>BE77</type>
+<type>BE87</type>
+</modele>
+<modele nom="318 TDS">
+<type>CC50</type>
+<type>CC51</type>
+<type>CC53</type>
+<type>CC55</type>
+</modele>
+<modele nom="318 TDS COMPACT">
+<type>CJ50</type>
+<type>CJ51</type>
+</modele>
+<modele nom="318 TDS TOURING">
+<type>CF50</type>
+<type>CF51</type>
+<type>CF53</type>
+<type>CF55</type>
+</modele>
+<modele nom="318 TI COMPACT">
+<type>AU50</type>
+<type>AU51</type>
+<type>CG51</type>
+<type>CG61</type>
+<type>CG71</type>
+<type>CG81</type>
+</modele>
+<modele nom="320">
+<type>1811</type>
+<type>1820</type>
+<type>1821</type>
+<type>320</type>
+<type>6934</type>
+</modele>
+<modele nom="320 CD CABRIOLET">
+<type>BS71</type>
+</modele>
+<modele nom="320 CD COUPE">
+<type>BV51</type>
+</modele>
+<modele nom="320 CI CABRIOLET">
+<type>BS11</type>
+<type>BW11</type>
+</modele>
+<modele nom="320 D CABRIOLET">
+<type>DY31</type>
+</modele>
+<modele nom="320 D CABRIOLET (TYPE WM31)">
+<type>WM31</type>
+</modele>
+<modele nom="320 D CABRIOLET EXCELLIS/LUXE/SPORT DESIGN">
+<type>DY31</type>
+</modele>
+<modele nom="320 D COUPE">
+<type>WD11</type>
+</modele>
+<modele nom="320 D COUPE (TYPE WC11 ET TYPE KK31)">
+<type>KK31</type>
+<type>WC11</type>
+</modele>
+<modele nom="320 D COUPE LUXE">
+<type>WD11</type>
+</modele>
+<modele nom="320 D COUPE LUXE/SPORT (TYPE WC11 ET TYPE KK31)">
+<type>KK31</type>
+<type>WC11</type>
+</modele>
+<modele nom="320 D LUXE/SPORT (TYPES VC31 ET VU31)">
+<type>VC31</type>
+<type>VU31</type>
+</modele>
+<modele nom="320 D LUXE/SPORT/M/SPORT DESIGN/MODERN/BK/TOURING">
+<type>3D31</type>
+<type>3E11</type>
+<type>PN31</type>
+<type>PP11</type>
+<type>PP51</type>
+<type>UX31</type>
+<type>UY31</type>
+<type>VG91</type>
+<type>VU51</type>
+</modele>
+<modele nom="320 D TOURING BREAK (TYPES AP/AX/VU)">
+<type>AP70</type>
+<type>AP71</type>
+<type>AP78</type>
+<type>AX70</type>
+<type>AX71</type>
+<type>AX78</type>
+<type>VU31</type>
+</modele>
+<modele nom="320 D/320 TDI (TYPES AS/AL/VC)">
+<type>AL70</type>
+<type>AL71</type>
+<type>AL78</type>
+<type>AS70</type>
+<type>AS71</type>
+<type>AS78</type>
+<type>VC31</type>
+</modele>
+<modele nom="320 D/LOUNGE/ BREAK/TOURING">
+<type>3D31</type>
+<type>3E11</type>
+<type>PN31</type>
+<type>PP11</type>
+<type>PP51</type>
+<type>UX31</type>
+<type>UY31</type>
+<type>VG91</type>
+</modele>
+<modele nom="320 I">
+<type>AV10</type>
+<type>AV11</type>
+<type>AV18</type>
+<type>EV10</type>
+<type>EV11</type>
+<type>EV18</type>
+<type>VA71</type>
+<type>VF91</type>
+<type>VG71</type>
+</modele>
+<modele nom="320 I (TYPE:1100,1400,AA,AD,AH,BF,CB)">
+<type>1131</type>
+<type>1141</type>
+<type>1151</type>
+<type>1161</type>
+<type>1431</type>
+<type>1441</type>
+<type>1451</type>
+<type>1461</type>
+<type>AA31</type>
+<type>AA41</type>
+<type>AD31</type>
+<type>AD41</type>
+<type>AD51</type>
+<type>AH11</type>
+<type>AH21</type>
+<type>BF11</type>
+<type>BF21</type>
+<type>CB11</type>
+<type>CB21</type>
+<type>CB51</type>
+<type>CB55</type>
+<type>CB57</type>
+<type>CB61</type>
+<type>CB65</type>
+<type>CB67</type>
+</modele>
+<modele nom="320 I CABRIOLET">
+<type>AA31</type>
+<type>AA41</type>
+<type>AH11</type>
+<type>AH21</type>
+<type>BA11</type>
+<type>BA21</type>
+<type>BA31</type>
+<type>BA41</type>
+<type>BJ21</type>
+<type>BJ31</type>
+<type>BJ37</type>
+<type>BJ41</type>
+<type>BJ47</type>
+</modele>
+<modele nom="320 I CABRIOLET (TYPE WK)">
+<type>WK51</type>
+<type>WK71</type>
+</modele>
+<modele nom="320 I COUPE">
+<type>WA71</type>
+</modele>
+<modele nom="320 I COUPE (TYPE WE)">
+<type>WE71</type>
+</modele>
+<modele nom="320 I COUPE /320 CI COUPE">
+<type>BF21</type>
+<type>BF51</type>
+<type>BF57</type>
+<type>BF61</type>
+<type>BF67</type>
+<type>BM11</type>
+<type>BN11</type>
+</modele>
+<modele nom="320 I COUPE LUXE/SPORT">
+<type>WA71</type>
+</modele>
+<modele nom="320 I COUPE LUXE/SPORT DESIGN (TYPE WE)">
+<type>WE71</type>
+</modele>
+<modele nom="320 I LUXE/SPORT">
+<type>VA71</type>
+<type>VF91</type>
+<type>VG71</type>
+</modele>
+<modele nom="320 I TOURING (TYPES AH)">
+<type>AH51</type>
+<type>AH61</type>
+<type>AH71</type>
+<type>AH81</type>
+</modele>
+<modele nom="320 I TOURING/BREAK">
+<type>AW10</type>
+<type>AW11</type>
+<type>AW18</type>
+<type>CE51</type>
+<type>CE55</type>
+<type>CE57</type>
+<type>CE61</type>
+<type>CE65</type>
+<type>CE67</type>
+<type>EN10</type>
+<type>EN11</type>
+<type>EN18</type>
+</modele>
+<modele nom="320 TD COMPACT">
+<type>AT70</type>
+<type>AT71</type>
+</modele>
+<modele nom="323 CI CABRIOLET">
+<type>BR31</type>
+</modele>
+<modele nom="323 CI COUPE">
+<type>BM31</type>
+</modele>
+<modele nom="323 I">
+<type>CB71</type>
+<type>CB75</type>
+<type>CB77</type>
+<type>CB81</type>
+<type>CB85</type>
+<type>CB87</type>
+<type>PG735</type>
+</modele>
+<modele nom="323 I (TYPES 1100,1400,AA,AD,AH)">
+<type>1171</type>
+<type>1181</type>
+<type>1471</type>
+<type>1481</type>
+<type>AA71</type>
+<type>AA81</type>
+<type>AD71</type>
+<type>AD81</type>
+<type>AH31</type>
+<type>AH41</type>
+</modele>
+<modele nom="323 I SPORT (TYPES AA,AD,AH)">
+<type>AA71M5</type>
+<type>AD71M5</type>
+<type>AH31</type>
+<type>AH41</type>
+</modele>
+<modele nom="323 I SPORT/COUPE">
+<type>BF71</type>
+<type>BF77</type>
+<type>BF81</type>
+<type>BF87</type>
+</modele>
+<modele nom="323 I TOURING">
+<type>CE75</type>
+<type>CE77</type>
+<type>CE85</type>
+<type>CE87</type>
+</modele>
+<modele nom="324 D /TD">
+<type>1511</type>
+<type>1521</type>
+<type>AD01</type>
+<type>AD91</type>
+<type>AE11</type>
+<type>AE21</type>
+</modele>
+<modele nom="324 TD TOURING">
+<type>AH01</type>
+<type>AH91</type>
+</modele>
+<modele nom="325 CI CABRIOLET">
+<type>BS31</type>
+</modele>
+<modele nom="325 CI COUPE">
+<type>BN31</type>
+<type>BN33</type>
+</modele>
+<modele nom="325 D (TYPE VC)">
+<type>VC51</type>
+</modele>
+<modele nom="325 D CABRIOLET">
+<type>DY51</type>
+<type>WM71</type>
+</modele>
+<modele nom="325 D COUPE">
+<type>WD31</type>
+</modele>
+<modele nom="325 I (TYPES: 1100,1200,1400,1500)">
+<type>1111</type>
+<type>1121</type>
+<type>1231</type>
+<type>1241</type>
+<type>1411</type>
+<type>1421</type>
+<type>1531</type>
+<type>1541</type>
+</modele>
+<modele nom="325 I (TYPES: AA,AB,AD,AE,CB)">
+<type>AA11</type>
+<type>AA21</type>
+<type>AB31</type>
+<type>AB41</type>
+<type>AB51</type>
+<type>AB61</type>
+<type>AD11</type>
+<type>AD21</type>
+<type>AE31</type>
+<type>AE41</type>
+<type>AE54</type>
+<type>AE64</type>
+<type>AE69</type>
+<type>CB31</type>
+<type>CB41</type>
+</modele>
+<modele nom="325 I CABRIOLET">
+<type>BB11</type>
+<type>BB21</type>
+<type>BB31</type>
+<type>BB41</type>
+<type>BJ51</type>
+<type>BJ61</type>
+</modele>
+<modele nom="325 I CABRIOLET (TYPE WN31)">
+<type>WN31</type>
+</modele>
+<modele nom="325 I COUPE">
+<type>BF31</type>
+<type>BF41</type>
+<type>BF43</type>
+<type>BJ63</type>
+</modele>
+<modele nom="325 I COUPE (TYPE WB31)">
+<type>WB31</type>
+</modele>
+<modele nom="325 I COUPE LUXE/SPORT (TYPE WB31)">
+<type>WB31</type>
+</modele>
+<modele nom="325 I LUXE/SPORT">
+<type>VB11</type>
+<type>VB13</type>
+</modele>
+<modele nom="325 I S">
+<type>AA11</type>
+<type>AA21</type>
+<type>AB31</type>
+<type>AB41</type>
+<type>AD11</type>
+<type>AD21</type>
+<type>AE31</type>
+<type>AE41</type>
+</modele>
+<modele nom="325 I TOURING">
+<type>AG51</type>
+<type>AG61</type>
+</modele>
+<modele nom="325 I/XI">
+<type>AV30</type>
+<type>AV31</type>
+<type>AV38</type>
+<type>EU30</type>
+<type>EU31</type>
+<type>EU38</type>
+<type>EV30</type>
+<type>EV31</type>
+<type>VB11</type>
+<type>ZV30</type>
+</modele>
+<modele nom="325 IX">
+<type>1201</type>
+<type>1291</type>
+<type>325IX</type>
+<type>AB01</type>
+<type>AB71</type>
+<type>AB81</type>
+<type>AB91</type>
+<type>AB93</type>
+<type>AE01</type>
+<type>AE71</type>
+<type>AE81</type>
+<type>AE91</type>
+</modele>
+<modele nom="325 IX TOURING">
+<type>1501</type>
+<type>1591</type>
+<type>AG05</type>
+<type>AG95</type>
+</modele>
+<modele nom="325 TD">
+<type>CC10</type>
+<type>CC11</type>
+<type>CC13</type>
+<type>CC15</type>
+<type>CC17</type>
+<type>CC20</type>
+<type>CC21</type>
+<type>CC23</type>
+<type>CC25</type>
+<type>CC27</type>
+</modele>
+<modele nom="325 TDS TOURING">
+<type>CF00</type>
+<type>CF01</type>
+<type>CF03</type>
+<type>CF05</type>
+<type>CF07</type>
+<type>CF90</type>
+<type>CF91</type>
+<type>CF93</type>
+<type>CF95</type>
+<type>CF97</type>
+</modele>
+<modele nom="325 TDS/TDS PACK">
+<type>CC30</type>
+<type>CC31</type>
+<type>CC33</type>
+<type>CC35</type>
+<type>CC37</type>
+<type>CC40</type>
+<type>CC41</type>
+<type>CC43</type>
+<type>CC45</type>
+<type>CC47</type>
+</modele>
+<modele nom="325 TI COMPACT">
+<type>AT31</type>
+</modele>
+<modele nom="325 TOURING I/XI/BREAK">
+<type>AW30</type>
+<type>AW31</type>
+<type>EN30</type>
+<type>EN31</type>
+<type>EN38</type>
+<type>EP30</type>
+<type>EP31</type>
+<type>EP38</type>
+</modele>
+<modele nom="328 CI COUPE">
+<type>BM51</type>
+</modele>
+<modele nom="328 I">
+<type>AM51</type>
+<type>CD10</type>
+<type>CD11</type>
+<type>CD15</type>
+<type>CD17</type>
+<type>CD19</type>
+<type>CD21</type>
+<type>CD25</type>
+<type>CD27</type>
+</modele>
+<modele nom="328 I CABRIOLET">
+<type>BK71</type>
+<type>BK77</type>
+<type>BK81</type>
+<type>BK87</type>
+</modele>
+<modele nom="328 I COUPE (TYPES WB, WR,WV)">
+<type>WB335</type>
+<type>WR335</type>
+<type>WV535</type>
+</modele>
+<modele nom="328 I COUPE/COUPE SPORT">
+<type>BG10</type>
+<type>BG11</type>
+<type>BG17</type>
+<type>BG19</type>
+<type>BG21</type>
+<type>BG27</type>
+</modele>
+<modele nom="328 I TOURING">
+<type>CF11</type>
+<type>CF15</type>
+<type>CF17</type>
+<type>CF21</type>
+<type>CF25</type>
+<type>CF27</type>
+</modele>
+<modele nom="328 XI COUPE">
+<type>WC335</type>
+</modele>
+<modele nom="328D X DRIVE/SPORT WAGON">
+<type>3D5C</type>
+<type>3K5C</type>
+</modele>
+<modele nom="330 CI CABRIOLET">
+<type>BS51</type>
+<type>BW51</type>
+</modele>
+<modele nom="330 D CABRIOLET">
+<type>WM51</type>
+<type>WM91</type>
+</modele>
+<modele nom="330 D CABRIOLET CONFORT (TYPE DY)">
+<type>DY71</type>
+</modele>
+<modele nom="330 D CABRIOLET LUXE">
+<type>WM51</type>
+<type>WM91</type>
+</modele>
+<modele nom="330 D CABRIOLET M SPORT/LUXE (TYPE DY)">
+<type>DY71</type>
+</modele>
+<modele nom="330 D LUXE/SPORT/EXCELLIS/XD/X DRIVE/COUPE/BREAK">
+<type>PR91</type>
+<type>VC91</type>
+<type>VT91</type>
+<type>VU91</type>
+<type>WA91</type>
+<type>WB91</type>
+<type>WC91</type>
+<type>WD51</type>
+</modele>
+<modele nom="330 D/TD/XD/COUPE/BREAK">
+<type>AL90</type>
+<type>AL91</type>
+<type>AL98</type>
+<type>AP90</type>
+<type>AP91</type>
+<type>AP98</type>
+<type>BV91</type>
+<type>EL90</type>
+<type>EL98</type>
+<type>EP70</type>
+<type>EP78</type>
+<type>ER91</type>
+<type>EV90</type>
+<type>EV98</type>
+<type>EY91</type>
+</modele>
+<modele nom="330 D/XD/X DRIVE/COUPE/BREAK">
+<type>PR91</type>
+<type>VC91</type>
+<type>VT91</type>
+<type>VU91</type>
+<type>WA91</type>
+<type>WB91</type>
+<type>WC91</type>
+<type>WD51</type>
+</modele>
+<modele nom="330 I /XI">
+<type>AV50</type>
+<type>AV58</type>
+<type>EV50</type>
+<type>EV58</type>
+<type>EW50</type>
+<type>EW58</type>
+<type>VB31</type>
+</modele>
+<modele nom="330 I COUPE/330 CI COUPE">
+<type>BN51</type>
+</modele>
+<modele nom="330 I LUXE/SPORT">
+<type>VB31</type>
+</modele>
+<modele nom="330 TOURING I/XI/BREAK">
+<type>AW50</type>
+<type>AW58</type>
+<type>EN50</type>
+<type>EN58</type>
+<type>EP50</type>
+<type>EP58</type>
+</modele>
+<modele nom="335 D">
+<type>VD71</type>
+</modele>
+<modele nom="335 D (TYPE PN7C5)">
+<type>PN7C5</type>
+</modele>
+<modele nom="335 D COUPE">
+<type>WD71</type>
+</modele>
+<modele nom="335 D COUPE LUXE/SPORT">
+<type>WD71</type>
+</modele>
+<modele nom="335 D LUXE/SPORT">
+<type>VD71</type>
+</modele>
+<modele nom="335 D XDRIVE SPORT/MODERN/LUXURY/M SPORT/TOURING">
+<type>3J71</type>
+<type>8J71</type>
+</modele>
+<modele nom="335 D XDRIVE/TOURING">
+<type>3J71</type>
+<type>8J71</type>
+</modele>
+<modele nom="335 I">
+<type>VB73</type>
+</modele>
+<modele nom="335 I CABRIOLET">
+<type>WL71</type>
+</modele>
+<modele nom="335 I CABRIOLET (TYPE WL735)">
+<type>WL735</type>
+</modele>
+<modele nom="335 I CABRIOLET LUXE/SPORT">
+<type>WL71</type>
+</modele>
+<modele nom="335 I COUPE">
+<type>WB71</type>
+</modele>
+<modele nom="335 I COUPE (TYPE WB73)">
+<type>WB73</type>
+</modele>
+<modele nom="335 XI">
+<type>3B9C57</type>
+</modele>
+<modele nom="418 D GRAN COUPE SPORT/ MODERN/LUXURY/M SPORT">
+<type>4D51</type>
+</modele>
+<modele nom="418 D GRAN COUPE/ LOUNGE">
+<type>4D51</type>
+</modele>
+<modele nom="420 D CABRIOLET">
+<type>3U11</type>
+</modele>
+<modele nom="420 D CABRIOLET  SPORT/MODERN/LUXURY/M SPORT">
+<type>3U11</type>
+</modele>
+<modele nom="420 D COUPE">
+<type>3P11</type>
+<type>4P71</type>
+</modele>
+<modele nom="420 D COUPE LUXURY/ SPORT/ M SPORT">
+<type>3P11</type>
+<type>4P71</type>
+</modele>
+<modele nom="420 D GRAN COUPE SPORT/MODERN/LUXURY/M SPORT">
+<type>4B51</type>
+<type>4E91</type>
+</modele>
+<modele nom="420 D GRAN COUPE/ LOUNGE">
+<type>4B51</type>
+<type>4E91</type>
+</modele>
+<modele nom="425 D COUPE CABRIOLET">
+<type>4U51</type>
+</modele>
+<modele nom="425 D COUPE CABRIOLET SPORT/M SPORT/LUXURY">
+<type>4U51</type>
+</modele>
+<modele nom="428 COUPE/ GRAN COUPE/ X DRIVE">
+<type>3N3C5</type>
+<type>3N5C5</type>
+<type>4A5C5</type>
+<type>4A7C5</type>
+</modele>
+<modele nom="428 I X DRIVE COUPE LUXURY/GRAN COUPE">
+<type>3N51</type>
+</modele>
+<modele nom="428 I X DRIVE COUPE SPORT/MSPORT/MODERN/GRAN COUPE">
+<type>3N51</type>
+</modele>
+<modele nom="428 I X DRIVE COUPE/GRAN COUPE">
+<type>3N51</type>
+</modele>
+<modele nom="430 D X DRIVE COUPE SPORT/MSPORT/LUXURY/GRAN COUPE">
+<type>4C11</type>
+</modele>
+<modele nom="430 D X DRIVE COUPE/GRAN COUPE">
+<type>4C11</type>
+</modele>
+<modele nom="435 D COUPE/ GRAN COUPE/ X DRIVE">
+<type>4G11</type>
+</modele>
+<modele nom="435 D COUPE/ GRAN COUPE/ X DRIVE/SPORT/LUX/MSPORT ">
+<type>4G11</type>
+</modele>
+<modele nom="435 I COUPE SPORT/MODERN/LUXURY/M SPORT">
+<type>3R11</type>
+</modele>
+<modele nom="435 I COUPE/LOUNGE">
+<type>3R11</type>
+</modele>
+<modele nom="435 X DRIVE COUPE">
+<type>3R5C5</type>
+</modele>
+<modele nom="518">
+<type>3651</type>
+<type>4011</type>
+<type>DF11</type>
+<type>DK11</type>
+</modele>
+<modele nom="518 I">
+<type>HA11</type>
+<type>HA31</type>
+<type>HA36</type>
+</modele>
+<modele nom="518 I (TYPES 4000,DK)">
+<type>4091</type>
+<type>DK91</type>
+</modele>
+<modele nom="520">
+<type>E21</type>
+<type>HB31</type>
+<type>HB41</type>
+</modele>
+<modele nom="520 D">
+<type>DM70</type>
+<type>DM71</type>
+</modele>
+<modele nom="520 D (TYPE NC31)">
+<type>NC31</type>
+</modele>
+<modele nom="520 D (TYPE NX)">
+<type>NX11</type>
+<type>NX31</type>
+</modele>
+<modele nom="520 D 4X4 /TOURING">
+<type>5C31</type>
+</modele>
+<modele nom="520 D 4X4 LUXURY/MSPORT/MODERN/TOURING">
+<type>5C31</type>
+</modele>
+<modele nom="520 D GT">
+<type>XC01</type>
+</modele>
+<modele nom="520 D GT EXCLUSIVE/LUXE/SPORT DESIGN">
+<type>XC01</type>
+</modele>
+<modele nom="520 D LUXE (TYPE NX)">
+<type>NX11</type>
+<type>NX31</type>
+</modele>
+<modele nom="520 D LUXE/LUXURY/MSPORT/MODERN/EXCLUSIVE/TOURING ">
+<type>5C31</type>
+<type>FW11</type>
+<type>FW91</type>
+<type>MX11</type>
+</modele>
+<modele nom="520 D TOURING  LUXE/ SPORT(TYPE PX31)">
+<type>PX31</type>
+</modele>
+<modele nom="520 D TOURING (TYPE PX31)">
+<type>PX31</type>
+</modele>
+<modele nom="520 D TOURING /BREAK">
+<type>DR70</type>
+<type>DR71</type>
+</modele>
+<modele nom="520 D/ TOURING (TYPES FW11/FW91/MX11/5C31)">
+<type>5C31</type>
+<type>FW11</type>
+<type>FW91</type>
+<type>MX11</type>
+</modele>
+<modele nom="520 I">
+</marque>
+<marque nom="BUICK">
+</marques><?xml version="1.0" ?>
+<marques>
+<marque nom="ACREA">
+<modele nom="ZEST 0.5">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="ALEKO">
+<modele nom="1600">
+<type>*</type>
+<type>200400</type>
+<type>F40E05</type>
+</modele>
+</marque>
+<marque nom="ALFA ROMEO">
+<modele nom="145 1.3 / 1.4">
+<type>930A3</type>
+<type>930A3A00</type>
+<type>MLA1301CH074</type>
+</modele>
+<modele nom="145 1.6">
+<type>930A2</type>
+<type>930A2A</type>
+</modele>
+<modele nom="145 1.9 JTD">
+<type>930A4B</type>
+</modele>
+<modele nom="145 2.0">
+<type>930A5</type>
+</modele>
+<modele nom="145 TBO DIES 2.0">
+<type>930A4</type>
+<type>930A4A</type>
+</modele>
+<modele nom="146 1.3">
+<type>930B3</type>
+</modele>
+<modele nom="146 1.6">
+<type>930B2A</type>
+</modele>
+<modele nom="146 1.7 16V">
+<type>*</type>
+</modele>
+<modele nom="146 1.9 JTD/JTD L">
+<type>93000</type>
+</modele>
+<modele nom="146 TBO DIES">
+<type>930B4</type>
+<type>930B4A</type>
+</modele>
+<modele nom="146 TI">
+<type>930B5</type>
+</modele>
+<modele nom="147 1.6">
+<type>*</type>
+</modele>
+<modele nom="147 1.6 (TYPE 937)">
+<type>937BXA1A05H</type>
+</modele>
+<modele nom="147 1.9 DIES">
+<type>937AXD1A04</type>
+</modele>
+<modele nom="147 1.9 JTD">
+<type>9370000</type>
+<type>937BXU1A33</type>
+</modele>
+<modele nom="147 1.9 TDI/JTD">
+<type>*</type>
+</modele>
+<modele nom="147 2.0">
+<type>*</type>
+</modele>
+<modele nom="147 3.2 V6 GTA">
+<type>*</type>
+</modele>
+<modele nom="155 1.6 16V">
+<type>167A6A</type>
+</modele>
+<modele nom="155 1.7 16V">
+<type>*</type>
+</modele>
+<modele nom="155 1.8 16V">
+<type>167A4C</type>
+<type>167A4P</type>
+</modele>
+<modele nom="155 2.0 16V">
+<type>167A2A</type>
+<type>167A2G</type>
+</modele>
+<modele nom="155 2.0 TD">
+<type>167A3B</type>
+<type>167AB</type>
+</modele>
+<modele nom="155 2.5 ESSENCE">
+<type>167A1</type>
+</modele>
+<modele nom="155 2.5 TBO DIES">
+<type>167A1A</type>
+<type>167A1G</type>
+</modele>
+<modele nom="156 1.6">
+<type>932</type>
+<type>932A40</type>
+<type>932B4</type>
+</modele>
+<modele nom="156 1.8">
+<type>932A30</type>
+</modele>
+<modele nom="156 1.9 JTD/TD/BREAK">
+<type>932</type>
+<type>932A2A</type>
+<type>932A2B</type>
+<type>937A2</type>
+</modele>
+<modele nom="156 2.0/16V">
+<type>932A20</type>
+</modele>
+<modele nom="156 2.4 TD/JTD">
+<type>932A1A</type>
+</modele>
+<modele nom="156 2.5 V6">
+<type>932A10</type>
+</modele>
+<modele nom="156 3.2 GTA V6">
+<type>*</type>
+</modele>
+<modele nom="159 1.9 JTD/SPORT WAGON/GTS">
+<type>939000</type>
+<type>939AXA1BXXC</type>
+<type>939AXF1B05</type>
+</modele>
+<modele nom="159 2.0 JTD/SW">
+<type>939AXS1B66</type>
+<type>939BXP1B</type>
+</modele>
+<modele nom="159 2.4 JTD/SW">
+<type>939AXD1B</type>
+<type>939BXD1226</type>
+</modele>
+<modele nom="164 2.0">
+<type>164A1</type>
+<type>164A2</type>
+<type>164A2B</type>
+<type>164H3</type>
+</modele>
+<modele nom="164 2.5 TURBO D">
+<type>164A1</type>
+<type>164K2</type>
+<type>164K2A</type>
+<type>164K2B</type>
+</modele>
+<modele nom="164 3.0 QUADRIFOGLIO 4 (17CV)">
+<type>164K1H</type>
+</modele>
+<modele nom="164 3.0 V6">
+<type>164A</type>
+<type>164AB</type>
+<type>164AD</type>
+<type>164K1F</type>
+<type>164K1N</type>
+</modele>
+<modele nom="166 2.0">
+<type>*</type>
+</modele>
+<modele nom="166 2.4 JTD/TD">
+<type>*</type>
+</modele>
+<modele nom="166 2.5 V6">
+<type>*</type>
+</modele>
+<modele nom="166 3.0 V6">
+<type>*</type>
+</modele>
+<modele nom="166 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="33 1.3">
+<type>3317</type>
+<type>901D4</type>
+<type>90511H</type>
+<type>905A1</type>
+<type>905A1A</type>
+<type>905A1B</type>
+<type>905A1C</type>
+<type>905A1G</type>
+<type>905A1H</type>
+<type>907A3</type>
+<type>907B3</type>
+<type>920A1B</type>
+</modele>
+<modele nom="33 1.5/1.5 4X4">
+<type>2905A2</type>
+<type>905A2</type>
+<type>905A2A</type>
+<type>905A2B</type>
+<type>905A2C</type>
+<type>905A2D</type>
+<type>905A2F</type>
+<type>905A2G</type>
+<type>905A2H</type>
+<type>905A2L</type>
+<type>905A2M</type>
+<type>905A2P</type>
+<type>905A2R</type>
+<type>905A2S</type>
+<type>905A2T</type>
+<type>905A2V</type>
+<type>905A3G</type>
+<type>905AZL</type>
+<type>905AZN</type>
+<type>9072A</type>
+<type>907A2</type>
+</modele>
+<modele nom="33 1.7">
+<type>904000</type>
+<type>905A3</type>
+<type>905A3C</type>
+<type>905A3D</type>
+<type>905A4</type>
+<type>907A1</type>
+</modele>
+<modele nom="33 1.7 QUADRIFOGLIO 4">
+<type>907A1G</type>
+</modele>
+<modele nom="33 1.8 TD">
+<type>905A4</type>
+</modele>
+<modele nom="4C 1.7 COUPE">
+<type>960000</type>
+</modele>
+<modele nom="4C 1.7 SPIDER CABRIOLET">
+<type>960000</type>
+</modele>
+<modele nom="625 TD">
+<type>119A2</type>
+</modele>
+<modele nom="75 1.6">
+<type>162B2A</type>
+<type>162B2C</type>
+<type>162B2F</type>
+</modele>
+<modele nom="75 1.8">
+<type>162B1A</type>
+<type>162B1B</type>
+<type>162B1F</type>
+</modele>
+<modele nom="75 1.8 TURBO">
+<type>162B1C</type>
+<type>162B1D</type>
+<type>162B1G</type>
+<type>162B1M</type>
+</modele>
+<modele nom="75 2.0 TURBO D">
+<type>162BD</type>
+<type>162BG</type>
+</modele>
+<modele nom="75 2.0 TWIN SPARK">
+<type>162B4</type>
+<type>162B4A</type>
+</modele>
+<modele nom="75 2.4 TURBO D">
+<type>162B5</type>
+</modele>
+<modele nom="75 3.0 V 6">
+<type>162B6</type>
+<type>162B6B</type>
+<type>162B6X</type>
+</modele>
+<modele nom="90 2.0">
+<type>162A2</type>
+<type>162A2A</type>
+<type>ZAR162A2</type>
+<type>ZAR162A2A</type>
+</modele>
+<modele nom="90 2.4 TURBO D">
+<type>162A3</type>
+<type>ZAR162A3</type>
+</modele>
+<modele nom="90 2.5 V 6 INJ">
+<type>162A</type>
+</modele>
+<modele nom="ALFA SUD BERLINE 1300 A 1700CC">
+<type>901F1</type>
+<type>901F4B</type>
+<type>901F4D</type>
+<type>901G4B</type>
+</modele>
+<modele nom="ALFETA 2.0">
+<type>11655</type>
+<type>11655F</type>
+<type>11655N</type>
+</modele>
+<modele nom="ALFETA 2.0 TD">
+<type>116B</type>
+<type>116BA</type>
+</modele>
+<modele nom="ALFETTA 2.4 TD">
+<type>116B3</type>
+<type>91ZHS</type>
+</modele>
+<modele nom="ES 30">
+<type>162C1</type>
+</modele>
+<modele nom="FOURG VITRE 9PL">
+<type>30AR8</type>
+<type>35AR8B</type>
+</modele>
+<modele nom="GIULIETTA  1.6/1.8">
+<type>11650</type>
+<type>11650B</type>
+<type>1165OB</type>
+<type>116A</type>
+<type>116AA</type>
+</modele>
+<modele nom="GIULIETTA 1.4">
+<type>940FXA1A00</type>
+</modele>
+<modele nom="GIULIETTA 1.4 EXCLUSIVE/COLLEZIONE">
+<type>940FXA1A00</type>
+</modele>
+<modele nom="GIULIETTA 1.6 JTD">
+<type>940FXD1A03</type>
+</modele>
+<modele nom="GIULIETTA 1.6 JTD EXCLUSIVE">
+<type>940FXD1A03</type>
+</modele>
+<modele nom="GIULIETTA 2.0">
+<type>116A1</type>
+<type>116A1A</type>
+</modele>
+<modele nom="GIULIETTA 2.0 JTDM">
+<type>940FXE1A04</type>
+<type>940FXL1A08</type>
+<type>940FXM1A09</type>
+</modele>
+<modele nom="GIULIETTA 2.0 JTDM EXCLUSIVE/ COLLEZIONE">
+<type>940FXE1A04</type>
+<type>940FXL1A08</type>
+<type>940FXM1A09</type>
+</modele>
+<modele nom="GIULIETTA 2.0 TD">
+<type>116A2</type>
+</modele>
+<modele nom="GT 1.9 JTD">
+<type>*</type>
+</modele>
+<modele nom="GT 1.9 JTD (TYPE 937)">
+<type>937CXN1B24C</type>
+</modele>
+<modele nom="GT 2.0 JTS">
+<type>*</type>
+</modele>
+<modele nom="GT 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="GTV ( TYPES 116)">
+<type>11636</type>
+<type>11636C</type>
+<type>11637</type>
+<type>116CA</type>
+</modele>
+<modele nom="GTV 2.0 16V">
+<type>916C2</type>
+</modele>
+<modele nom="GTV 2.0 V6 TB">
+<type>916C2A</type>
+</modele>
+<modele nom="GTV 3.0 V6 24V">
+<type>916C1</type>
+</modele>
+<modele nom="GTV COUPE 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="MITO 1.3 JTD">
+<type>955AXP1A11C</type>
+</modele>
+<modele nom="MITO 1.4">
+<type>955AXL1B08</type>
+</modele>
+<modele nom="MITO 1.4 (170CV)">
+<type>955AX1NB10</type>
+</modele>
+<modele nom="MITO 1.6 JTD">
+<type>955AXC1B02B</type>
+<type>955AXE1B04M</type>
+</modele>
+<modele nom="SPIDER 2.0 ( TYPES 115)">
+<type>11538</type>
+<type>115A1</type>
+</modele>
+<modele nom="SPIDER 2.0 16V CABRIOLET">
+<type>916S2</type>
+</modele>
+<modele nom="SPIDER 2.0/3.0 V6">
+<type>916S1</type>
+</modele>
+<modele nom="SPIDER 2.4 JTD CABRIOLET">
+<type>939EXD1B34</type>
+</modele>
+<modele nom="SPIDER 3.2 JTS CABRIOLET">
+<type>939EXG2B20</type>
+</modele>
+<modele nom="SPIDER 3.2 JTS COUPE">
+<type>*</type>
+</modele>
+<modele nom="SPRINT 1.3/1.5 COUPE">
+<type>9024A4A</type>
+<type>9024A4B</type>
+<type>902A4A</type>
+<type>902A4B</type>
+<type>902A5B</type>
+</modele>
+<modele nom="SPRINT 1.7 COUPE Q.V">
+<type>902A6</type>
+</modele>
+</marque>
+<marque nom="ARO">
+<modele nom="ARO 7CV">
+<type>10.1</type>
+<type>10.3</type>
+<type>10.4</type>
+</modele>
+<modele nom="FORESTER 10CV">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="ASIA">
+<modele nom="FOURGON 0.8">
+<type>ANM8D1</type>
+</modele>
+</marque>
+<marque nom="ASTON MARTIN">
+<modele nom="CYGNET 1.3 VVT">
+<type>MH11</type>
+</modele>
+<modele nom="DB7 3.2 COUPE">
+<type>*</type>
+</modele>
+<modele nom="DB7 6.0 CABRIOLET">
+<type>*</type>
+</modele>
+<modele nom="DB7 6.0 COUPE/6.0 GT COUPE">
+<type>*</type>
+</modele>
+<modele nom="DB9 5.9 COUPE">
+<type>FDAAM2</type>
+<type>VF3CU9HP0</type>
+</modele>
+<modele nom="DB9/DB9 VOLANTE">
+<type>*</type>
+</modele>
+<modele nom="DBS 5.9 COUPE/DBS 5.9 VOLANTE">
+<type>*</type>
+<type>AD06D3</type>
+</modele>
+<modele nom="RAPIDE 5.9">
+<type>*</type>
+</modele>
+<modele nom="RAPIDE S 5.9">
+<type>HDDAT1</type>
+<type>VH1G4L4TAAE</type>
+</modele>
+<modele nom="V8 VANTAGE 4.3 COUPE/CABRIOLET">
+<type>BF03B</type>
+</modele>
+<modele nom="V8 VANTAGE 4.7 COUPE/CABRIOLET">
+<type>BF03C9</type>
+</modele>
+<modele nom="V8 VANTAGE N430 4.7 COUPE">
+<type>GBBAL3</type>
+</modele>
+<modele nom="V8 VANTAGE S 4.7 COUPE">
+<type>EKBDL6</type>
+<type>KBDL6EGC</type>
+</modele>
+<modele nom="VANQUISH 6.0/6.0 SSM COUPE">
+<type>*</type>
+</modele>
+<modele nom="VIRAGE COUPE V8">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="AUDI">
+<modele nom="100 1.8">
+<type>43YV2</type>
+<type>44</type>
+<type>44DR2</type>
+<type>44DS2</type>
+<type>44DS3</type>
+<type>44NP2</type>
+</modele>
+<modele nom="100 2.0 E">
+<type>43WA</type>
+<type>43WB</type>
+<type>44KP2</type>
+<type>44KP3</type>
+<type>44RT2</type>
+<type>44RT3</type>
+<type>44WC</type>
+</modele>
+<modele nom="100 2.2">
+<type>44KU2</type>
+<type>44KU3</type>
+</modele>
+<modele nom="100 2.3 E /5000 SI">
+<type>44</type>
+<type>44KV</type>
+<type>44NF2</type>
+<type>44NF3</type>
+<type>4AZOH4</type>
+<type>HD044</type>
+</modele>
+<modele nom="100 2.4 D">
+<type>C4AAS2</type>
+</modele>
+<modele nom="100 2.5 TDI">
+<type>441T2</type>
+<type>4A20N2</type>
+<type>C4</type>
+<type>C4AAT4</type>
+<type>Q4AAT4</type>
+</modele>
+<modele nom="100 2.8 V6">
+<type>C4AAH2</type>
+<type>C4AAH4</type>
+</modele>
+<modele nom="100 AVANT 1.8 7 CV (BREAK)">
+<type>445DS2</type>
+<type>445NP2</type>
+</modele>
+<modele nom="100 AVANT 2.0 E (BREAK)">
+<type>445RT2</type>
+<type>445RT3</type>
+</modele>
+<modele nom="100 AVANT 2.2 E (BREAK)">
+<type>445KU2</type>
+<type>445KU3</type>
+</modele>
+<modele nom="100 AVANT 2.3 E (BREAK)">
+<type>445NF2</type>
+<type>445NF3</type>
+</modele>
+<modele nom="100 AVANT DIES TBO (BREAK)">
+<type>445DE2</type>
+<type>445DN2</type>
+<type>445NC2</type>
+</modele>
+<modele nom="100 AVANT DIESEL (BREAK)">
+<type>4453D2</type>
+<type>445CN2</type>
+<type>44CN2</type>
+</modele>
+<modele nom="100 AVANT QUATRO TURBO SP (BREAK)">
+<type>445MC2Q</type>
+</modele>
+<modele nom="100 AVANT QUATRO/CS QUATRO (BREAK)">
+<type>445KU2Q</type>
+<type>445NF2Q</type>
+</modele>
+<modele nom="100 AVANT TURBO SPORT (BREAK)">
+<type>445MC2</type>
+<type>445MC3</type>
+</modele>
+<modele nom="100 DIES/ DIES TBO">
+<type>43CN1</type>
+<type>43CN2</type>
+<type>44</type>
+<type>443D2</type>
+<type>44CN</type>
+<type>44CN1</type>
+<type>44CN2</type>
+<type>44CN21</type>
+<type>44DE</type>
+<type>44DE2</type>
+<type>44DE3</type>
+<type>44K42</type>
+<type>44KU</type>
+<type>44KU2</type>
+<type>44NC2</type>
+<type>44ZN</type>
+</modele>
+<modele nom="100 QUATRO SPORT">
+<type>44NF22</type>
+<type>44NF2Q</type>
+</modele>
+<modele nom="100 QUATRO TURBO SPORT">
+<type>44MC2Q</type>
+</modele>
+<modele nom="100 QUATRO/CS QUATRO">
+<type>44KU2Q</type>
+<type>44NF2Q</type>
+</modele>
+<modele nom="200 QUATRO">
+<type>445KG2Q</type>
+<type>4471B2Q</type>
+<type>44KG2A</type>
+</modele>
+<modele nom="200 QUATRO 20 V">
+<type>4473B2Q</type>
+<type>447KG2A</type>
+</modele>
+<modele nom="200 QUATRO AVANT 20 V (BREAK)">
+<type>4453B22</type>
+<type>4453B2Q</type>
+</modele>
+<modele nom="200 TURBO">
+<type>43</type>
+<type>43WJ2</type>
+<type>44</type>
+<type>4471B2</type>
+<type>4472B3</type>
+<type>44KG2</type>
+<type>44KG3</type>
+</modele>
+<modele nom="80 1.6 DIES/ DIES TBO">
+<type>81</type>
+<type>813191</type>
+<type>81CR</type>
+<type>81CR1</type>
+<type>81CR2</type>
+<type>81CY</type>
+<type>81CY2</type>
+<type>81CY2A</type>
+<type>81GR1</type>
+<type>81JK2</type>
+<type>81ZC</type>
+<type>81ZCA</type>
+<type>89</type>
+<type>89JK</type>
+<type>89JK2</type>
+<type>89RA</type>
+<type>89RA2</type>
+<type>89RA21</type>
+<type>89RAZ</type>
+<type>89SB2</type>
+<type>89ZHA</type>
+<type>89ZJA</type>
+<type>89ZK1</type>
+<type>89ZKA</type>
+<type>RA89</type>
+</modele>
+<modele nom="80 1.8">
+<type>81DZ2</type>
+<type>85DS2</type>
+<type>85DS3</type>
+<type>89</type>
+<type>89DZ2</type>
+<type>89NE2</type>
+<type>89NE3</type>
+<type>89RU2</type>
+<type>8A20P2</type>
+</modele>
+<modele nom="80 1.9 D/TD/TDI CABRIOLET ">
+<type>89</type>
+<type>8G</type>
+</modele>
+<modele nom="80 1.9 DIESEL">
+<type>81</type>
+<type>891Y</type>
+<type>891Y2</type>
+</modele>
+<modele nom="80 1.9 TD/TDI">
+<type>44</type>
+<type>8C17</type>
+<type>8C1Z</type>
+<type>8C20W4</type>
+<type>8CAAZ</type>
+<type>B4</type>
+<type>B41Z2</type>
+<type>B41Z4</type>
+<type>B4AA72</type>
+<type>B4AAZ2</type>
+</modele>
+<modele nom="80 1.9 TDI AVANT (BREAK)">
+<type>8C50X4</type>
+<type>B4</type>
+</modele>
+<modele nom="80 2.0 AVANT (BREAK)">
+<type>B4</type>
+<type>B4ABT2</type>
+<type>BAADA2</type>
+</modele>
+<modele nom="80 2.0 E">
+<type>893A2</type>
+<type>89AAD2</type>
+<type>89AAD3</type>
+<type>B4</type>
+<type>B4ABK2</type>
+<type>B4ABK4</type>
+<type>B4ACE2</type>
+</modele>
+<modele nom="80 2.3 E">
+<type>8CNG</type>
+<type>B4</type>
+</modele>
+<modele nom="80 2.6 AVANT">
+<type>BAABC2, BAABC4A </type>
+</modele>
+<modele nom="80 2.8 E V6">
+<type>B4</type>
+<type>B4AAH2</type>
+</modele>
+<modele nom="80 CC/CD/GL/GLS/L/LS">
+<type>80N</type>
+<type>81</type>
+<type>813131</type>
+<type>813231</type>
+<type>814P1</type>
+<type>814Z1</type>
+<type>814Z2</type>
+<type>81DS</type>
+<type>81DS1</type>
+<type>81DS2</type>
+<type>81DS3</type>
+<type>81DT1</type>
+<type>81DT2</type>
+<type>81DT3</type>
+<type>81EP1A</type>
+<type>81FZ</type>
+<type>81FZ1</type>
+<type>81JS2</type>
+<type>81WN2</type>
+<type>81WN3</type>
+<type>81YN</type>
+<type>81YP1</type>
+<type>81YP2</type>
+<type>81YZ1</type>
+<type>89RN</type>
+<type>89RN2</type>
+<type>8CAAZ</type>
+<type>92YP1</type>
+</modele>
+<modele nom="80 QUATRO 1.8/1.8 CABRIOLET">
+<type>81</type>
+<type>81DZ24Q</type>
+<type>89DZ2</type>
+<type>89DZ2Q</type>
+<type>8G</type>
+</modele>
+<modele nom="80 QUATRO 2.0 E">
+<type>85DS</type>
+<type>85DS2Q</type>
+<type>893A2Q</type>
+<type>B4ABK2Q</type>
+<type>B4LACE2Q</type>
+</modele>
+<modele nom="80 QUATRO 2.2">
+<type>85</type>
+</modele>
+<modele nom="80 RS 2.2 QUATTRO AVANT">
+<type>8C</type>
+<type>BAADU6Q</type>
+</modele>
+<modele nom="80 TBO">
+<type>81DT2</type>
+<type>89</type>
+<type>89RU</type>
+</modele>
+<modele nom="90 2.0 E/2.0">
+<type>81JS224</type>
+<type>81KV24</type>
+<type>81KV240</type>
+<type>89KV2</type>
+<type>89PS2</type>
+</modele>
+<modele nom="90 2.2 E">
+<type>81KV24</type>
+<type>89KV2</type>
+</modele>
+<modele nom="90 2.3 E">
+<type>89NG2</type>
+<type>89NG3</type>
+</modele>
+<modele nom="90 20 V">
+<type>897A2</type>
+</modele>
+<modele nom="90 DIES TBO">
+<type>81CY2</type>
+</modele>
+<modele nom="90 QUATTRO">
+<type>81KV22</type>
+<type>81KV24</type>
+<type>81KV24Q</type>
+<type>81KV2Q</type>
+<type>89KV2Q</type>
+<type>89KZ20</type>
+<type>89KZ2Q</type>
+<type>89NG2Q</type>
+</modele>
+<modele nom="90 QUATTRO 20 S">
+<type>897A2Q</type>
+<type>89NM2Q</type>
+</modele>
+<modele nom="A1 1.2/ TFSI/ SPORTBACK">
+<type>8X</type>
+</modele>
+<modele nom="A1 1.4 TFSI (185CH)">
+<type>8X</type>
+<type>8X7</type>
+</modele>
+<modele nom="A1 1.4/ TFSI/ SPORTBACK">
+<type>8X</type>
+</modele>
+<modele nom="A1 1.6 TDI/COUPE/S LINE/SPORTBACK">
+<type>8X</type>
+</modele>
+<modele nom="A2 1.4">
+<type>8Z</type>
+<type>AZ</type>
+</modele>
+<modele nom="A2 1.4 TDI">
+<type>AZ</type>
+</modele>
+<modele nom="A2 1.6">
+<type>AZ</type>
+</modele>
+<modele nom="A3 1.4 TFSI ">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 1.4 TFSI (140 CH)">
+<type>8V</type>
+</modele>
+<modele nom="A3 1.4 TFSI (TYPE AYJFF)">
+<type>AYJFF</type>
+</modele>
+<modele nom="A3 1.4 TFSI CABRIOLET">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.6">
+<type>8L</type>
+</modele>
+<modele nom="A3 1.6 TDI CABRIOLET">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.6 TDI CABRIOLET S LINE/LUXE">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.6 TDI S LINE/AMBITION LUXE/ SPORTBACK / BREAK">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 1.6 TDI/ SPORTBACK / BREAK">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 1.6/1.6 SPORT BACK">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.8 TFSI ">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.8/TBO">
+<type>8L</type>
+<type>MAUOOOAGN980</type>
+<type>MAUOOOAGS669</type>
+<type>MAUOOOAGT670</type>
+<type>MAUOOOAGY675</type>
+</modele>
+<modele nom="A3 1.9 TDI">
+<type>8L</type>
+<type>MAU000AG0677</type>
+<type>MAUOOOAGU671</type>
+<type>MAUOOOAGV672</type>
+</modele>
+<modele nom="A3 1.9 TDI / SPORT BACK (TYPE 8P)">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.9 TDI CABRIOLET">
+<type>8P</type>
+</modele>
+<modele nom="A3 1.9 TDI CABRIOLET S LINE/LUXE">
+<type>8P</type>
+</modele>
+<modele nom="A3 2.0 TDI CABRIOLET/S TRONIC/S LINE/AMBITION LUXE">
+<type>8P</type>
+</modele>
+<modele nom="A3 2.0 TDI QUATTRO/SPORTBACK QUATTRO/S LINE/A.LUXE">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 2.0 TDI/A3 S3/SPORT BACK/S LINE/AMBITION LUXE">
+<type>8P</type>
+<type>8V</type>
+</modele>
+<modele nom="A3 2.0 TFSI (200 CV)">
+<type>8P</type>
+</modele>
+<modele nom="A3 2.0 TFSI (265 CV)/A3 S3">
+<type>8P</type>
+</modele>
+<modele nom="A3 3.2 QUATTRO 4X4/ BREAK">
+<type>8L</type>
+<type>8P</type>
+<type>8P1B19</type>
+<type>8P1B1L</type>
+<type>8PAB19</type>
+<type>8PAB1L</type>
+</modele>
+<modele nom="A3 S3 1.8 TBO/S3/QUATTRO/COUPE/BERLINE">
+<type>1AB882</type>
+<type>MAU2961G2681</type>
+</modele>
+<modele nom="A3 S3 1.9 TDI">
+<type>8P</type>
+</modele>
+<modele nom="A4 1.6">
+<type>8D</type>
+<type>8E</type>
+<type>B5LADP2</type>
+<type>B5LADP4</type>
+</modele>
+<modele nom="A4 1.8 20V QUATTRO">
+<type>8D</type>
+<type>B5LADR2Q</type>
+</modele>
+<modele nom="A4 1.8 AMBITION LUXE/BREAK">
+<type>8K</type>
+</modele>
+<modele nom="A4 1.8 AVANT (BREAK)">
+<type>8D</type>
+<type>8E</type>
+<type>MAU000AF2</type>
+<type>MAUOOOAF3</type>
+</modele>
+<modele nom="A4 1.8 TBO AVANT (BREAK)">
+<type>8D</type>
+<type>8E</type>
+<type>MAU000AFC</type>
+<type>MAUOOOAFO</type>
+</modele>
+<modele nom="A4 1.8 TBO QUATTRO/ 1.8 20V TBO">
+<type>8E</type>
+<type>B5LAEB2Q</type>
+</modele>
+<modele nom="A4 1.8 TURBO/1.8 TURBO 20V">
+<type>8D</type>
+<type>B5LAEB</type>
+<type>B5LAEB2</type>
+<type>B5LAEB5</type>
+</modele>
+<modele nom="A4 1.8/1.8 20V">
+<type>8D</type>
+<type>8E</type>
+<type>B5LADR2</type>
+<type>B5LADR4</type>
+</modele>
+<modele nom="A4 1.8/BREAK">
+<type>8K</type>
+</modele>
+<modele nom="A4 1.8T CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 1.9 DI/AVANT">
+<type>8D</type>
+<type>8E</type>
+<type>MAUOOOAF</type>
+</modele>
+<modele nom="A4 1.9 TDI">
+<type>8D</type>
+<type>8E</type>
+<type>B51LZTA</type>
+<type>B5L1Z2</type>
+<type>B5L1Z4</type>
+<type>B5LAFN</type>
+<type>MAU5442FD745</type>
+</modele>
+<modele nom="A4 1.9 TDI /AVANT(BREAK)/QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 1.9 TDI SLINE/PACK +/A.LUXE/AVANT(BK)/QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.0 /BREAK">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.0 TDI ALLROAD /S LINE/BREAK/QUATTRO">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TDI ALLROAD AMBITION LUXE/ QUATTRO">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TDI AMBITION LUXE/ QUATTRO/ BREAK">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TDI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.0 TDI/S LINE/AMBITION LUXE/BREAK/AVANT">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.0 TDI/S LINE/BREAK / QUATTRO (TYPE 8K)">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.0 TFSI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.0 TFSI CABRIOLET LUXE">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.0 TFSI/2.0 T/QUATTRO">
+<type>AF78E</type>
+<type>AFAFL</type>
+<type>DF78E8</type>
+<type>EF78E</type>
+<type>LF78K</type>
+</modele>
+<modele nom="A4 2.4">
+<type>8E</type>
+</modele>
+<modele nom="A4 2.4 CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.5 TDI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 2.5 TDI QUATTRO/BRK QUATTRO">
+<type>8D</type>
+<type>8E</type>
+</modele>
+<modele nom="A4 2.5 TDI/BRK">
+<type>8D</type>
+<type>8E</type>
+</modele>
+<modele nom="A4 2.7 TDI S LINE PLUS">
+<type>8K</type>
+</modele>
+<modele nom="A4 2.7 TDI/S LINE/AMBITION LUXE/AVANT">
+<type>8E</type>
+<type>8K</type>
+</modele>
+<modele nom="A4 2.8">
+<type>8D</type>
+<type>8E</type>
+<type>C4AAH2</type>
+<type>C4AAH4A</type>
+</modele>
+<modele nom="A4 2.8 AVANT (BREAK)">
+<type>8D</type>
+<type>8E</type>
+<type>MAUOOOAFS</type>
+<type>MAUOOOAFT</type>
+</modele>
+<modele nom="A4 2.8 AVANT QUATTRO (BREAK)">
+<type>8D</type>
+<type>MAU000AFV</type>
+</modele>
+<modele nom="A4 2.8 QUATTRO">
+<type>8D</type>
+<type>B5LAAH2Q</type>
+<type>B5LAAH5Q</type>
+</modele>
+<modele nom="A4 3.0">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 AVANT ( BREAK)">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 AVANT QUATTRO ( BREAK )">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 AVANT QUATTRO (TYPE VT)">
+<type>VT58E</type>
+<type>VT68E</type>
+</modele>
+<modele nom="A4 3.0 CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 3.0 QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 QUATTRO 4X4 CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 3.0 TDI ALLROAD QUATTRO">
+<type>8K</type>
+</modele>
+<modele nom="A4 3.0 TDI ALLROAD QUATTRO AMBITION LUXE">
+<type>8K</type>
+</modele>
+<modele nom="A4 3.0 TDI AVANT QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 TDI CABRIOLET">
+<type>8H</type>
+</modele>
+<modele nom="A4 3.0 TDI QUATTRO">
+<type>8E</type>
+</modele>
+<modele nom="A4 3.0 TDI QUATTRO AMBITION LUXE/BREAK (TYPE 8K)">
+<type>8K</type>
+</modele>
+<modele nom="A4 3.0 TDI QUATTRO/BREAK (TYPE 8K)">
+<type>8K</type>
+</modele>
+<modele nom="A4 S4 4.2 AVANT QUATTRO (BREAK)">
+<type>8EDS49</type>
+<type>8EDS4L</type>
+</modele>
+<modele nom="A4 S4 4.2 AVANT QUATTRO (BREAK) (TYPE 8D)">
+<type>8D</type>
+</modele>
+<modele nom="A4 S4 4.2 CABRIOLET QUATTRO">
+<type>8H7S49</type>
+<type>8H7S4L</type>
+</modele>
+<modele nom="A4 S4 4.2 QUATTRO">
+<type>8ECS49</type>
+<type>8ECS4L</type>
+</modele>
+<modele nom="A4 S4 4.2 QUATTRO (TYPE 8D)">
+<type>8D</type>
+</modele>
+<modele nom="A5 1.8">
+<type>8T98A0</type>
+</modele>
+<modele nom="A5 1.8 TFSI AVUS/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 1.8 TFSI S LINE/AMBITION LUXE/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 1.8 TFSI/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TDI CABRIOLET">
+<type>8F</type>
+</modele>
+<modele nom="A5 2.0 TDI CABRIOLET SLINE/AMBITION LUXE/AVUS">
+<type>8F</type>
+</modele>
+<modele nom="A5 2.0 TDI S LINE/AMBITION LUXE/SPORTBACK/QUATR">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TDI/QUATTRO/SPORTBACK">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TFSI S LINE/AMBITION LUXE/LINE PLUS/QUATTRO">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TFSI/QUATTRO">
+<type>8T</type>
+</modele>
+<modele nom="A5 2.0 TFSI/QUATTRO (TYPE CF/LF)">
+<type>CFAFR</type>
+<type>LFAFR</type>
+</modele>
+<modele nom="A5 2.7 TDI/S LINE/AMBITION LUXE">
+<type>8T</type>
+</modele>
+<modele nom="A5 3.0 TDI /QUATTRO/COUPE/S LINE/AMBITION LUXE">
+<type>8T</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET AMBIENTE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET AVUS">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET LUXE/S LINE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET QUATTRO AMBIENTE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET QUATTRO AVUS">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.0 TDI CABRIOLET QUATTRO LUXE/ S LINE">
+<type>8F</type>
+<type>8F7OHY</type>
+</modele>
+<modele nom="A5 3.2 COUPE/QUATTRO">
+<type>8T</type>
+</modele>
+<modele nom="A6 1.8">
+<type>C4ADR2</type>
+<type>C4ADR4</type>
+</modele>
+<modele nom="A6 1.8 AVANT (BREAK)">
+<type>CAADR2</type>
+<type>CAADR4</type>
+</modele>
+<modele nom="A6 1.8T">
+<type>*</type>
+</modele>
+<modele nom="A6 1.8T QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 1.9 TDI">
+<type>4B</type>
+<type>4B2014</type>
+<type>C41Z2</type>
+<type>C41Z4</type>
+</modele>
+<modele nom="A6 1.9 TDI AVANT (BREAK)">
+<type>CA1Z2</type>
+<type>CA1Z4</type>
+</modele>
+<modele nom="A6 2.0">
+<type>C4ABK2</type>
+<type>C4ABK4A</type>
+</modele>
+<modele nom="A6 2.0 AVANT (BREAK)">
+<type>CAABK2</type>
+<type>CAABK4A</type>
+</modele>
+<modele nom="A6 2.0 TDI AVUS/S LINE/ AMBITION/AVANT(TYPE 4G/4F)">
+<type>4F</type>
+<type>4G</type>
+</modele>
+<modele nom="A6 2.0 TDI/AVANT/BREAK (TYPES 4G/4F)">
+<type>4F</type>
+<type>4G</type>
+</modele>
+<modele nom="A6 2.0 TFSI (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.0 TFSI AMBITION LUXE/EXCLUSIVE LINE (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.0/QUATTRO/ PREMIUM/PREMIUM PLUS">
+<type>AFCFC</type>
+<type>FFAFC</type>
+<type>GFAFC</type>
+</modele>
+<modele nom="A6 2.4">
+<type>4B</type>
+<type>4F</type>
+</modele>
+<modele nom="A6 2.4 AVANT (BREAK)">
+<type>4B</type>
+</modele>
+<modele nom="A6 2.4 AVANT QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 2.4 LUXE/EXCLUSIVE LINE">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.4 QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 2.5 TDI">
+<type>4B</type>
+<type>C4AAT2</type>
+<type>C4AAT4</type>
+<type>C4AEL2</type>
+<type>C4AEL4</type>
+<type>C4AEL6</type>
+</modele>
+<modele nom="A6 2.5 TDI AVANT (BREAK)">
+<type>4B</type>
+<type>CAAAT2</type>
+<type>CAAAT4</type>
+<type>CAAEL2</type>
+<type>CAAEL4</type>
+<type>CAAEL6</type>
+</modele>
+<modele nom="A6 2.5 TDI AVANT QUATTRO (BREAK)">
+<type>CAAEL6Q</type>
+</modele>
+<modele nom="A6 2.5 TDI QUATTRO">
+<type>4B</type>
+<type>C4AEL6Q</type>
+</modele>
+<modele nom="A6 2.6">
+<type>C4ABC2</type>
+<type>C4ABC4</type>
+</modele>
+<modele nom="A6 2.6 AVANT (BREAK)">
+<type>CAABC2</type>
+<type>CAABC4</type>
+</modele>
+<modele nom="A6 2.7 T BREAK QUATTRO/ALLROAD 4X4">
+<type>4BHD7T</type>
+</modele>
+<modele nom="A6 2.7 TDI AMBITION LUX/EXCLUSIVE LINE/QUATTRO">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.7 TDI AVANT AMBITION LUXE/EXCLU LINE/QUATTRO">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.7 TDI AVANT/QUATTRO/S LINE">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.7 TDI/QUATTRO/S LINE">
+<type>4F</type>
+</modele>
+<modele nom="A6 2.8">
+<type>C4AAH2</type>
+<type>C4AAH4A</type>
+<type>C4ACK2</type>
+<type>C4ACK4</type>
+<type>C4AKC2</type>
+<type>C4AKC4</type>
+</modele>
+<modele nom="A6 2.8 AVANT (BREAK)">
+<type>CAAAH2</type>
+<type>CAAAH4A</type>
+<type>CAACK2</type>
+<type>CAACK4</type>
+</modele>
+<modele nom="A6 2.8 V6 AVANT QUATTRO (BREAK)">
+<type>CAAAH2Q</type>
+<type>CAAAH4Q</type>
+<type>CAACK2Q</type>
+<type>CAACK4Q</type>
+</modele>
+<modele nom="A6 2.8 V6 QUATTRO">
+<type>C4AAH2Q</type>
+<type>C4AAH4Q</type>
+<type>C4ACK2Q</type>
+<type>C4ACK4Q</type>
+</modele>
+<modele nom="A6 3.0">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 ALLROAD QUATTRO/QUATTRO TIPTRONIC">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.0 AVANT">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 AVANT QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 BITDI AVUS/TDI 313CH/AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 BITDI/TDI 313CH/AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 3.0 TDI / QUATTRO/ AMBIENTE/AMBITION/S LINE ">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI AVUS AVANT/ALLROAD/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI AVUS/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A6 3.0 TDI QUATTRO (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.0 TDI QUATTRO LUXE/EXCLUSIVE LINE (TYPE 4F)">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.2 FSI A.LUXE/EX.LINE/AVUS/QUATTRO/ALLROAD/BK ">
+<type>4F</type>
+</modele>
+<modele nom="A6 3.2 FSI/QUATTRO/ALLROAD/BREAK">
+<type>4F</type>
+</modele>
+<modele nom="A6 4.2 ALLROAD QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 4.2 RS6 QUATTRO/AVANT (BREAK)">
+<type>*</type>
+</modele>
+<modele nom="A6 S6 2.2 QUATTRO">
+<type>C4AAN2Q</type>
+<type>C4AAN4Q</type>
+<type>C4AAN6Q</type>
+</modele>
+<modele nom="A6 S6 2.2 TBO 6V AVANT QUATTRO (BREAK)">
+<type>CAAAN2Q</type>
+<type>CAAAN4Q</type>
+<type>CAAAN6Q</type>
+</modele>
+<modele nom="A6 S6 4.2 V8 AVANT QUATTRO (BREAK)">
+<type>CAAEC4Q</type>
+<type>CAAEC6Q</type>
+<type>Q1AAHK6</type>
+</modele>
+<modele nom="A6 S6 4.2 V8 QUATTRO">
+<type>C4AEC4Q</type>
+<type>C4AEC6Q</type>
+<type>Q1LAHK6</type>
+</modele>
+<modele nom="A6 S6 TBO 6V QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="A6 V8 4.2 / QUATTRO/AVANT (BREAK)">
+<type>*</type>
+</modele>
+<modele nom="A7 3.0 TDI SPORTBACK 204CH AVUS/QUATTRO">
+<type>4G</type>
+</modele>
+<modele nom="A7 3.0 TDI SPORTBACK 204CH/QUATTRO/A.LUXE">
+<type>4G</type>
+</modele>
+<modele nom="A7 3.0 TDI SPORTBACK QUATTRO AVUS 245CH/313CH">
+<type>4G</type>
+</modele>
+<modele nom="A7 3.0 TDI SPOTBACK QUATTRO 245/313CH/A.LUXE/SLINE">
+<type>4G</type>
+</modele>
+<modele nom="A8 2.5 TDI">
+<type>MAUOO1ABP246</type>
+</modele>
+<modele nom="A8 2.5 TDI AVUS">
+<type>MAUOO1ABL242</type>
+</modele>
+<modele nom="A8 2.5 TDI AVUS QUATTRO">
+<type>MAUOO1ABT250</type>
+</modele>
+<modele nom="A8 2.5 TDI QUATTRO">
+<type>MAUOO1ABT250</type>
+</modele>
+<modele nom="A8 2.8 V6 QUATTRO">
+<type>D2LAAH2Q</type>
+<type>D2LAAH5Q</type>
+</modele>
+<modele nom="A8 2.8/2.8 V6">
+<type>D2LAAH2</type>
+<type>D2LAAH4</type>
+<type>D2LAAH5</type>
+</modele>
+<modele nom="A8 3.0 TDI AVUS QUATTRO (TYPE 4E)">
+<type>4E204L</type>
+<type>4E806L</type>
+</modele>
+<modele nom="A8 3.0 TDI AVUS/QUATTRO/LIMOUSINE">
+<type>4H</type>
+<type>4HC0UA</type>
+</modele>
+<modele nom="A8 3.0 TDI QUATTRO (TYPE 4E)">
+<type>4E204L</type>
+</modele>
+<modele nom="A8 3.0 TDI/QUATTRO/LIMOUSINE">
+<type>4H</type>
+<type>4HC0UA</type>
+</modele>
+<modele nom="A8 3.0/QUATTRO">
+<type>AGAFD</type>
+<type>RGAFD</type>
+<type>YGBFD</type>
+</modele>
+<modele nom="A8 3.7 V8">
+<type>D2LAEWS</type>
+</modele>
+<modele nom="A8 3.7 V8 AVUS QUATTRO">
+<type>4E202L</type>
+</modele>
+<modele nom="A8 3.7 V8 QUATTRO">
+<type>4E202L</type>
+<type>MAUOOOAB3455</type>
+</modele>
+<modele nom="A8 4,2/A8L 4,2 (TYPE 4H)">
+<type>4H</type>
+</modele>
+<modele nom="A8 4.0 LIMOUSINE TFSI QUATTRO ">
+<type>4H80CA</type>
+</modele>
+<modele nom="A8 4.0 QUATTRO (TYPES R2/Y2)">
+<type>R2BFD</type>
+<type>Y2BFD</type>
+</modele>
+<modele nom="A8 4.0 TDI AVUS QUATTRO">
+<type>4E203L</type>
+</modele>
+<modele nom="A8 4.0 TDI LIMOUSINE AVUS QUATTRO">
+<type>4E803L</type>
+</modele>
+<modele nom="A8 4.0 TDI QUATTRO">
+<type>4E203L</type>
+</modele>
+<modele nom="A8 4.2 QUATTRO">
+<type>LV44E</type>
+<type>ML54D</type>
+<type>MV44E</type>
+<type>MV94E</type>
+</modele>
+<modele nom="A8 4.2 TDI">
+<type>4H</type>
+</modele>
+<modele nom="A8 4.2 TDI AVUS">
+<type>4H</type>
+</modele>
+<modele nom="A8 4.2 V8 AVUS QUATTRO">
+<type>4E201L</type>
+</modele>
+<modele nom="A8 4.2 V8 LIMOUSINE AVUS QUATTRO">
+<type>4E801L</type>
+</modele>
+<modele nom="A8 4.2 V8 QUATTRO">
+<type>4E201L</type>
+<type>D2LABZ4Q</type>
+</modele>
+<modele nom="A8 6.0 AVUS QUATTRO">
+<type>4E20CL</type>
+</modele>
+<modele nom="A8 6.0 LIMOUSINE AVUS QUATTRO">
+<type>4E80CL</type>
+</modele>
+<modele nom="A8 6.3 LIMOUSINE FSI W12 QUATTRO">
+<type>4H</type>
+<type>4H80GA</type>
+</modele>
+<modele nom="A8 S8 FSI 5.2">
+<type>4EX7N0</type>
+</modele>
+<modele nom="ALLROAD QUATTRO 2.5 TDI/BREAK">
+<type>4B</type>
+</modele>
+<modele nom="CABRIOLET 1.9 TDI">
+<type>8G</type>
+<type>BC1Z2</type>
+</modele>
+<modele nom="CABRIOLET 2.0 E">
+<type>ABK2K</type>
+<type>BCABK2</type>
+</modele>
+<modele nom="CABRIOLET 2.3L">
+<type>BCNG</type>
+<type>BCNG2</type>
+<type>BCNG4</type>
+</modele>
+<modele nom="CABRIOLET 2.6 V6">
+<type>BCABC2</type>
+<type>BCABC4</type>
+</modele>
+<modele nom="CABRIOLET 2.6/80">
+<type>BC70MB</type>
+</modele>
+<modele nom="CABRIOLET 2.8">
+<type>AGE251</type>
+<type>BCAAH2</type>
+<type>BCAAH4</type>
+</modele>
+<modele nom="COUPE 2.0 E/2.2 E/2.3 E">
+<type>8953A2</type>
+<type>8953A3</type>
+<type>895KV2</type>
+<type>895NG2</type>
+<type>89ABK2K</type>
+<type>BBABK2</type>
+<type>BBABK4A</type>
+</modele>
+<modele nom="COUPE 2.2 S2 TBO/2.2 QUATTRO 4X4">
+<type>BBABY6Q</type>
+</modele>
+<modele nom="COUPE 2.3E/2.3E QUATTRO">
+<type>8957A2</type>
+<type>8957A2Q</type>
+<type>895NG22</type>
+<type>895NG2Q</type>
+</modele>
+<modele nom="COUPE 2.6 V6">
+<type>BBABC2</type>
+<type>BBABC4A</type>
+</modele>
+<modele nom="Q3 2.0 TDI ">
+<type>8U</type>
+</modele>
+<modele nom="Q3 2.0 TDI QUATTRO/ S LINE/ LUXE">
+<type>8U</type>
+</modele>
+<modele nom="Q3 2.0 TFSI (211CH)/AMBITION LUXE/S LINE">
+<type>8U</type>
+</modele>
+<modele nom="Q3 2.0 TFSI/AMBITION LUXE/S LINE">
+<type>8U</type>
+</modele>
+<modele nom="Q5 2.0 T QUATTRO">
+<type>WFCFP</type>
+</modele>
+<modele nom="Q5 2.0 TDI AMBITION LUXE/S LINE/AVUS/QUATTRO S TRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TDI/QUATTRO S TRONIC">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TFSI AMBITION LUXE/S LINE/AVUS/QUATTRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TFSI/QUATTRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 2.0 TFSI/QUATTRO/PREMIUM/PREMIUM PLUS">
+<type>CFAFP</type>
+<type>LFAFP</type>
+</modele>
+<modele nom="Q5 3.0 TDI/QUATTRO">
+<type>8R</type>
+</modele>
+<modele nom="Q5 3.0 TDI/QUATTRO/LUXE/S LINE/AVUS">
+<type>8R</type>
+</modele>
+<modele nom="Q5 3.2 QUATTRO/PREMIUM PLUS">
+<type>CKBFP</type>
+<type>DKAFP</type>
+<type>LKAFP</type>
+</modele>
+<modele nom="Q5 3.2/QUATTRO">
+<type>KF98R</type>
+<type>KK58R</type>
+<type>KK68R</type>
+<type>KK78R</type>
+</modele>
+<modele nom="Q7 3.0 T PREMIUM">
+<type>CGAFE</type>
+</modele>
+<modele nom="Q7 3.0 T PREMIUM PLUS">
+<type>LGAFE</type>
+</modele>
+<modele nom="Q7 3.0 T SLINE PRESTIGE">
+<type>AGD4L</type>
+<type>AGDFE</type>
+<type>DGAFE</type>
+</modele>
+<modele nom="Q7 3.0 TDI AVUS (TYPE 4M)">
+<type>4M</type>
+</modele>
+<modele nom="Q7 3.0 TDI AVUS/QUATTRO (4LBOQA/4LBOWA/4L2BD0)">
+<type>4L2BD0</type>
+<type>4LBOQA</type>
+<type>4LBOWA</type>
+</modele>
+<modele nom="Q7 3.0 TDI AVUS/QUATTRO/DPF">
+<type>4EBOFL</type>
+<type>4LB0FL</type>
+<type>4LB0UL</type>
+<type>4LB5BL</type>
+<type>4LB7BL</type>
+<type>4LBOHL</type>
+<type>4LBOML</type>
+<type>4LBOPL</type>
+</modele>
+<modele nom="Q7 3.0 TDI QUATTRO PREMIUM/PRESTGE(TYPE CM/LM/MM)">
+<type>CMAFE</type>
+<type>LMAFE </type>
+<type>MMAFE</type>
+<type>MMAFE2</type>
+</modele>
+<modele nom="Q7 3.0 TDI QUATTRO S LINE (TYPE CM/LM/MM)">
+<type>CMAFE</type>
+<type>LMAFE</type>
+<type>MMAFE</type>
+<type>MMAFE2</type>
+</modele>
+<modele nom="Q7 3.0 TDI QUATTRO/S LINE/DPF">
+<type>4EBOFL</type>
+<type>4LB0EL</type>
+<type>4LB0UL</type>
+<type>4LB5BL</type>
+<type>4LB7BL</type>
+<type>4LBOFL</type>
+<type>4LBOML</type>
+<type>4LBOPL</type>
+</modele>
+<modele nom="Q7 3.0 TDI/ S LINE/ AMBI LUXE (TYPE 4M)">
+<type>4M</type>
+</modele>
+<modele nom="Q7 3.0 TDI/AMBITIO LUX/S LINE/QUAT(4LBOQA/4LBOWA) ">
+<type>4L2BD0</type>
+<type>4LBOQA</type>
+<type>4LBOWA</type>
+</modele>
+<modele nom="Q7 3.0 TDI/QUATTRO (TYPE CM/LM/MM)">
+<type>CMAFE</type>
+<type>LMAFE5</type>
+<type>MMAFE</type>
+<type>MMAFE2</type>
+</modele>
+<modele nom="Q7 3.6 QUATTRO">
+<type>AY54L</type>
+<type>AY74L</type>
+<type>BY74L</type>
+<type>CYAFE</type>
+</modele>
+<modele nom="Q7 4.2 FSI QUATTRO">
+<type>4LB0EL</type>
+</modele>
+<modele nom="Q7 4.2 FSI QUATTRO (TYPE AV ET BV)">
+<type>AV54L</type>
+<type>BV74L</type>
+</modele>
+<modele nom="Q7 4.2 TDI (326 CH)/AVUS ">
+<type>4L</type>
+<type>4LBOGL</type>
+</modele>
+<modele nom="Q7 6.0 TDI">
+<type>4L</type>
+</modele>
+<modele nom="R8 4.2 ">
+<type>42</type>
+</modele>
+<modele nom="R8 4.2 R TRONIC">
+<type>42</type>
+</modele>
+<modele nom="R8 5.2 QUATTRO/R TRONIC">
+<type>42</type>
+</modele>
+<modele nom="R8 5.2 SPYDER/R TRONIC">
+<type>42</type>
+</modele>
+<modele nom="RS3 2.5 TFSI/SPORTBACK/QUATTRO">
+<type>8P</type>
+<type>8PARSY</type>
+</modele>
+<modele nom="RS4 4.2 QUATTRO AVANT ">
+<type>8K</type>
+</modele>
+<modele nom="RS4 4.2 QUATTRO CABRIOLET">
+<type>*</type>
+</modele>
+<modele nom="RS4 4.2 QUATTRO/BREAK">
+<type>8E</type>
+</modele>
+<modele nom="RS4 BITURBO 4X4 2.7 (BREAK)">
+<type>B5</type>
+</modele>
+<modele nom="RS5 4.2 FSI QUATTRO COUPE">
+<type>8T</type>
+</modele>
+<modele nom="RS6 4.0 TFSI">
+<type>4G</type>
+</modele>
+<modele nom="RS6 5.0 QUATTRO BREAK">
+<type>4F</type>
+</modele>
+<modele nom="RSQ3 2.5 TFSI">
+<type>8U</type>
+</modele>
+<modele nom="S1 2.0 TFSI/ SPORTBACK/ QUATTRO">
+<type>8X</type>
+</modele>
+<modele nom="S3 2.0 TFSI/ SPORTBACK">
+<type>8V</type>
+</modele>
+<modele nom="S4 2.7 BITURBO 4X4 V6">
+<type>*</type>
+</modele>
+<modele nom="S4 3.0 QUATTRO">
+<type>KGAFL</type>
+</modele>
+<modele nom="S4 3.0 TFSI">
+<type>8K</type>
+</modele>
+<modele nom="S5 3.0 CABRIOLET">
+<type>8F</type>
+</modele>
+<modele nom="S5 4.2 FSI QUATTRO COUPE">
+<type>8T</type>
+</modele>
+<modele nom="S5 4.2 QUATTRO COUPE">
+<type>RV78T</type>
+<type>VAAFR</type>
+</modele>
+<modele nom="S5 4.2/4.2 FSI">
+<type>8T</type>
+</modele>
+<modele nom="S5 SPORTBACK 3.0 ">
+<type>8T</type>
+</modele>
+<modele nom="S6 4.2 V8 QUATTRO/S6 4.2 V8 QUATTRO AVANT BREAK">
+<type>4F47N0</type>
+</modele>
+<modele nom="S8 4.0 TFSI QUATTRO/520 SPORT/TIPTRONIC 8 SPORT">
+<type>4H</type>
+</modele>
+<modele nom="S8 4.2/AVUS/QUATTRO">
+<type>4D</type>
+</modele>
+<modele nom="SQ5 3.0 TDI /QUATTRO/BITDI">
+<type>8R</type>
+</modele>
+<modele nom="SQ5 3.0 TDI EXCLUSIVE CONCEPT QUATTRO/BITDI">
+<type>8R</type>
+</modele>
+<modele nom="TT 1.8  ROADSTER">
+<type>8N9014</type>
+<type>8N9054</type>
+<type>8N905U</type>
+</modele>
+<modele nom="TT 1.8  ROADSTER QUATTRO">
+<type>8N9069</type>
+</modele>
+<modele nom="TT 1.8 COUPE ">
+<type>8N3014</type>
+<type>8N3054</type>
+<type>MAU1821ML916</type>
+</modele>
+<modele nom="TT 1.8 COUPE QUATTRO/S LINE">
+<type>8N3059</type>
+<type>8N3069</type>
+</modele>
+<modele nom="TT 1.8 COUPE S LINE">
+<type>8N3054</type>
+</modele>
+<modele nom="TT 1.8 COUPE TIPTRONIC S LINE">
+<type>8N305U</type>
+</modele>
+<modele nom="TT 1.8 ROADSTER (225 CV)">
+<type>8N9069</type>
+</modele>
+<modele nom="TT 1.8 ROADSTER S LINE">
+<type>8N9054</type>
+</modele>
+<modele nom="TT 1.8 ROADSTER TIPTRONIC S LINE">
+<type>8N905U</type>
+</modele>
+<modele nom="TT 1.8 TFSI COUPE (TYPE 8J)">
+<type>8J</type>
+</modele>
+<modele nom="TT 2.0 TDI COUPE QUATTRO/S LINE">
+<type>8J</type>
+</modele>
+<modele nom="TT 2.0/ROADSTER/QUATTRO">
+<type>8J</type>
+<type>AF38J</type>
+<type>DF38J</type>
+<type>MF28J</type>
+<type>MF38J</type>
+<type>RF38J</type>
+</modele>
+<modele nom="TT 3.2 COUPE QUATTRO">
+<type>*</type>
+</modele>
+<modele nom="TT 3.2 ROADSTER">
+<type>8N90B9</type>
+<type>8N90BL</type>
+</modele>
+<modele nom="TTS 2.0 COUPE">
+<type>8J</type>
+</modele>
+<modele nom="V8 3.6">
+<type>441PT42</type>
+<type>441PT4Q</type>
+<type>441PTA</type>
+</modele>
+</marque>
+<marque nom="AUSTIN ROVER">
+<modele nom="2000 S">
+<type>RRAWB8</type>
+</modele>
+<modele nom="2400/SDT/TD">
+<type>RRAWE</type>
+<type>RRHWE8</type>
+</modele>
+<modele nom="2600">
+<type>RRHWM8</type>
+<type>RRMWM4</type>
+<type>RRMWM8</type>
+</modele>
+<modele nom="3500">
+<type>RRFWV</type>
+</modele>
+<modele nom="MAESTRO 1.3">
+<type>XCHWD2</type>
+<type>XCHWD2AM</type>
+<type>XCMW8</type>
+<type>XCMWD</type>
+<type>XCMWD8AM</type>
+<type>XCSWD2</type>
+<type>XCSWD8</type>
+</modele>
+<modele nom="MAESTRO MG 1.6">
+<type>SCTWY8</type>
+</modele>
+<modele nom="MAESTRO MG 2.0 EFI">
+<type>825L</type>
+<type>825S</type>
+<type>XCTWU</type>
+<type>XCTWU8</type>
+</modele>
+<modele nom="METRO">
+<type>XBANB</type>
+<type>XBFNB</type>
+<type>XBGN</type>
+<type>XBHNB</type>
+<type>XBHND</type>
+<type>XBMND</type>
+<type>XBPNB2</type>
+<type>XBZUD2</type>
+<type>XFDNB2</type>
+<type>XFDWB2</type>
+<type>XFHB2</type>
+<type>XFHNB</type>
+<type>XFHNB2</type>
+<type>XFHNB2BD</type>
+<type>XFHND2</type>
+<type>XFHNM</type>
+<type>XFHWB</type>
+<type>XFHWB2</type>
+<type>XFHWB2BD</type>
+<type>XFHWD2</type>
+<type>XFMND</type>
+<type>XFMNDA</type>
+<type>XFMWD</type>
+<type>XFMWD2</type>
+<type>XFMWD2BD</type>
+<type>XFSWD2</type>
+<type>XFWND2</type>
+<type>XFXND2</type>
+<type>XFYWB2</type>
+<type>XFYWD</type>
+<type>XFYWD2</type>
+</modele>
+<modele nom="METRO VANDEN PALAS">
+<type>XBRND</type>
+<type>XFYWM</type>
+<type>XFYWMN2BD</type>
+<type>XFZWD2</type>
+<type>XFZWM2</type>
+</modele>
+<modele nom="MINI/MARINA">
+<type>12V</type>
+<type>SL2S1S</type>
+<type>XC2S1N</type>
+<type>XFKP32</type>
+<type>XK2S1</type>
+<type>XL2S10</type>
+<type>XL2S1021</type>
+<type>XL2S1R</type>
+<type>XL2S1S1</type>
+<type>XL2S1S21</type>
+<type>XLE</type>
+<type>XNYADR</type>
+</modele>
+<modele nom="MONTEGO 1.3">
+<type>XEHL8</type>
+<type>XEHLD2</type>
+<type>XEHLD8</type>
+<type>XEHLDP</type>
+</modele>
+<modele nom="MONTEGO 1.6">
+<type>XELY8</type>
+<type>XEMLY</type>
+<type>XEMLY8BM</type>
+<type>XEMLYB</type>
+<type>XESLY</type>
+<type>XESLY8</type>
+<type>XESLY81</type>
+<type>XESLY8BM</type>
+<type>XESMY</type>
+<type>XESMY8</type>
+<type>XESMY81</type>
+<type>XESMY8BM</type>
+<type>XEWLY8</type>
+</modele>
+<modele nom="MONTEGO 2.0">
+<type>XEBL48</type>
+<type>XEML8</type>
+<type>XEMLU</type>
+<type>XEMLU8BM</type>
+<type>XEMW8BM</type>
+<type>XESLW</type>
+<type>XESLW8</type>
+<type>XESLW8BM</type>
+<type>XESMW</type>
+<type>XEWLU8</type>
+<type>XEYLU8</type>
+</modele>
+<modele nom="MORRIS">
+<type>*</type>
+</modele>
+<modele nom="SCHMIT">
+<type>A1CTBA</type>
+</modele>
+</marque>
+<marque nom="AUTOBLANCHI">
+<modele nom="1112">
+<type>A11281</type>
+<type>A112B1</type>
+<type>A112B2</type>
+<type>A112B25</type>
+<type>A112E</type>
+</modele>
+<modele nom="A112">
+<type>156AB/156C</type>
+<type>156AB/156C/</type>
+<type>156AB/15C</type>
+<type>A11281</type>
+<type>A112A2</type>
+<type>A112B1</type>
+<type>A112B2</type>
+<type>A112B25</type>
+<type>A112E</type>
+</modele>
+<modele nom="Y10">
+<type>156AB</type>
+<type>156AC</type>
+<type>156B</type>
+<type>156B1</type>
+<type>156C</type>
+<type>156C1</type>
+<type>156D</type>
+</modele>
+</marque>
+<marque nom="AUVERLAND">
+<modele nom="A3">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="AVIA">
+<modele nom="FOURGON VITRE 9 PL">
+<type>96BR</type>
+<type>F35N</type>
+</modele>
+</marque>
+<marque nom="BEDFORD">
+<modele nom="RASCAL 1.0">
+<type>99170</type>
+</modele>
+</marque>
+<marque nom="BENTLEY">
+<modele nom="ARNAGE 4.4">
+<type>LB51E</type>
+</modele>
+<modele nom="CONTINENTAL FLYING SPUR  6.0 (TYPE CBBE)">
+<type>CBBE53W</type>
+</modele>
+<modele nom="CONTINENTAL FLYING SPUR 6.0 ">
+<type>BA63Y8</type>
+</modele>
+<modele nom="CONTINENTAL FLYING SPUR SPEED 6.0 (610CH)">
+<type>BA63Y8</type>
+</modele>
+<modele nom="CONTINENTAL GT 6.0 COUPE">
+<type>CE63W6</type>
+<type>CR63W05</type>
+</modele>
+<modele nom="CONTINENTAL GT 6.0 COUPE (TYPE DF/TYPE FH)">
+<type>DF23W4</type>
+<type>FH63W</type>
+</modele>
+<modele nom="CONTINENTAL GT SPEED 6.0 COUPE (610 CV)">
+<type>*</type>
+</modele>
+<modele nom="CONTINENTAL GT V8 4.0">
+<type>FJ63W</type>
+<type>FN63W</type>
+</modele>
+<modele nom="CONTINENTAL GTC 6.0">
+<type>*</type>
+</modele>
+<modele nom="CONTINENTAL GTC V8 4.0">
+<type>GJ23W</type>
+<type>GN23W</type>
+</modele>
+<modele nom="FLYING SPUR 6.0 W12">
+<type>3W</type>
+<type>EB53W1</type>
+<type>EB53W5</type>
+</modele>
+<modele nom="MULSANNE 6.7">
+<type>BA63Y</type>
+</modele>
+<modele nom="MULSANNE 6.8 (TYPE BB7ZH)">
+<type>BB7ZH</type>
+</modele>
+</marque>
+<marque nom="BERTONE">
+<modele nom="BERTONE 1.5 X 19">
+<type>128AS1</type>
+<type>BSOOA</type>
+</modele>
+<modele nom="FREECLIMBER 1.6 4X4">
+<type>184BE0</type>
+<type>186AF05</type>
+<type>186AS0</type>
+</modele>
+<modele nom="FREECLIMBER 1.6 CABRIOLET">
+<type>184BCO</type>
+<type>186AF05</type>
+<type>186ASO</type>
+</modele>
+<modele nom="FREECLIMBER 2.4/2.5 TBO D">
+<type>184BCO</type>
+<type>184BEO</type>
+</modele>
+<modele nom="FREECLIMBER 2.4/2.5/CABRIOLET">
+<type>184BCO</type>
+<type>184BEO</type>
+</modele>
+</marque>
+<marque nom="BLMC">
+<modele nom="SHERPA LEYLAND DIES FOURGON 6PL">
+<type>250PFK</type>
+</modele>
+</marque>
+<marque nom="BMW">
+<modele nom="114 D">
+<type>1N51</type>
+<type>1T91</type>
+</modele>
+<modele nom="116 D">
+<type>1C71</type>
+<type>1C91</type>
+<type>PR31</type>
+<type>UH51</type>
+<type>UK51</type>
+</modele>
+<modele nom="116 I">
+<type>1A11</type>
+<type>UF11</type>
+<type>UH31</type>
+</modele>
+<modele nom="116 I GRAND TOURISME">
+<type>UF11</type>
+</modele>
+<modele nom="116 I LUXE/SPORT">
+<type>1A11</type>
+<type>UF11</type>
+<type>UH31</type>
+</modele>
+<modele nom="118 D ">
+<type>1C11</type>
+<type>UD71</type>
+</modele>
+<modele nom="118 D (TYPES UB/UG)">
+<type>MBM5432NR492</type>
+<type>UB31</type>
+<type>UG31</type>
+</modele>
+<modele nom="118 D CABRIOLET">
+<type>UM91</type>
+</modele>
+<modele nom="118 D COUPE">
+<type>UR11</type>
+</modele>
+<modele nom="118 D COUPE LUXE/SPORT">
+<type>UR11</type>
+</modele>
+<modele nom="118 D GRAND TOURISME">
+<type>UB31</type>
+<type>UG31</type>
+</modele>
+<modele nom="118 D LUXE/SPORT (TYPES UG/UB)">
+<type>UB31</type>
+<type>UG31</type>
+</modele>
+<modele nom="118 D M SPORT">
+<type>1C11</type>
+</modele>
+<modele nom="118 I">
+<type>UF31</type>
+</modele>
+<modele nom="118 I GRAND TOURISME">
+<type>UF31</type>
+</modele>
+<modele nom="118 I LUXE/SPORT">
+<type>UF31</type>
+</modele>
+<modele nom="118 I/LUXE/SPORT DESIGN">
+<type>UB91</type>
+</modele>
+<modele nom="120 D">
+<type>UB51</type>
+<type>UD91</type>
+<type>UG51</type>
+</modele>
+<modele nom="120 D CABRIOLET/LUXE/SPORT">
+<type>UM71</type>
+<type>YM71</type>
+</modele>
+<modele nom="120 D GRAND TOURISME">
+<type>UD91</type>
+<type>UG51</type>
+</modele>
+<modele nom="120 D LUXE/SPORT">
+<type>UB51</type>
+<type>UD91</type>
+<type>UG51</type>
+</modele>
+<modele nom="120 D/COUPE">
+<type>1C31</type>
+<type>UR31</type>
+</modele>
+<modele nom="120 I">
+<type>UF51</type>
+</modele>
+<modele nom="120 I CABRIOLET">
+<type>UL51</type>
+<type>UM51</type>
+</modele>
+<modele nom="120 I GRAND TOURISME">
+<type>UF51</type>
+</modele>
+<modele nom="120 I LUXE/SPORT">
+<type>UF51</type>
+</modele>
+<modele nom="123 D COUPE">
+<type>UR51</type>
+</modele>
+<modele nom="123 D/LUXE/SPORT">
+<type>UH11</type>
+<type>UK11</type>
+</modele>
+<modele nom="125 D">
+<type>1C51</type>
+</modele>
+<modele nom="125 I CABRIOLET/LUXE/SPORT DESIGN">
+<type>UL91</type>
+</modele>
+<modele nom="130 I">
+<type>UF91</type>
+</modele>
+<modele nom="130 I GRAND TOURISME">
+<type>UF91</type>
+</modele>
+<modele nom="135 I CABRIOLET">
+<type>UN9C5</type>
+</modele>
+<modele nom="135 I COUPE">
+<type>UC735</type>
+</modele>
+<modele nom="216 I GRAN TOURER SPORT/LUXURY">
+<type>2D91</type>
+</modele>
+<modele nom="216 I GRAN TOURER/LOUNGE">
+<type>2D91</type>
+</modele>
+<modele nom="218 D LOUNGE">
+<type>1H31</type>
+</modele>
+<modele nom="218 D SPORT/ M SPORT">
+<type>1H31</type>
+</modele>
+<modele nom="220 D LOUNGE/ ACTIVE TOURER">
+<type>1H11</type>
+<type>2C31</type>
+</modele>
+<modele nom="220 D SPORT/ M SPORT/LUXURY/ ACTIVE TOURER">
+<type>1H11</type>
+<type>2C31</type>
+</modele>
+<modele nom="315">
+<type>1701</type>
+<type>AG01</type>
+<type>AGO1</type>
+</modele>
+<modele nom="316">
+<type>1051</type>
+<type>1061</type>
+<type>1342</type>
+<type>1351</type>
+<type>1361</type>
+<type>2791</type>
+<type>316</type>
+<type>AC51</type>
+<type>AC61</type>
+<type>AG11</type>
+<type>AK51</type>
+<type>AK61</type>
+</modele>
+<modele nom="316 D LUXE/SPORT/TOURING">
+<type>3D91</type>
+<type>PR31</type>
+<type>PR51</type>
+<type>UY51</type>
+</modele>
+<modele nom="316 D/TOURING">
+<type>3D91</type>
+<type>PR31</type>
+<type>PR51</type>
+<type>UY51</type>
+</modele>
+<modele nom="316 I ">
+<type>PF31</type>
+</modele>
+<modele nom="316 I (TYPES AL/AY/EL)">
+<type>AL10</type>
+<type>AL11</type>
+<type>AY31</type>
+<type>ER10</type>
+<type>ER11</type>
+</modele>
+<modele nom="316 I (TYPES:AC,AB,CA,AK)">
+<type>AB11</type>
+<type>AB21</type>
+<type>AC11</type>
+<type>AC15</type>
+<type>AC21</type>
+<type>AK15</type>
+<type>CA11</type>
+<type>CA21</type>
+<type>CA70</type>
+<type>CA71</type>
+<type>CA73</type>
+<type>CA75</type>
+<type>CA80</type>
+<type>CA81</type>
+<type>CA83</type>
+<type>CA85</type>
+</modele>
+<modele nom="316 I COMPACT ( TYPES CG)">
+<type>CG10</type>
+<type>CG11</type>
+<type>CG16</type>
+<type>CG20</type>
+<type>CG21</type>
+<type>CG26</type>
+</modele>
+<modele nom="316 I COUPE">
+<type>BE11</type>
+<type>BE13</type>
+<type>BE17</type>
+<type>BE21</type>
+<type>BE23</type>
+<type>BE27</type>
+</modele>
+<modele nom="316 I TOURING/BREAK">
+<type>*</type>
+</modele>
+<modele nom="316 TI COMPACT">
+<type>AT50</type>
+<type>AT51</type>
+</modele>
+<modele nom="318">
+<type>*</type>
+</modele>
+<modele nom="318 CABRIOLET IE/IC (TYPE:BA,BH,BE,BK)">
+<type>BA51</type>
+<type>BH31</type>
+<type>BH33</type>
+<type>BH37</type>
+<type>BH41</type>
+<type>BH43</type>
+<type>BH47</type>
+<type>BK63</type>
+</modele>
+<modele nom="318 CI CABRIOLET">
+<type>BP71</type>
+</modele>
+<modele nom="318 CI COUPE">
+<type>BL30</type>
+<type>BL31</type>
+<type>BV70</type>
+<type>BV71</type>
+</modele>
+<modele nom="318 D / LOUNGE">
+<type>3D11</type>
+<type>PG11</type>
+<type>PN11</type>
+<type>VC11</type>
+<type>VG11</type>
+</modele>
+<modele nom="318 D BREAK">
+<type>UT31</type>
+<type>UX11</type>
+<type>VW11</type>
+</modele>
+<modele nom="318 D BREAK LUXE/SPORT">
+<type>UT31</type>
+<type>UX11</type>
+<type>VW11</type>
+</modele>
+<modele nom="318 D LUXE/SPORT/MODERN/M SPORT">
+<type>3D11</type>
+<type>PG11</type>
+<type>PN11</type>
+<type>VC11</type>
+<type>VG11</type>
+</modele>
+<modele nom="318 D TOURING/BREAK">
+<type>*</type>
+</modele>
+<modele nom="318 D/TD (TYPE: EU51)">
+<type>EU51</type>
+</modele>
+<modele nom="318 D/TD/BREAK">
+<type>AT91</type>
+<type>EL71</type>
+<type>EU71</type>
+</modele>
+<modele nom="318 I">
+<type>AL30</type>
+<type>AL31</type>
+<type>AY70</type>
+<type>AY71</type>
+</modele>
+<modele nom="318 I (TYPE: PF51)">
+<type>PF51</type>
+</modele>
+<modele nom="318 I TOURING (BREAK) (TYPE: AG,CE)">
+<type>AG71</type>
+<type>CE30</type>
+<type>CE31</type>
+<type>CE33</type>
+<type>CE35</type>
+<type>CE40</type>
+<type>CE41</type>
+<type>CE43</type>
+<type>CE45</type>
+</modele>
+<modele nom="318 I TOURING/BREAK">
+<type>US31</type>
+</modele>
+<modele nom="318 I TOURING/BREAK (TYPES AX ET AP)">
+<type>AP30</type>
+<type>AP31</type>
+<type>AX50</type>
+<type>AX51</type>
+</modele>
+<modele nom="318 I(TYPE:1000,1300,AC,AF,AG,AK,CA,AJ">
+<type>1031</type>
+<type>1041</type>
+<type>1071</type>
+<type>1081</type>
+<type>1371</type>
+<type>1381</type>
+<type>AC31</type>
+<type>AC71</type>
+<type>AC81</type>
+<type>AF51</type>
+<type>AF61</type>
+<type>AF91</type>
+<type>AG31</type>
+<type>AG41</type>
+<type>AJ51</type>
+<type>AJ61</type>
+<type>AJ931</type>
+<type>AK11</type>
+<type>AK31</type>
+<type>AK41</type>
+<type>AK71</type>
+<type>AK81</type>
+<type>CA00</type>
+<type>CA01</type>
+<type>CA03</type>
+<type>CA05</type>
+<type>CA31</type>
+<type>CA41</type>
+<type>CA90</type>
+<type>CA91</type>
+<type>CA93</type>
+<type>CA95</type>
+</modele>
+<modele nom="318 IS COUPE">
+<type>BE51</type>
+<type>BE61</type>
+<type>BE77</type>
+<type>BE87</type>
+</modele>
+<modele nom="318 TDS">
+<type>CC50</type>
+<type>CC51</type>
+<type>CC53</type>
+<type>CC55</type>
+</modele>
+<modele nom="318 TDS COMPACT">
+<type>CJ50</type>
+<type>CJ51</type>
+</modele>
+<modele nom="318 TDS TOURING">
+<type>CF50</type>
+<type>CF51</type>
+<type>CF53</type>
+<type>CF55</type>
+</modele>
+<modele nom="318 TI COMPACT">
+<type>AU50</type>
+<type>AU51</type>
+<type>CG51</type>
+<type>CG61</type>
+<type>CG71</type>
+<type>CG81</type>
+</modele>
+<modele nom="320">
+<type>1811</type>
+<type>1820</type>
+<type>1821</type>
+<type>320</type>
+<type>6934</type>
+</modele>
+<modele nom="320 CD CABRIOLET">
+<type>BS71</type>
+</modele>
+<modele nom="320 CD COUPE">
+<type>BV51</type>
+</modele>
+<modele nom="320 CI CABRIOLET">
+<type>BS11</type>
+<type>BW11</type>
+</modele>
+<modele nom="320 D CABRIOLET">
+<type>DY31</type>
+</modele>
+<modele nom="320 D CABRIOLET (TYPE WM31)">
+<type>WM31</type>
+</modele>
+<modele nom="320 D CABRIOLET EXCELLIS/LUXE/SPORT DESIGN">
+<type>DY31</type>
+</modele>
+<modele nom="320 D COUPE">
+<type>WD11</type>
+</modele>
+<modele nom="320 D COUPE (TYPE WC11 ET TYPE KK31)">
+<type>KK31</type>
+<type>WC11</type>
+</modele>
+<modele nom="320 D COUPE LUXE">
+<type>WD11</type>
+</modele>
+<modele nom="320 D COUPE LUXE/SPORT (TYPE WC11 ET TYPE KK31)">
+<type>KK31</type>
+<type>WC11</type>
+</modele>
+<modele nom="320 D LUXE/SPORT (TYPES VC31 ET VU31)">
+<type>VC31</type>
+<type>VU31</type>
+</modele>
+<modele nom="320 D LUXE/SPORT/M/SPORT DESIGN/MODERN/BK/TOURING">
+<type>3D31</type>
+<type>3E11</type>
+<type>PN31</type>
+<type>PP11</type>
+<type>PP51</type>
+<type>UX31</type>
+<type>UY31</type>
+<type>VG91</type>
+<type>VU51</type>
+</modele>
+<modele nom="320 D TOURING BREAK (TYPES AP/AX/VU)">
+<type>AP70</type>
+<type>AP71</type>
+<type>AP78</type>
+<type>AX70</type>
+<type>AX71</type>
+<type>AX78</type>
+<type>VU31</type>
+</modele>
+<modele nom="320 D/320 TDI (TYPES AS/AL/VC)">
+<type>AL70</type>
+<type>AL71</type>
+<type>AL78</type>
+<type>AS70</type>
+<type>AS71</type>
+<type>AS78</type>
+<type>VC31</type>
+</modele>
+<modele nom="320 D/LOUNGE/ BREAK/TOURING">
+<type>3D31</type>
+<type>3E11</type>
+<type>PN31</type>
+<type>PP11</type>
+<type>PP51</type>
+<type>UX31</type>
+<type>UY31</type>
+<type>VG91</type>
+</modele>
+<modele nom="320 I">
+<type>AV10</type>
+<type>AV11</type>
+<type>AV18</type>
+<type>EV10</type>
+<type>EV11</type>
+<type>EV18</type>
+<type>VA71</type>
+<type>VF91</type>
+<type>VG71</type>
+</modele>
+<modele nom="320 I (TYPE:1100,1400,AA,AD,AH,BF,CB)">
+<type>1131</type>
+<type>1141</type>
+<type>1151</type>
+<type>1161</type>
+<type>1431</type>
+<type>1441</type>
+<type>1451</type>
+<type>1461</type>
+<type>AA31</type>
+<type>AA41</type>
+<type>AD31</type>
+<type>AD41</type>
+<type>AD51</type>
+<type>AH11</type>
+<type>AH21</type>
+<type>BF11</type>
+<type>BF21</type>
+<type>CB11</type>
+<type>CB21</type>
+<type>CB51</type>
+<type>CB55</type>
+<type>CB57</type>
+<type>CB61</type>
+<type>CB65</type>
+<type>CB67</type>
+</modele>
+<modele nom="320 I CABRIOLET">
+<type>AA31</type>
+<type>AA41</type>
+<type>AH11</type>
+<type>AH21</type>
+<type>BA11</type>
+<type>BA21</type>
+<type>BA31</type>
+<type>BA41</type>
+<type>BJ21</type>
+<type>BJ31</type>
+<type>BJ37</type>
+<type>BJ41</type>
+<type>BJ47</type>
+</modele>
+<modele nom="320 I CABRIOLET (TYPE WK)">
+<type>WK51</type>
+<type>WK71</type>
+</modele>
+<modele nom="320 I COUPE">
+<type>WA71</type>
+</modele>
+<modele nom="320 I COUPE (TYPE WE)">
+<type>WE71</type>
+</modele>
+<modele nom="320 I COUPE /320 CI COUPE">
+<type>BF21</type>
+<type>BF51</type>
+<type>BF57</type>
+<type>BF61</type>
+<type>BF67</type>
+<type>BM11</type>
+<type>BN11</type>
+</modele>
+<modele nom="320 I COUPE LUXE/SPORT">
+<type>WA71</type>
+</modele>
+<modele nom="320 I COUPE LUXE/SPORT DESIGN (TYPE WE)">
+<type>WE71</type>
+</modele>
+<modele nom="320 I LUXE/SPORT">
+<type>VA71</type>
+<type>VF91</type>
+<type>VG71</type>
+</modele>
+<modele nom="320 I TOURING (TYPES AH)">
+<type>AH51</type>
+<type>AH61</type>
+<type>AH71</type>
+<type>AH81</type>
+</modele>
+<modele nom="320 I TOURING/BREAK">
+<type>AW10</type>
+<type>AW11</type>
+<type>AW18</type>
+<type>CE51</type>
+<type>CE55</type>
+<type>CE57</type>
+<type>CE61</type>
+<type>CE65</type>
+<type>CE67</type>
+<type>EN10</type>
+<type>EN11</type>
+<type>EN18</type>
+</modele>
+<modele nom="320 TD COMPACT">
+<type>AT70</type>
+<type>AT71</type>
+</modele>
+<modele nom="323 CI CABRIOLET">
+<type>BR31</type>
+</modele>
+<modele nom="323 CI COUPE">
+<type>BM31</type>
+</modele>
+<modele nom="323 I">
+<type>CB71</type>
+<type>CB75</type>
+<type>CB77</type>
+<type>CB81</type>
+<type>CB85</type>
+<type>CB87</type>
+<type>PG735</type>
+</modele>
+<modele nom="323 I (TYPES 1100,1400,AA,AD,AH)">
+<type>1171</type>
+<type>1181</type>
+<type>1471</type>
+<type>1481</type>
+<type>AA71</type>
+<type>AA81</type>
+<type>AD71</type>
+<type>AD81</type>
+<type>AH31</type>
+<type>AH41</type>
+</modele>
+<modele nom="323 I SPORT (TYPES AA,AD,AH)">
+<type>AA71M5</type>
+<type>AD71M5</type>
+<type>AH31</type>
+<type>AH41</type>
+</modele>
+<modele nom="323 I SPORT/COUPE">
+<type>BF71</type>
+<type>BF77</type>
+<type>BF81</type>
+<type>BF87</type>
+</modele>
+<modele nom="323 I TOURING">
+<type>CE75</type>
+<type>CE77</type>
+<type>CE85</type>
+<type>CE87</type>
+</modele>
+<modele nom="324 D /TD">
+<type>1511</type>
+<type>1521</type>
+<type>AD01</type>
+<type>AD91</type>
+<type>AE11</type>
+<type>AE21</type>
+</modele>
+<modele nom="324 TD TOURING">
+<type>AH01</type>
+<type>AH91</type>
+</modele>
+<modele nom="325 CI CABRIOLET">
+<type>BS31</type>
+</modele>
+<modele nom="325 CI COUPE">
+<type>BN31</type>
+<type>BN33</type>
+</modele>
+<modele nom="325 D (TYPE VC)">
+<type>VC51</type>
+</modele>
+<modele nom="325 D CABRIOLET">
+<type>DY51</type>
+<type>WM71</type>
+</modele>
+<modele nom="325 D COUPE">
+<type>WD31</type>
+</modele>
+<modele nom="325 I (TYPES: 1100,1200,1400,1500)">
+<type>1111</type>
+<type>1121</type>
+<type>1231</type>
+<type>1241</type>
+<type>1411</type>
+<type>1421</type>
+<type>1531</type>
+<type>1541</type>
+</modele>
+<modele nom="325 I (TYPES: AA,AB,AD,AE,CB)">
+<type>AA11</type>
+<type>AA21</type>
+<type>AB31</type>
+<type>AB41</type>
+<type>AB51</type>
+<type>AB61</type>
+<type>AD11</type>
+<type>AD21</type>
+<type>AE31</type>
+<type>AE41</type>
+<type>AE54</type>
+<type>AE64</type>
+<type>AE69</type>
+<type>CB31</type>
+<type>CB41</type>
+</modele>
+<modele nom="325 I CABRIOLET">
+<type>BB11</type>
+<type>BB21</type>
+<type>BB31</type>
+<type>BB41</type>
+<type>BJ51</type>
+<type>BJ61</type>
+</modele>
+<modele nom="325 I CABRIOLET (TYPE WN31)">
+<type>WN31</type>
+</modele>
+<modele nom="325 I COUPE">
+<type>BF31</type>
+<type>BF41</type>
+<type>BF43</type>
+<type>BJ63</type>
+</modele>
+<modele nom="325 I COUPE (TYPE WB31)">
+<type>WB31</type>
+</modele>
+<modele nom="325 I COUPE LUXE/SPORT (TYPE WB31)">
+<type>WB31</type>
+</modele>
+<modele nom="325 I LUXE/SPORT">
+<type>VB11</type>
+<type>VB13</type>
+</modele>
+<modele nom="325 I S">
+<type>AA11</type>
+<type>AA21</type>
+<type>AB31</type>
+<type>AB41</type>
+<type>AD11</type>
+<type>AD21</type>
+<type>AE31</type>
+<type>AE41</type>
+</modele>
+<modele nom="325 I TOURING">
+<type>AG51</type>
+<type>AG61</type>
+</modele>
+<modele nom="325 I/XI">
+<type>AV30</type>
+<type>AV31</type>
+<type>AV38</type>
+<type>EU30</type>
+<type>EU31</type>
+<type>EU38</type>
+<type>EV30</type>
+<type>EV31</type>
+<type>VB11</type>
+<type>ZV30</type>
+</modele>
+<modele nom="325 IX">
+<type>1201</type>
+<type>1291</type>
+<type>325IX</type>
+<type>AB01</type>
+<type>AB71</type>
+<type>AB81</type>
+<type>AB91</type>
+<type>AB93</type>
+<type>AE01</type>
+<type>AE71</type>
+<type>AE81</type>
+<type>AE91</type>
+</modele>
+<modele nom="325 IX TOURING">
+<type>1501</type>
+<type>1591</type>
+<type>AG05</type>
+<type>AG95</type>
+</modele>
+<modele nom="325 TD">
+<type>CC10</type>
+<type>CC11</type>
+<type>CC13</type>
+<type>CC15</type>
+<type>CC17</type>
+<type>CC20</type>
+<type>CC21</type>
+<type>CC23</type>
+<type>CC25</type>
+<type>CC27</type>
+</modele>
+<modele nom="325 TDS TOURING">
+<type>CF00</type>
+<type>CF01</type>
+<type>CF03</type>
+<type>CF05</type>
+<type>CF07</type>
+<type>CF90</type>
+<type>CF91</type>
+<type>CF93</type>
+<type>CF95</type>
+<type>CF97</type>
+</modele>
+<modele nom="325 TDS/TDS PACK">
+<type>CC30</type>
+<type>CC31</type>
+<type>CC33</type>
+<type>CC35</type>
+<type>CC37</type>
+<type>CC40</type>
+<type>CC41</type>
+<type>CC43</type>
+<type>CC45</type>
+<type>CC47</type>
+</modele>
+<modele nom="325 TI COMPACT">
+<type>AT31</type>
+</modele>
+<modele nom="325 TOURING I/XI/BREAK">
+<type>AW30</type>
+<type>AW31</type>
+<type>EN30</type>
+<type>EN31</type>
+<type>EN38</type>
+<type>EP30</type>
+<type>EP31</type>
+<type>EP38</type>
+</modele>
+<modele nom="328 CI COUPE">
+<type>BM51</type>
+</modele>
+<modele nom="328 I">
+<type>AM51</type>
+<type>CD10</type>
+<type>CD11</type>
+<type>CD15</type>
+<type>CD17</type>
+<type>CD19</type>
+<type>CD21</type>
+<type>CD25</type>
+<type>CD27</type>
+</modele>
+<modele nom="328 I CABRIOLET">
+<type>BK71</type>
+<type>BK77</type>
+<type>BK81</type>
+<type>BK87</type>
+</modele>
+<modele nom="328 I COUPE (TYPES WB, WR,WV)">
+<type>WB335</type>
+<type>WR335</type>
+<type>WV535</type>
+</modele>
+<modele nom="328 I COUPE/COUPE SPORT">
+<type>BG10</type>
+<type>BG11</type>
+<type>BG17</type>
+<type>BG19</type>
+<type>BG21</type>
+<type>BG27</type>
+</modele>
+<modele nom="328 I TOURING">
+<type>CF11</type>
+<type>CF15</type>
+<type>CF17</type>
+<type>CF21</type>
+<type>CF25</type>
+<type>CF27</type>
+</modele>
+<modele nom="328 XI COUPE">
+<type>WC335</type>
+</modele>
+<modele nom="328D X DRIVE/SPORT WAGON">
+<type>3D5C</type>
+<type>3K5C</type>
+</modele>
+<modele nom="330 CI CABRIOLET">
+<type>BS51</type>
+<type>BW51</type>
+</modele>
+<modele nom="330 D CABRIOLET">
+<type>WM51</type>
+<type>WM91</type>
+</modele>
+<modele nom="330 D CABRIOLET CONFORT (TYPE DY)">
+<type>DY71</type>
+</modele>
+<modele nom="330 D CABRIOLET LUXE">
+<type>WM51</type>
+<type>WM91</type>
+</modele>
+<modele nom="330 D CABRIOLET M SPORT/LUXE (TYPE DY)">
+<type>DY71</type>
+</modele>
+<modele nom="330 D LUXE/SPORT/EXCELLIS/XD/X DRIVE/COUPE/BREAK">
+<type>PR91</type>
+<type>VC91</type>
+<type>VT91</type>
+<type>VU91</type>
+<type>WA91</type>
+<type>WB91</type>
+<type>WC91</type>
+<type>WD51</type>
+</modele>
+<modele nom="330 D/TD/XD/COUPE/BREAK">
+<type>AL90</type>
+<type>AL91</type>
+<type>AL98</type>
+<type>AP90</type>
+<type>AP91</type>
+<type>AP98</type>
+<type>BV91</type>
+<type>EL90</type>
+<type>EL98</type>
+<type>EP70</type>
+<type>EP78</type>
+<type>ER91</type>
+<type>EV90</type>
+<type>EV98</type>
+<type>EY91</type>
+</modele>
+<modele nom="330 D/XD/X DRIVE/COUPE/BREAK">
+<type>PR91</type>
+<type>VC91</type>
+<type>VT91</type>
+<type>VU91</type>
+<type>WA91</type>
+<type>WB91</type>
+<type>WC91</type>
+<type>WD51</type>
+</modele>
+<modele nom="330 I /XI">
+<type>AV50</type>
+<type>AV58</type>
+<type>EV50</type>
+<type>EV58</type>
+<type>EW50</type>
+<type>EW58</type>
+<type>VB31</type>
+</modele>
+<modele nom="330 I COUPE/330 CI COUPE">
+<type>BN51</type>
+</modele>
+<modele nom="330 I LUXE/SPORT">
+<type>VB31</type>
+</modele>
+<modele nom="330 TOURING I/XI/BREAK">
+<type>AW50</type>
+<type>AW58</type>
+<type>EN50</type>
+<type>EN58</type>
+<type>EP50</type>
+<type>EP58</type>
+</modele>
+<modele nom="335 D">
+<type>VD71</type>
+</modele>
+<modele nom="335 D (TYPE PN7C5)">
+<type>PN7C5</type>
+</modele>
+<modele nom="335 D COUPE">
+<type>WD71</type>
+</modele>
+<modele nom="335 D COUPE LUXE/SPORT">
+<type>WD71</type>
+</modele>
+<modele nom="335 D LUXE/SPORT">
+<type>VD71</type>
+</modele>
+<modele nom="335 D XDRIVE SPORT/MODERN/LUXURY/M SPORT/TOURING">
+<type>3J71</type>
+<type>8J71</type>
+</modele>
+<modele nom="335 D XDRIVE/TOURING">
+<type>3J71</type>
+<type>8J71</type>
+</modele>
+<modele nom="335 I">
+<type>VB73</type>
+</modele>
+<modele nom="335 I CABRIOLET">
+<type>WL71</type>
+</modele>
+<modele nom="335 I CABRIOLET (TYPE WL735)">
+<type>WL735</type>
+</modele>
+<modele nom="335 I CABRIOLET LUXE/SPORT">
+<type>WL71</type>
+</modele>
+<modele nom="335 I COUPE">
+<type>WB71</type>
+</modele>
+<modele nom="335 I COUPE (TYPE WB73)">
+<type>WB73</type>
+</modele>
+<modele nom="335 XI">
+<type>3B9C57</type>
+</modele>
+<modele nom="418 D GRAN COUPE SPORT/ MODERN/LUXURY/M SPORT">
+<type>4D51</type>
+</modele>
+<modele nom="418 D GRAN COUPE/ LOUNGE">
+<type>4D51</type>
+</modele>
+<modele nom="420 D CABRIOLET">
+<type>3U11</type>
+</modele>
+<modele nom="420 D CABRIOLET  SPORT/MODERN/LUXURY/M SPORT">
+<type>3U11</type>
+</modele>
+<modele nom="420 D COUPE">
+<type>3P11</type>
+<type>4P71</type>
+</modele>
+<modele nom="420 D COUPE LUXURY/ SPORT/ M SPORT">
+<type>3P11</type>
+<type>4P71</type>
+</modele>
+<modele nom="420 D GRAN COUPE SPORT/MODERN/LUXURY/M SPORT">
+<type>4B51</type>
+<type>4E91</type>
+</modele>
+<modele nom="420 D GRAN COUPE/ LOUNGE">
+<type>4B51</type>
+<type>4E91</type>
+</modele>
+<modele nom="425 D COUPE CABRIOLET">
+<type>4U51</type>
+</modele>
+<modele nom="425 D COUPE CABRIOLET SPORT/M SPORT/LUXURY">
+<type>4U51</type>
+</modele>
+<modele nom="428 COUPE/ GRAN COUPE/ X DRIVE">
+<type>3N3C5</type>
+<type>3N5C5</type>
+<type>4A5C5</type>
+<type>4A7C5</type>
+</modele>
+<modele nom="428 I X DRIVE COUPE LUXURY/GRAN COUPE">
+<type>3N51</type>
+</modele>
+<modele nom="428 I X DRIVE COUPE SPORT/MSPORT/MODERN/GRAN COUPE">
+<type>3N51</type>
+</modele>
+<modele nom="428 I X DRIVE COUPE/GRAN COUPE">
+<type>3N51</type>
+</modele>
+<modele nom="430 D X DRIVE COUPE SPORT/MSPORT/LUXURY/GRAN COUPE">
+<type>4C11</type>
+</modele>
+<modele nom="430 D X DRIVE COUPE/GRAN COUPE">
+<type>4C11</type>
+</modele>
+<modele nom="435 D COUPE/ GRAN COUPE/ X DRIVE">
+<type>4G11</type>
+</modele>
+<modele nom="435 D COUPE/ GRAN COUPE/ X DRIVE/SPORT/LUX/MSPORT ">
+<type>4G11</type>
+</modele>
+<modele nom="435 I COUPE SPORT/MODERN/LUXURY/M SPORT">
+<type>3R11</type>
+</modele>
+<modele nom="435 I COUPE/LOUNGE">
+<type>3R11</type>
+</modele>
+<modele nom="435 X DRIVE COUPE">
+<type>3R5C5</type>
+</modele>
+<modele nom="518">
+<type>3651</type>
+<type>4011</type>
+<type>DF11</type>
+<type>DK11</type>
+</modele>
+<modele nom="518 I">
+<type>HA11</type>
+<type>HA31</type>
+<type>HA36</type>
+</modele>
+<modele nom="518 I (TYPES 4000,DK)">
+<type>4091</type>
+<type>DK91</type>
+</modele>
+<modele nom="520">
+<type>E21</type>
+<type>HB31</type>
+<type>HB41</type>
+</modele>
+<modele nom="520 D">
+<type>DM70</type>
+<type>DM71</type>
+</modele>
+<modele nom="520 D (TYPE NC31)">
+<type>NC31</type>
+</modele>
+<modele nom="520 D (TYPE NX)">
+<type>NX11</type>
+<type>NX31</type>
+</modele>
+<modele nom="520 D 4X4 /TOURING">
+<type>5C31</type>
+</modele>
+<modele nom="520 D 4X4 LUXURY/MSPORT/MODERN/TOURING">
+<type>5C31</type>
+</modele>
+<modele nom="520 D GT">
+<type>XC01</type>
+</modele>
+<modele nom="520 D GT EXCLUSIVE/LUXE/SPORT DESIGN">
+<type>XC01</type>
+</modele>
+<modele nom="520 D LUXE (TYPE NX)">
+<type>NX11</type>
+<type>NX31</type>
+</modele>
+<modele nom="520 D LUXE/LUXURY/MSPORT/MODERN/EXCLUSIVE/TOURING ">
+<type>5C31</type>
+<type>FW11</type>
+<type>FW91</type>
+<type>MX11</type>
+</modele>
+<modele nom="520 D TOURING  LUXE/ SPORT(TYPE PX31)">
+<type>PX31</type>
+</modele>
+<modele nom="520 D TOURING (TYPE PX31)">
+<type>PX31</type>
+</modele>
+<modele nom="520 D TOURING /BREAK">
+<type>DR70</type>
+<type>DR71</type>
+</modele>
+<modele nom="520 D/ TOURING (TYPES FW11/FW91/MX11/5C31)">
+<type>5C31</type>
+<type>FW11</type>
+<type>FW91</type>
+<type>MX11</type>
+</modele>
+<modele nom="520 I">
+<type>DT10</type>
+<type>DT11</type>
+<type>DT20</type>
+<type>DT21</type>
+</modele>
+<modele nom="520 I (TYPE NA31)">
+<type>NA31</type>
+</modele>
+<modele nom="520 I (TYPE NT)">
+<type>NT31</type>
+</modele>
+<modele nom="520 I (TYPES 4000,DK)">
+<type>4051</type>
+<type>4061</type>
+<type>DK31</type>
+<type>DK51</type>
+<type>DK61</type>
+<type>DK71</type>
+<type>DK81</type>
+</modele>
+<modele nom="520 I LUXE/SPORT (TYPE NT)">
+<type>NT31</type>
+</modele>
+<modele nom="520 I TOURING/BREAK">
+<type>DH10</type>
+<type>DH11</type>
+<type>DH20</type>
+<type>DH21</type>
+<type>DS10</type>
+<type>DS11</type>
+<type>DS20</type>
+<type>DS21</type>
+</modele>
+<modele nom="520 I/IA (TYPES: DD,HB)">
+<type>DD10</type>
+<type>DD11</type>
+<type>DD20</type>
+<type>DD21</type>
+<type>HB11</type>
+<type>HB31</type>
+<type>HB41</type>
+<type>HB51</type>
+<type>HB51S5F</type>
+<type>HB56S5F</type>
+<type>HB61</type>
+<type>HB61A4F</type>
+<type>HB66A4F</type>
+</modele>
+<modele nom="520D XDRIVE">
+<type>5E71</type>
+</modele>
+<modele nom="520D XDRIVE MODERN/LUXURY/MSPORT ">
+<type>5E71</type>
+</modele>
+<modele nom="523 I">
+<type>DD30</type>
+<type>DD31</type>
+<type>DD40</type>
+<type>DD41</type>
+<type>NE31</type>
+<type>NU11</type>
+</modele>
+<modele nom="523 I (TYPE FP/ FS)">
+<type>FP31</type>
+<type>FS11</type>
+</modele>
+<modele nom="523 I LUXE/EXCLUSIVE (TYPE FP/FS)">
+<type>FP31</type>
+<type>FS11</type>
+</modele>
+<modele nom="523 I LUXE/SPORT">
+<type>NE31</type>
+<type>NU11</type>
+</modele>
+<modele nom="523 I TOURING">
+<type>DH30</type>
+<type>DH31</type>
+<type>DH40</type>
+<type>DH41</type>
+</modele>
+<modele nom="524 D/TD">
+<type>4211</type>
+<type>4221</type>
+<type>DB11</type>
+<type>DB21</type>
+<type>DB24</type>
+<type>DB91</type>
+<type>HA51</type>
+<type>HA61</type>
+</modele>
+<modele nom="525 D">
+<type>DL00</type>
+<type>DL01</type>
+<type>DL08</type>
+<type>DL90</type>
+<type>DL91</type>
+<type>DL98</type>
+</modele>
+<modele nom="525 D (TYPE : NC51)">
+<type>NC51</type>
+</modele>
+<modele nom="525 D (TYPE NX51)">
+<type>NX51</type>
+</modele>
+<modele nom="525 D (TYPE XA/5C)">
+<type>5C71</type>
+<type>XA31</type>
+</modele>
+<modele nom="525 D 4X4">
+<type>5C71</type>
+</modele>
+<modele nom="525 D 4X4 LUXURY/MSPORT/MODERN">
+<type>5C71</type>
+</modele>
+<modele nom="525 D EXCLUSIVE (TYPE XA)">
+<type>XA31</type>
+</modele>
+<modele nom="525 D LUXE/SPORT">
+<type>NC51</type>
+</modele>
+<modele nom="525 D LUXE/SPORT (TYPE NX51)">
+<type>NX51</type>
+</modele>
+<modele nom="525 D SPORT DESIGN/LUXE/LUXURY/MSPORT/MODERN">
+<type>5C71</type>
+<type>XA31</type>
+</modele>
+<modele nom="525 D TOURING/BREAK">
+<type>DP00</type>
+<type>DP01</type>
+<type>DP08</type>
+<type>DP90</type>
+<type>DP91</type>
+<type>DP98</type>
+<type>NJ51</type>
+</modele>
+<modele nom="525 D XDRIVE">
+<type>5C91</type>
+<type>XA11</type>
+</modele>
+<modele nom="525 D XDRIVE EXCLUSIVE">
+<type>5C91</type>
+<type>XA11</type>
+</modele>
+<modele nom="525 D XDRIVE SPORT DESING/LUXE">
+<type>5C91</type>
+<type>XA11</type>
+</modele>
+<modele nom="525 I">
+<type>DT30</type>
+<type>DT40</type>
+<type>NE51</type>
+<type>NU51</type>
+<type>ZT38</type>
+<type>ZT48</type>
+</modele>
+<modele nom="525 I (TYPES: 4000,DA,HC,HD)">
+<type>4131</type>
+<type>4141</type>
+<type>DA31</type>
+<type>DA41</type>
+<type>HC11</type>
+<type>HC21</type>
+<type>HD51</type>
+<type>HD56S5F</type>
+<type>HD61</type>
+<type>HD66A4F</type>
+</modele>
+<modele nom="525 I LUXE/SPORT">
+<type>NE51</type>
+<type>NU51</type>
+</modele>
+<modele nom="525 I TOURING/BREAK">
+<type>DS30</type>
+<type>DS38</type>
+<type>DS40</type>
+<type>DS48</type>
+<type>HJ50</type>
+<type>HJ56</type>
+<type>HJ66</type>
+<type>HJ6F</type>
+</modele>
+<modele nom="525 I/525 IA">
+<type>NA535</type>
+<type>NE535</type>
+</modele>
+<modele nom="525 TD">
+<type>FW31</type>
+</modele>
+<modele nom="525 TD LUXE/EXCLUSIVE">
+<type>FW31</type>
+</modele>
+<modele nom="525 TD TOURING">
+<type>HG01</type>
+<type>HG06</type>
+<type>HG91</type>
+<type>HG96</type>
+</modele>
+<modele nom="525 TD/TD PACK">
+<type>DF51</type>
+<type>HA71</type>
+</modele>
+<modele nom="525 TDS">
+<type>AH98</type>
+<type>DF70</type>
+<type>DF71</type>
+<type>DF78</type>
+<type>DF80</type>
+<type>DF81</type>
+<type>DF88</type>
+<type>DL81</type>
+<type>HA01</type>
+<type>HA91</type>
+<type>HA96</type>
+</modele>
+<modele nom="525 TDS TOURING">
+<type>DG70</type>
+<type>DG71</type>
+<type>DG80</type>
+<type>DG81</type>
+<type>HG70</type>
+<type>HG71</type>
+<type>HG76</type>
+</modele>
+<modele nom="525 XI">
+<type>NF31</type>
+</modele>
+<modele nom="525 XI LUXE/SPORT">
+<type>NF31</type>
+</modele>
+<modele nom="525/525 E">
+<type>4251</type>
+<type>4261</type>
+<type>525</type>
+<type>BA38</type>
+<type>DB31</type>
+<type>DB51</type>
+<type>DB61</type>
+</modele>
+<modele nom="528 I">
+<type>5A51</type>
+</modele>
+<modele nom="528 I (TYPES 3000,4000,DA,CJ)">
+<type>3971</type>
+<type>3981</type>
+<type>4171</type>
+<type>4181</type>
+<type>CJ71</type>
+<type>CJ81</type>
+<type>DA71</type>
+<type>DA81</type>
+</modele>
+<modele nom="528 I (TYPES NU /NV/ DD /FR)">
+<type>DD50</type>
+<type>DD51</type>
+<type>DD60</type>
+<type>DD61</type>
+<type>FR1C5</type>
+<type>NU535</type>
+<type>NU5C5</type>
+<type>NV135</type>
+<type>NV1C5</type>
+</modele>
+<modele nom="530 D">
+<type>DL70</type>
+<type>DL71</type>
+<type>DL78</type>
+<type>DL80</type>
+<type>DL81</type>
+<type>DL88</type>
+<type>NC71</type>
+<type>NR71</type>
+</modele>
+<modele nom="530 D (TYPE FW/XA)">
+<type>FW51</type>
+<type>XA51</type>
+</modele>
+<modele nom="530 D (TYPE NX71)">
+<type>NX71</type>
+</modele>
+<modele nom="530 D EXCELLIS/LUXE/SPORT (TYPE FW/XA)">
+<type>FW51</type>
+<type>XA51</type>
+</modele>
+<modele nom="530 D EXCLUSIVE (TYPES FW/XA)">
+<type>FW51</type>
+<type>XA51</type>
+</modele>
+<modele nom="530 D GT EXCLUSIVE (GRAN TURISMO)">
+<type>SN61</type>
+</modele>
+<modele nom="530 D GT LUXE (GRAN TURISMO)">
+<type>SN61</type>
+</modele>
+<modele nom="530 D LOUNGE PLUS">
+<type>5D11</type>
+</modele>
+<modele nom="530 D LUXE/SPORT">
+<type>NC71</type>
+<type>NR71</type>
+</modele>
+<modele nom="530 D LUXE/SPORT (TYPE NX71)">
+<type>NX71</type>
+</modele>
+<modele nom="530 D MODERN/LUXURY/M SPORT">
+<type>5D11</type>
+</modele>
+<modele nom="530 D TOURING EXCELLIS/LUXE/SPORT/BREAK">
+<type>MX51</type>
+</modele>
+<modele nom="530 D TOURING EXCLUSIVE/BREAK">
+<type>MX51</type>
+</modele>
+<modele nom="530 D TOURING/BREAK">
+<type>MX51</type>
+</modele>
+<modele nom="530 D TOURING/BREAK (TYPE DP)">
+<type>DP70</type>
+<type>DP71</type>
+<type>DP78</type>
+<type>DP80</type>
+<type>DP81</type>
+<type>DP88</type>
+</modele>
+<modele nom="530 D X DRIVE EXCELLIS">
+<type>FV31</type>
+<type>NY71</type>
+</modele>
+<modele nom="530 D X DRIVE EXCLUSIVE">
+<type>FV31</type>
+<type>NY71</type>
+</modele>
+<modele nom="530 D X DRIVE GRAN TURISMO EXCELLIS">
+<type>SP61</type>
+</modele>
+<modele nom="530 D X DRIVE GRAN TURISMO EXCLUSIVE">
+<type>SP61</type>
+</modele>
+<modele nom="530 D X DRIVE GRAN TURISMO LUXE">
+<type>SP61</type>
+</modele>
+<modele nom="530 D X DRIVE SPORT DESIGN/LUXE">
+<type>FV31</type>
+<type>NY71</type>
+</modele>
+<modele nom="530 I / BREAK / TOURING">
+<type>BF41</type>
+<type>DS50</type>
+<type>DS58</type>
+<type>DS60</type>
+<type>DS68</type>
+<type>DT50</type>
+<type>DT60</type>
+<type>FR11</type>
+<type>HC51</type>
+<type>HC61</type>
+<type>HE11</type>
+<type>HE21</type>
+<type>HK11</type>
+<type>HK21</type>
+<type>NA73</type>
+<type>NE71</type>
+<type>ZT58</type>
+<type>ZT68</type>
+</modele>
+<modele nom="530 I EXCELLIS /LUXE / SPORT /BREAK / TOURING">
+<type>FR11</type>
+<type>NE71</type>
+</modele>
+<modele nom="530 I EXCLUSIVE / BREAK / TOURING">
+<type>FR11</type>
+</modele>
+<modele nom="530 XD">
+<type>NM71</type>
+</modele>
+<modele nom="530 XD LUXE/SPORT">
+<type>NM71</type>
+</modele>
+<modele nom="530 XI">
+<type>NF71</type>
+</modele>
+<modele nom="530 XI LUXE/SPORT">
+<type>NF71</type>
+</modele>
+<modele nom="535 D">
+<type>NC91</type>
+<type>NJ91</type>
+</modele>
+<modele nom="535 D EXCLUSIVE/TOURING (TYPES FW/XA/SN)">
+<type>FW71</type>
+<type>SN81</type>
+<type>XA71</type>
+</modele>
+<modele nom="535 D LUXE/SPORT">
+<type>NC71</type>
+<type>NC91</type>
+<type>NJ91</type>
+</modele>
+<modele nom="535 D SPORT DESIGN/LUXE/TOURING (TYPES FW/ XA/SN)">
+<type>FW71</type>
+<type>SN81</type>
+<type>XA71</type>
+</modele>
+<modele nom="535 D XDRIVE CONFORT/ EXCELLIS">
+<type>XA91</type>
+</modele>
+<modele nom="535 D XDRIVE EXCLUSIVE">
+<type>XA91</type>
+</modele>
+<modele nom="535 D XDRIVE LUXE/SPORT DESIGN">
+<type>XA91</type>
+</modele>
+<modele nom="535 D/TOURING (TYPES FW/ XA/SN)">
+<type>FW71</type>
+<type>SN81</type>
+<type>XA71</type>
+</modele>
+<modele nom="535 I">
+<type>DE11</type>
+<type>DE21</type>
+<type>DN11</type>
+<type>DN21</type>
+<type>HD11</type>
+<type>HD21</type>
+<type>HD23</type>
+</modele>
+<modele nom="535 I (TYPES DC)">
+<type>DC31</type>
+<type>DC41</type>
+<type>DC81</type>
+</modele>
+<modele nom="540 I PROTECTION">
+<type>DN81</type>
+</modele>
+<modele nom="540 I TOURING/BREAK">
+<type>DR51</type>
+<type>DR61</type>
+</modele>
+<modele nom="540 IA/540 I V8">
+<type>DE51</type>
+<type>DE61</type>
+<type>DN51</type>
+<type>DN61</type>
+<type>HE51</type>
+<type>HE61</type>
+</modele>
+<modele nom="545 I/LUXE/SPORT">
+<type>NB31</type>
+</modele>
+<modele nom="550 I">
+<type>NW51</type>
+</modele>
+<modele nom="628 CSI">
+<type>5171</type>
+<type>5181</type>
+<type>EA31</type>
+<type>EA71</type>
+<type>EA81</type>
+</modele>
+<modele nom="630 CI COUPE/CABRIOLET">
+<type>EH31</type>
+</modele>
+<modele nom="630 I">
+<type>EH31</type>
+</modele>
+<modele nom="630 I CABRIOLET">
+<type>EK31</type>
+</modele>
+<modele nom="630 I CABRIOLET (TYPE EB11)">
+<type>EB11</type>
+</modele>
+<modele nom="630 I CABRIOLET LUXE">
+<type>EK31</type>
+</modele>
+<modele nom="630 I CABRIOLET LUXE/SPORT/EXCLUSIVE (TYPE EB11)">
+<type>EB11</type>
+</modele>
+<modele nom="630 I COUPE">
+<type>EA11</type>
+</modele>
+<modele nom="630 I COUPE LUXE/SPORT DESIGN/EXCLUSIVE">
+<type>EA11</type>
+</modele>
+<modele nom="630 I LUXE">
+<type>EH31</type>
+</modele>
+<modele nom="633 CSI">
+<type>633</type>
+</modele>
+<modele nom="635 CSI">
+<type>5331</type>
+<type>5371</type>
+<type>5381</type>
+<type>EC41</type>
+<type>EC71</type>
+<type>EC81</type>
+</modele>
+<modele nom="635 CSI M">
+<type>5531</type>
+<type>EF31</type>
+</modele>
+<modele nom="635 D CABRIOLET EXCLUSIVE">
+<type>EB71</type>
+</modele>
+<modele nom="635 D CABRIOLET/LUXE">
+<type>EB71</type>
+</modele>
+<modele nom="635 D EXCLUSIVE COUPE">
+<type>EA71</type>
+</modele>
+<modele nom="635 D/LUXE COUPE">
+<type>EA71</type>
+</modele>
+<modele nom="640 D COUPE LUXE/EXCELLIS">
+<type>LX71</type>
+</modele>
+<modele nom="640 D COUPE SPORT DESIGN/EXCLUSIVE">
+<type>LX71</type>
+</modele>
+<modele nom="640 D GRAN COUPE EXCELLIS/LUXE">
+<type>6A61</type>
+</modele>
+<modele nom="640 D GRAN COUPE EXCLUSIVE INDIVIDUAL">
+<type>6A61</type>
+</modele>
+<modele nom="640 D GRAN COUPE SPORT DESIGN/ EXCLUSIVE">
+<type>6A61</type>
+</modele>
+<modele nom="645 CI CABRIOLET">
+<type>EK71</type>
+</modele>
+<modele nom="645 CI COUPE">
+<type>EH71</type>
+</modele>
+<modele nom="650 I (TYPE EB)">
+<type>EB535</type>
+<type>EB5C5</type>
+</modele>
+<modele nom="650 I CABRIOLET">
+<type>EB51</type>
+</modele>
+<modele nom="650 I CABRIOLET (TYPE EK11)">
+<type>EK11</type>
+</modele>
+<modele nom="650 I COUPE">
+<type>*</type>
+</modele>
+<modele nom="650 I COUPE (TYPE EA)">
+<type>EA535</type>
+<type>EA5C5</type>
+</modele>
+<modele nom="650 I COUPE (TYPE EH11)">
+<type>EH11</type>
+</modele>
+<modele nom="650 I COUPE 2D">
+<type>YM9C5</type>
+</modele>
+<modele nom="725 TDS/TDS A">
+<type>GE00</type>
+<type>GE01</type>
+<type>GE90</type>
+<type>GE91</type>
+</modele>
+<modele nom="728">
+<type>6511</type>
+<type>728</type>
+</modele>
+<modele nom="728 I (TYPES 6500,FD,FE)">
+<type>6531</type>
+<type>6571</type>
+<type>6581</type>
+<type>FD71</type>
+<type>FE31</type>
+<type>FE41</type>
+<type>FE71</type>
+<type>FE81</type>
+</modele>
+<modele nom="728 I LUXE (TYPE FE)">
+<type>FE71</type>
+<type>FE81</type>
+</modele>
+<modele nom="728 I/IA/IAL/LUXE">
+<type>GE10</type>
+<type>GE11</type>
+<type>GE20</type>
+<type>GE21</type>
+<type>GH21</type>
+</modele>
+<modele nom="730">
+<type>730</type>
+</modele>
+<modele nom="730 D">
+<type>HM21</type>
+</modele>
+<modele nom="730 D (TYPES : GE, GM)">
+<type>GE60</type>
+<type>GE61</type>
+<type>GM21</type>
+</modele>
+<modele nom="730 D EXCLUSIVE/EXCLUSIVE INDIVIDUAL">
+<type>KM21</type>
+<type>KM22</type>
+<type>YC21</type>
+</modele>
+<modele nom="730 D LIMOUSINE EXCLUSIVE/EXCLUSIVE INDIVIDUAL">
+<type>KM41</type>
+</modele>
+<modele nom="730 D LIMOUSINE LUXE">
+<type>KM41</type>
+</modele>
+<modele nom="730 D LINE MARINE/LIMOUSINE/LIMOUSINE LIGNE MARINE">
+<type>HM21</type>
+</modele>
+<modele nom="730 D LUXE">
+<type>KM21</type>
+<type>KM22</type>
+<type>YC21</type>
+</modele>
+<modele nom="730 I">
+<type>HL21</type>
+</modele>
+<modele nom="730 I (TYPES : GF, GA, GL)">
+<type>GA31</type>
+<type>GA41</type>
+<type>GA42</type>
+<type>GA71</type>
+<type>GA81</type>
+<type>GF10</type>
+<type>GF11</type>
+<type>GF20</type>
+<type>GF21</type>
+</modele>
+<modele nom="730 I LINE MARINE/LIMOUSINE/LIMOUSINE LINE MARINE">
+<type>HL21</type>
+</modele>
+<modele nom="730 IAL / 730 IL (TYPES : GJ, GC, GN)">
+<type>GC21</type>
+<type>GJ11</type>
+<type>GJ21</type>
+</modele>
+<modele nom="730 LI">
+<type>KB21</type>
+<type>YE21</type>
+</modele>
+<modele nom="732 I (TYPES : GF, 6000)">
+<type>6671</type>
+<type>6681</type>
+<type>FF71</type>
+<type>FF81</type>
+</modele>
+<modele nom="733 I">
+<type>733I</type>
+</modele>
+<modele nom="735 I (TYPES 6000 & FH)">
+<type>6871</type>
+<type>6881</type>
+<type>FH71</type>
+<type>FH81</type>
+</modele>
+<modele nom="735 I (TYPES: GF,GG,GB)">
+<type>GB31</type>
+<type>GB41</type>
+<type>GB51</type>
+<type>GB61</type>
+<type>GF31</type>
+<type>GF41</type>
+<type>GG41</type>
+</modele>
+<modele nom="735 I/735 IL">
+<type>GH61</type>
+<type>GL41</type>
+</modele>
+<modele nom="735 IL (TYPES: GC,GJ)">
+<type>G61</type>
+<type>GC31</type>
+<type>GC41</type>
+<type>GC51</type>
+<type>GC61</type>
+<type>GJ31</type>
+<type>GJ41</type>
+</modele>
+<modele nom="740 D / 740 DA (TYPES : GE, GM)">
+<type>GE81</type>
+</modele>
+<modele nom="740 D EXCLUSIVE">
+<type>KM81</type>
+</modele>
+<modele nom="740 D EXCLUSIVE INDIVIDUAL">
+<type>KM81</type>
+</modele>
+<modele nom="740 D LUXE ">
+<type>KM81</type>
+</modele>
+<modele nom="740 D XDRIVE EXCLUSIVE">
+<type>KC01</type>
+</modele>
+<modele nom="740 D XDRIVE EXCLUSIVE INDIVIDUAL">
+<type>KC01</type>
+</modele>
+<modele nom="740 D XDRIVE LUXE">
+<type>KC01</type>
+</modele>
+<modele nom="740 I">
+<type>HL61</type>
+</modele>
+<modele nom="740 I (TYPES : GF, GD)">
+<type>GD41</type>
+<type>GF51</type>
+<type>GF61</type>
+<type>GF71</type>
+<type>GF81</type>
+</modele>
+<modele nom="740 I LINE MARINE/LIMOUSINE/LIMOUSINE LINE MARINE">
+<type>HL61</type>
+</modele>
+<modele nom="740 IAL (TYPES : GJ, GD)">
+<type>GD83</type>
+<type>GJ61</type>
+<type>GJ81</type>
+</modele>
+<modele nom="740 LI EXCLUSIVE">
+<type>KB41</type>
+</modele>
+<modele nom="740 LI EXCLUSIVE INDIVIDUAL">
+<type>KB41</type>
+</modele>
+<modele nom="740 LI LUXE">
+<type>KB41</type>
+</modele>
+<modele nom="745 D">
+<type>HM61</type>
+</modele>
+<modele nom="745 D LINE MARINE">
+<type>HM61</type>
+</modele>
+<modele nom="745 I AUT">
+<type>6981</type>
+<type>6991</type>
+<type>FJ91</type>
+</modele>
+<modele nom="745 I AUT EXEC">
+<type>6881</type>
+<type>6991</type>
+<type>FJ91</type>
+</modele>
+<modele nom="745 I/IL">
+<type>GL61</type>
+<type>HN81</type>
+</modele>
+<modele nom="750 I EXCLUSIVE">
+<type>KA81</type>
+</modele>
+<modele nom="750 I EXCLUSIVE INDIVIDUAL">
+<type>KA81</type>
+</modele>
+<modele nom="750 I LUXE">
+<type>KA81</type>
+</modele>
+<modele nom="750 I X DRIVE EXCLUSIVE">
+<type>YB61</type>
+</modele>
+<modele nom="750 I X DRIVE EXCLUSIVE INDIVIDUAL">
+<type>YB61</type>
+</modele>
+<modele nom="750 I X DRIVE LUXE">
+<type>YB61</type>
+</modele>
+<modele nom="750 I/750 IA/750 LI">
+<type>GB81</type>
+<type>GG21</type>
+<type>HL81</type>
+<type>HN810</type>
+</modele>
+<modele nom="750 I/LI">
+<type>HL835</type>
+<type>HN835</type>
+</modele>
+<modele nom="750 IAL PROTECTION">
+<type>GK9</type>
+<type>GK91</type>
+</modele>
+<modele nom="750 IAL/LIGNE MARINE/LIMOUSINE LIGNE MARINE">
+<type>GC81</type>
+<type>GK21</type>
+<type>HL81</type>
+<type>HL82</type>
+</modele>
+<modele nom="750 LI EXCLUSIVE">
+<type>KB81</type>
+</modele>
+<modele nom="750 LI LUXE">
+<type>KB81</type>
+</modele>
+<modele nom="750 LI/LI X DRIVE">
+<type>KB8C5</type>
+<type>KC8C5</type>
+</modele>
+<modele nom="750LI X DRIVE EXCLUSIVE">
+<type>YF81</type>
+</modele>
+<modele nom="750LI X DRIVE EXCLUSIVE INDIVIDUAL">
+<type>YF81</type>
+</modele>
+<modele nom="750LI X DRIVE LUXE">
+<type>YF81</type>
+</modele>
+<modele nom="760 I">
+<type>HL01</type>
+</modele>
+<modele nom="760 I (TYPE GL)">
+<type>*</type>
+</modele>
+<modele nom="760 I LIGNE MARINE/LIMOUSINE (TYPE : HN, HL))">
+<type>HL01</type>
+<type>HN01</type>
+</modele>
+<modele nom="760 I LIMOUSINE LIGNE MARINE (TYPES: HN, HL)">
+<type>HL01</type>
+<type>HN01</type>
+</modele>
+<modele nom="760 IL (TYPE GN)">
+<type>*</type>
+</modele>
+<modele nom="760 LI EXCLUSIVE">
+<type>KB01</type>
+</modele>
+<modele nom="760 LI EXCLUSIVE INDIVUDUAL">
+<type>KB01</type>
+</modele>
+<modele nom="840 CI V8">
+<type>EF51</type>
+<type>EF71</type>
+</modele>
+<modele nom="840 CIA">
+<type>EF61</type>
+<type>EF81</type>
+</modele>
+<modele nom="850 CI">
+<type>EF71</type>
+</modele>
+<modele nom="850 CIA">
+<type>EF81</type>
+<type>EG41</type>
+</modele>
+<modele nom="850 CSI">
+<type>EG91</type>
+</modele>
+<modele nom="850 I">
+<type>EG11</type>
+<type>EG21</type>
+</modele>
+<modele nom="ALPINA B. 11">
+<type>B11</type>
+</modele>
+<modele nom="ALPINA B. 3 2.7">
+<type>AB31</type>
+<type>AE31</type>
+<type>AF31</type>
+</modele>
+<modele nom="ALPINA B. 6 3.5">
+<type>3E30</type>
+<type>AK01</type>
+<type>DC31</type>
+</modele>
+<modele nom="ALPINA B. 7 TURBO COUPE 35">
+<type>5E28</type>
+<type>EC71</type>
+</modele>
+<modele nom="ALPINA B.10 3.5 L">
+<type>5E28</type>
+<type>B10</type>
+<type>E34</type>
+</modele>
+<modele nom="ALPINA B.10 BI-TURBO">
+<type>B10</type>
+</modele>
+<modele nom="ALPINA B.12 5.0L">
+<type>B12</type>
+</modele>
+<modele nom="ALPINA B.3 4X4 2.7">
+<type>AB71</type>
+<type>AF81</type>
+</modele>
+<modele nom="ALPINA B.3 4X4 TOURING">
+<type>B3</type>
+</modele>
+<modele nom="ALPINA B.3 CABRIOLET">
+<type>B3</type>
+<type>BB31</type>
+</modele>
+<modele nom="ALPINA B12 5.7 L COUPE">
+<type>*</type>
+</modele>
+<modele nom="ALPINA B6/2.8 L/2.8 L COUPE">
+<type>*</type>
+</modele>
+<modele nom="COOPER 1.4 D">
+<type>MG310</type>
+</modele>
+<modele nom="M1 3.0 COUPE">
+<type>UR91</type>
+</modele>
+<modele nom="M135 I XDRIVE">
+<type>1B91</type>
+</modele>
+<modele nom="M3 3.2 CABRIOLET">
+<type>BR91</type>
+</modele>
+<modele nom="M3 3.2 COUPE">
+<type>BL91</type>
+</modele>
+<modele nom="M3 4.0 CABRIOLET ">
+<type>WL935</type>
+<type>WL9C5</type>
+</modele>
+<modele nom="M3 4.0 CABRIOLET (TYPE WL91)">
+<type>WL91</type>
+</modele>
+<modele nom="M3 4.0 COUPE">
+<type>WD91</type>
+</modele>
+<modele nom="M4 3.0 COUPE">
+<type>3R91</type>
+</modele>
+<modele nom="M5  (TYPES : DC, DE, HC, HD)">
+<type>DC91</type>
+<type>DE91</type>
+<type>HC91</type>
+<type>HD91</type>
+</modele>
+<modele nom="M5 4.4">
+<type>FV91</type>
+</modele>
+<modele nom="M5 4.4 (TYPE FV9C5)">
+<type>FV9C5</type>
+</modele>
+<modele nom="M5 5.0 (507 CH)">
+<type>NB91</type>
+</modele>
+<modele nom="M5 TOURING">
+<type>HJ91</type>
+</modele>
+<modele nom="M6 4.4 COUPE">
+<type>LX9C5</type>
+</modele>
+<modele nom="M6 CABRIOLET">
+<type>EK91</type>
+</modele>
+<modele nom="M6 COUPE">
+<type>EH91</type>
+</modele>
+<modele nom="M635 CSI">
+<type>EE31</type>
+</modele>
+<modele nom="MINI COOPER 1.6">
+<type>MF31</type>
+<type>MF33</type>
+<type>RC3109</type>
+<type>RC33U9</type>
+<type>RF31</type>
+</modele>
+<modele nom="MINI COOPER 1.6 CAB">
+<type>*</type>
+</modele>
+<modele nom="MINI COOPER 1.6 D">
+<type>MG3103</type>
+<type>MG3107</type>
+</modele>
+<modele nom="MINI COOPER S 1.6">
+<type>MF71</type>
+<type>RE3106</type>
+<type>RH32</type>
+</modele>
+<modele nom="MINI COOPER S 1.6 CAB">
+<type>*</type>
+</modele>
+<modele nom="MINI ONE 1.4">
+<type>RE3105</type>
+</modele>
+<modele nom="MINI ONE 1.4 D">
+<type>RB11</type>
+</modele>
+<modele nom="MINI ONE 1.6">
+<type>MF71</type>
+<type>RA310</type>
+<type>RC31</type>
+</modele>
+<modele nom="MINI ONE 1.6 CAB">
+<type>*</type>
+</modele>
+<modele nom="X1 S DRIVE 16 D">
+<type>VY11</type>
+</modele>
+<modele nom="X1 S DRIVE 18 D LUXE/XDRIVE 18 D LUXE/SPORT DESIGN">
+<type>VN11</type>
+<type>VP11</type>
+<type>VP71</type>
+</modele>
+<modele nom="X1 S DRIVE 18 D/X DRIVE 18 D/CONFORT">
+<type>VN11</type>
+<type>VP11</type>
+<type>VP71</type>
+</modele>
+<modele nom="X1 S DRIVE 18I / PREMIERE/CONFORT">
+<type>VL31</type>
+</modele>
+<modele nom="X1 S DRIVE 18I LUXE/SPORT DESIGN">
+<type>VL31</type>
+</modele>
+<modele nom="X1 S DRIVE 20 D LUXE/X DRIVE 20 D LUXE">
+<type>VN11</type>
+<type>VN31</type>
+<type>VP31</type>
+<type>VZ91</type>
+</modele>
+<modele nom="X1 S DRIVE 20 D/X DRIVE 20 D/CONFORT">
+<type>VN11</type>
+<type>VN31</type>
+<type>VP31</type>
+<type>VZ91</type>
+</modele>
+<modele nom="X1 S DRIVE 20D/X DRIVE">
+<type>HU31</type>
+</modele>
+<modele nom="X1 X DRIVE 23 D CONFORT/LUXE">
+<type>*</type>
+<type>VP51</type>
+</modele>
+<modele nom="X3 2.0 D">
+<type>PB11</type>
+</modele>
+<modele nom="X3 2.0 D (TYPE PE/PD)">
+<type>PD11</type>
+<type>PE11</type>
+</modele>
+<modele nom="X3 2.0 D LUXE/SPORT">
+<type>PB11</type>
+</modele>
+<modele nom="X3 2.5 I">
+<type>PA71</type>
+<type>PA73</type>
+</modele>
+<modele nom="X3 2.5 I LUXE/SPORT">
+<type>PA71</type>
+</modele>
+<modele nom="X3 2.5 SI">
+<type>PC71</type>
+</modele>
+<modele nom="X3 2.5 SI LUXE/SPORT">
+<type>PC71</type>
+</modele>
+<modele nom="X3 28I">
+<type>WX91</type>
+</modele>
+<modele nom="X3 28I LUXE/SPORT DES./EXCLUSIVE">
+<type>WX91</type>
+</modele>
+<modele nom="X3 3.0 D">
+<type>PB51</type>
+<type>PD51</type>
+</modele>
+<modele nom="X3 3.0 D (TYPE PD91)">
+<type>PD91</type>
+</modele>
+<modele nom="X3 3.0 D LUXE/EXCLUSIVE (TYPE PD91)">
+<type>PD91</type>
+</modele>
+<modele nom="X3 3.0 D LUXE/SPORT">
+<type>PB51</type>
+<type>PD51</type>
+</modele>
+<modele nom="X3 3.0 I">
+<type>PA91</type>
+</modele>
+<modele nom="X3 3.0 I LUXE/SPORT">
+<type>PA91</type>
+</modele>
+<modele nom="X3 3.0 SD">
+<type>PD71</type>
+</modele>
+<modele nom="X3 3.0 SI">
+<type>PC934</type>
+</modele>
+<modele nom="X3 SDRIVE 18D">
+<type>WY11</type>
+<type>WZ31</type>
+</modele>
+<modele nom="X3 SDRIVE 18D XLINE/MSPORT">
+<type>WY11</type>
+<type>WZ31</type>
+</modele>
+<modele nom="X3 X DRIVE 18D">
+<type>PE71</type>
+</modele>
+<modele nom="X3 X DRIVE 18D LUXE/SPORT">
+<type>PE71</type>
+</modele>
+<modele nom="X3 X DRIVE 20 D">
+<type>WY31</type>
+<type>WZ51</type>
+</modele>
+<modele nom="X3 X DRIVE 20 D LUXE/SPORT/MSPORT/XLINE/EXCLUSIVE">
+<type>WY31</type>
+<type>WZ51</type>
+</modele>
+<modele nom="X3 X DRIVE 28 D">
+<type>WY3C</type>
+</modele>
+<modele nom="X3 X DRIVE 28I">
+<type>WX9C5</type>
+</modele>
+<modele nom="X3 X DRIVE 30 D ">
+<type>PD91</type>
+</modele>
+<modele nom="X3 X DRIVE 30D LUXE/SPORT/EXCLUSIVE">
+<type>PD91</type>
+</modele>
+<modele nom="X4 X DRIVE 20 D">
+<type>XX11</type>
+</modele>
+<modele nom="X4 X DRIVE 20 D XLINE / M SPORT">
+<type>XX11</type>
+</modele>
+<modele nom="X4 X DRIVE 30 D">
+<type>XX31</type>
+</modele>
+<modele nom="X4 X DRIVE 30 D XLINE / M SPORT">
+<type>XX31</type>
+</modele>
+<modele nom="X4 X DRIVE 35 D">
+<type>XX51</type>
+</modele>
+<modele nom="X4 X DRIVE 35 D XLINE/MSPORT">
+<type>XX51</type>
+</modele>
+<modele nom="X5 3.0 ">
+<type>FA53</type>
+</modele>
+<modele nom="X5 3.0 D">
+<type>FA70</type>
+<type>FA71</type>
+<type>FA78</type>
+</modele>
+<modele nom="X5 3.0 D (TYPE FB70/FB71)">
+<type>FB70</type>
+<type>FB71</type>
+</modele>
+<modele nom="X5 3.0 D (TYPE FF)">
+<type>FF035</type>
+<type>FF0C5</type>
+</modele>
+<modele nom="X5 3.0 D (TYPE FF41)">
+<type>FF41</type>
+</modele>
+<modele nom="X5 3.0 D / 35D (TYPE ZW0C5)">
+<type>ZW0C5</type>
+</modele>
+<modele nom="X5 3.0 D EXCLUSIVE (TYPE ZW)">
+<type>ZW41</type>
+<type>ZW61</type>
+</modele>
+<modele nom="X5 3.0 D LINE MARINE (TYPE FB70/FB71)">
+<type>FB70</type>
+<type>FB71</type>
+</modele>
+<modele nom="X5 3.0 D LINE MARINE LUXE">
+<type>FB78</type>
+</modele>
+<modele nom="X5 3.0 D LUXE">
+<type>FB78</type>
+</modele>
+<modele nom="X5 3.0 D LUXE (TYPE FF41)">
+<type>FF41</type>
+</modele>
+<modele nom="X5 3.0 D/LUXE (TYPE ZW)">
+<type>ZW41</type>
+<type>ZW61</type>
+</modele>
+<modele nom="X5 3.0 I 4X4">
+<type>FA11</type>
+<type>FA51</type>
+</modele>
+<modele nom="X5 3.0 I LINE MARINE/LINE MARINE LUXE">
+<type>FA11</type>
+<type>FA18</type>
+</modele>
+<modele nom="X5 3.0 I LUXE">
+<type>FA18</type>
+</modele>
+<modele nom="X5 3.0 SD">
+<type>FF01</type>
+</modele>
+<modele nom="X5 3.0 SD EXCLUSIVE">
+<type>FF01</type>
+</modele>
+<modele nom="X5 3.0 SD LUXE">
+<type>FF01</type>
+</modele>
+<modele nom="X5 3.0 SI">
+<type>FE435</type>
+</modele>
+<modele nom="X5 4.4 I 4X4">
+<type>FB31</type>
+<type>FB33</type>
+</modele>
+<modele nom="X5 4.4 IA LINE MARINE/LINE MARINE LUXE">
+<type>FB51</type>
+<type>FB58</type>
+</modele>
+<modele nom="X5 4.4 IA/IA LUXE/SPORT">
+<type>FB51</type>
+<type>FB58</type>
+<type>FB5S</type>
+</modele>
+<modele nom="X5 4.6 IS 4X4">
+<type>FB91</type>
+</modele>
+<modele nom="X5 4.8 I">
+<type>FE81</type>
+</modele>
+<modele nom="X5 4.8 I (TYPE FE83)">
+<type>FE83</type>
+</modele>
+<modele nom="X5 4.8 IS">
+<type>FA91</type>
+</modele>
+<modele nom="X5 4.8 IS LINE MARINE">
+<type>FA91</type>
+</modele>
+<modele nom="X5 M 4.4">
+<type>KT61</type>
+</modele>
+<modele nom="X5 M50D">
+<type>KS81</type>
+</modele>
+<modele nom="X5 SDRIVE 25D">
+<type>KS01</type>
+</modele>
+<modele nom="X5 SDRIVE 25D LINE/EXCLUSIVE/MSPORT ">
+<type>KS01</type>
+</modele>
+<modele nom="X5 X DRIVE 25 D">
+<type>KS21</type>
+</modele>
+<modele nom="X5 X DRIVE 25 D XLINE/EXCLUSIVE/M SPORT">
+<type>KS21</type>
+</modele>
+<modele nom="X5 X DRIVE 30D">
+<type>KS41</type>
+</modele>
+<modele nom="X5 X DRIVE 30D EXCLUSIVE /35D (FF41/FF01/ZW41) ">
+<type>FF01</type>
+<type>FF41</type>
+<type>ZW41</type>
+</modele>
+<modele nom="X5 X DRIVE 30D LUXE/35D (TYPE FF41/FF01/ZW41)">
+<type>FF01</type>
+<type>FF41</type>
+<type>ZW41</type>
+</modele>
+<modele nom="X5 X DRIVE 30D XLINE/EXCLUSIVE/MSPORT">
+<type>KS41</type>
+</modele>
+<modele nom="X5 X DRIVE 30D/35D (TYPE FF41/FF01/ZW41)">
+<type>FF01</type>
+<type>FF41</type>
+<type>ZW41</type>
+</modele>
+<modele nom="X5 X DRIVE 35 I M SPORT/ EXCLUSIVE">
+<type>ZV41</type>
+</modele>
+<modele nom="X5 X DRIVE 35 I/EXCELLIS/LUXE">
+<type>ZV41</type>
+</modele>
+<modele nom="X5 X DRIVE 35D (TYPE ZW0C5)">
+<type>ZW0C5</type>
+</modele>
+<modele nom="X5 X DRIVE 40 D / EXCELLIS/ LUXE">
+<type>ZW61</type>
+</modele>
+<modele nom="X5 X DRIVE 40 D M SPORT/ EXCLUSIVE">
+<type>ZW61</type>
+</modele>
+<modele nom="X5 XDRIVE 50I">
+<type>KR61</type>
+</modele>
+<modele nom="X5 XDRIVE 50I XLINE/EXCLUSIVE/MSPORT">
+<type>KR61</type>
+</modele>
+<modele nom="X6 M50D">
+<type>FH81</type>
+</modele>
+<modele nom="X6 X DRIVE 40 3.0 D EXCLUSIVE INDIVIDUAL">
+<type>FH01</type>
+</modele>
+<modele nom="X6 X DRIVE 40 3.0 D EXCLUSIVE/ M SPORT">
+<type>FH01</type>
+</modele>
+<modele nom="X6 X DRIVE 40 3.0 D LUXE">
+<type>FH01</type>
+</modele>
+<modele nom="X6 X DRIVE 50I 4.4 EXCLUSIVE/EXLUSIVE INDIVIDU">
+<type>FG81</type>
+</modele>
+<modele nom="X6 X DRIVE 50I 4.4 LUXE / M SPORT">
+<type>FG81</type>
+</modele>
+<modele nom="X6 X-DRIVE 30/35 3.0 D EXCLUSIVE/EXLUSIVE INDIVIDU">
+<type>FG01</type>
+<type>FG61</type>
+<type>FH61</type>
+</modele>
+<modele nom="X6 X-DRIVE 30/35 3.0 D LUXE">
+<type>FG01</type>
+<type>FG61</type>
+<type>FH61</type>
+</modele>
+<modele nom="X6 X-DRIVE 35 3.0 EXCLUSIVE">
+<type>FG41</type>
+</modele>
+<modele nom="X6 X-DRIVE 35 3.0 LUXE">
+<type>FG41</type>
+</modele>
+<modele nom="X6 X-DRIVE 35I(TYPE FG43/FG2C5/FG21)">
+<type>FG21</type>
+<type>FG2C5</type>
+<type>FG43</type>
+</modele>
+<modele nom="Z1 ">
+<type>BA91</type>
+</modele>
+<modele nom="Z3 1.8/1.9 CABRIOLET">
+<type>CH71</type>
+<type>CJ11</type>
+<type>CM11</type>
+</modele>
+<modele nom="Z3 2.2 ROADSTER">
+<type>CN11</type>
+</modele>
+<modele nom="Z3 2.8 CABRIOLET">
+<type>CJ31</type>
+</modele>
+<modele nom="Z3 3.0 COUPE/ROADSTER">
+<type>CK71</type>
+<type>CN51</type>
+</modele>
+<modele nom="Z3 3.2 M COUPE/ROADSTER">
+<type>CK91</type>
+<type>CL91</type>
+<type>CN91</type>
+</modele>
+<modele nom="Z4 2.0 I">
+<type>BZ11</type>
+</modele>
+<modele nom="Z4 2.0 I LINE MARINE">
+<type>BZ11</type>
+</modele>
+<modele nom="Z4 2.2 I">
+<type>BT11</type>
+</modele>
+<modele nom="Z4 2.2 I LINE MARINE">
+<type>BT11</type>
+</modele>
+<modele nom="Z4 2.5 I LINE MARINE">
+<type>BT31</type>
+</modele>
+<modele nom="Z4 2.5 I ROADSTER/ S DRIVE 23 I">
+<type>LM31</type>
+</modele>
+<modele nom="Z4 2.5 I ROADSTER/CABRIOLET">
+<type>BT31</type>
+</modele>
+<modele nom="Z4 3.0 I LINE MARINE">
+<type>BT51</type>
+</modele>
+<modele nom="Z4 3.0 I ROADSTER">
+<type>BT51</type>
+<type>BT534</type>
+<type>BU335</type>
+</modele>
+<modele nom="Z4 3.0 I ROADSTER (TYPE LM51)">
+<type>LM51</type>
+</modele>
+<modele nom="Z4 3.0 ROADSTER (TYPE LM71)">
+<type>LM71</type>
+</modele>
+<modele nom="Z4 3.0 S DRIVE 35 IS">
+<type>LM11</type>
+</modele>
+<modele nom="Z4 3.0 SI ROADSTER/ 3.0 SI COUPE">
+<type>BU535</type>
+<type>DU535</type>
+</modele>
+<modele nom="Z8 4.9 ROADSTER">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="BUICK">
+<modele nom="CENTURY 4P">
+<type>AH54N</type>
+</modele>
+<modele nom="ELECTRA/PARK AVENUE 3.8 V6">
+<type>CF54C</type>
+<type>CU531</type>
+<type>CU54C</type>
+<type>CW51C</type>
+<type>CW53L</type>
+<type>CW54C</type>
+<type>CX54C</type>
+</modele>
+<modele nom="ENCLAVE 3.6">
+<type>R23D</type>
+</modele>
+<modele nom="LE SABRE 3.8 V6">
+<type>P69</type>
+</modele>
+<modele nom="REGAL V6">
+<type>WB14</type>
+<type>WB54</type>
+<type>WD14</type>
+<type>WD54</type>
+<type>WF14</type>
+<type>WF54</type>
+</modele>
+<modele nom="RENDEZ VOUS 3.5/CX/CXL">
+<type>A03L</type>
+</modele>
+<modele nom="RIVIERA">
+<type>*</type>
+</modele>
+<modele nom="ROADMASTER">
+<type>*</type>
+</modele>
+<modele nom="SKYLARK">
+<type>*</type>
+</modele>
+<modele nom="VERANO 2.4">
+<type>PP5SK</type>
+<type>PR5SK</type>
+<type>PS5SK</type>
+</modele>
+</marque>
+<marque nom="CADILLAC">
+<modele nom="BLS 1.9 D">
+<type>YSCF</type>
+</modele>
+<modele nom="BROUGHAM">
+<type>DW51</type>
+<type>DW54</type>
+</modele>
+<modele nom="CTS 2.6 V6">
+<type>*</type>
+</modele>
+<modele nom="CTS 2.8 ">
+<type>DM56T</type>
+<type>GMX320</type>
+</modele>
+<modele nom="CTS 3.2 V6">
+<type>*</type>
+</modele>
+<modele nom="CTS 3.6">
+<type>DM577</type>
+</modele>
+<modele nom="DE VILLE">
+<type>CD13</type>
+<type>CD5</type>
+<type>CD69</type>
+<type>D69</type>
+<type>DK52Y</type>
+</modele>
+<modele nom="DEVILLE LIMOUSINE 5.0">
+<type>EH90Y</type>
+</modele>
+<modele nom="DTS 4.6">
+<type>KA5EY</type>
+<type>KD57Y</type>
+</modele>
+<modele nom="ELDORADO">
+<type>AL5</type>
+<type>EL115</type>
+<type>EL12</type>
+<type>EL129</type>
+<type>EL13B</type>
+<type>EL678</type>
+</modele>
+<modele nom="ESACALADE ESV 6.2 PLATINIUM">
+<type>S48KJ</type>
+<type>S4KKJ</type>
+</modele>
+<modele nom="ESACALADE ESV 6.2/LUXURY/ PREMIUM">
+<type>S48KJ</type>
+<type>S4GKJ</type>
+<type>S4HKJ</type>
+<type>S4JKJ</type>
+</modele>
+<modele nom="ESCALADE 6.0">
+<type>K638</type>
+<type>K63C</type>
+<type>K66N</type>
+</modele>
+<modele nom="ESCALADE 6.0/ 6.2 PLATINIUM (TYPE S4)">
+<type>S47KJ</type>
+<type>S4HKJ</type>
+<type>S4MKJ</type>
+<type>S4PKJ</type>
+</modele>
+<modele nom="ESCALADE 6.0/6.2/LUXURY/PREMIUM (TYPE S4)">
+<type>S47KJ</type>
+<type>S4HKJ</type>
+<type>S4PKJ</type>
+</modele>
+<modele nom="ESCALADE 6.2">
+<type>*</type>
+</modele>
+<modele nom="ESCALADE 6.2 PLATINIUM">
+<type>S74EF</type>
+</modele>
+<modele nom="ESCALADE ESV 4X4">
+<type>FK66N</type>
+</modele>
+<modele nom="ESCALADE ESV 6.2">
+<type>K668</type>
+</modele>
+<modele nom="ESCALADE ESV 6.2 (TYPE 48/KK)">
+<type>48EF</type>
+<type>KKEF</type>
+</modele>
+<modele nom="ESCALADE ESV 6.2 LUXURY/PREMUIM (TYPE 48/KK/4J/4H)">
+<type>48EF</type>
+<type>4HEF</type>
+<type>4JEF</type>
+<type>KKEF</type>
+</modele>
+<modele nom="ESCALADE ESV 6.2 PLATINIUM (TYPE 48/KK/K9)">
+<type>48EF</type>
+<type>K9EF</type>
+<type>KKEF</type>
+</modele>
+<modele nom="ESCALADE/ESCALADE EXT">
+<type>EK63</type>
+</modele>
+<modele nom="FLEETWOOD">
+<type>CB69</type>
+<type>CH23</type>
+<type>CH238</type>
+<type>DW69</type>
+<type>F33</type>
+</modele>
+<modele nom="POTANKIN">
+<type>AD6</type>
+</modele>
+<modele nom="SEVILLE">
+<type>6S69</type>
+<type>KS5</type>
+<type>KY</type>
+</modele>
+<modele nom="SRX 3.0/PREMIUM">
+<type>NBEY</type>
+<type>NCEY</type>
+</modele>
+<modele nom="SRX 3.6">
+<type>FNAE3</type>
+</modele>
+<modele nom="SRX 3.6 LUXURY/PERFORMANCE/PREMIUM">
+<type>EE637</type>
+<type>FNBE3</type>
+<type>FNCE3</type>
+<type>FNDE3</type>
+</modele>
+<modele nom="SRX 4.6">
+<type>*</type>
+</modele>
+<modele nom="STS 4.6 V8">
+<type>*</type>
+</modele>
+</marque>
+<marque nom="CATERHAM">
+<modele nom="SEVEN 485 2.0 CABRIOLET / SUPER SEVEN/S/R">
+<type>LDF3D8</type>
+</modele>
+</marque>
+<marque nom="CHEVROLET / GEO">
+<modele nom="ASTRA">
+<type>1115</type>
+</modele>
+<modele nom="ASTRO">
+<type>M15Z</type>
+</modele>
+<modele nom="AVEO 1.2/LS">
+<type>SF69T</type>
+<type>TF483</type>
+<type>TF48X9</type>
+</modele>
+<modele nom="AVEO 1.4/16V ">
+<type>TF48F</type>
+</modele>
+<modele nom="AVEO 1.4/16V (TYPE SF)">
+<type>SF08WJ</type>
+<type>SF48WJ</type>
+</modele>
+<modele nom="AVEO 1.6">
+<type>TD56E</type>
+<type>TD626</type>
+<type>TD66E</type>
+<type>TG56E</type>
+<type>TG66E</type>
+</modele>
+<modele nom="BERETTA COUPE">
+<type>1LV37</type>
+<type>1LW37</type>
+<type>1LZ37</type>
+<type>GT1LW37</type>
+<type>LZ37</type>
+<type>M15</type>
+</modele>
+<modele nom="BLAZER 4WD">
+<type>E18U</type>
+<type>ED18</type>
+<type>K18</type>
+<type>K18H</type>
+<type>S10</type>
+<type>T18</type>
+<type>V18</type>
+</modele>
+<modele nom="CAMARO 3.4 V6 CONVERTIBLE">
+<type>FP32S</type>
+</modele>
+<modele nom="CAMARO 3.6 CABRIOLET">
+<type>FB3D3</type>
+<type>FC3DD</type>
+<type>FF3ED</type>
+</modele>
+<modele nom="CAMARO 3.6 COUPE/LS/LT/3.5 COUPE">
+<type>FA1ED</type>
+<type>FB1EV</type>
+<type>FC1EV</type>
+<type>FE1EV</type>
+<type>FG1EV</type>
+</modele>
+<modele nom="CAMARO 3.8 CABRIOLET">
+<type>*</type>
+</modele>
+<modele nom="CAMARO 3.8 COUPE">
+<type>*</type>
+</modele>
+<modele nom="CAMARO 5.7 V8 CONVERTIBLE">
+<type>*</type>
+</modele>
+<modele nom="CAMARO 6.2 CABRIOLET">
+<type>F93DJX</type>
+</modele>
+<modele nom="CAMARO 6.2 CONVERTIBLE SS">
+<type>FK3DJ</type>
+<type>FS3EW</type>
+</modele>
+<modele nom="CAMARO 6.2 COUPE">
+<type>FK1EJ</type>
+</modele>
+<modele nom="CAMARO 6.2 COUPE RS">
+<type>FT1EW</type>
+<type>FT1EW5</type>
+</modele>
+<modele nom="CAMARO 6.2 COUPE SS/ 2SS/ 6.4">
+<type>F91E</type>
+<type>FJ1EJ</type>
+<type>FJ1EW</type>
+<type>FK1EJ</type>
+<type>FS1EW</type>
+</modele>
+<modele nom="CAMARO Z28 5.7 COUPE">
+<type>*</type>
+</modele>
+<modele nom="CAMARO/SPORT/COUPE 2P">
+<type>1FP21</type>
+<type>1FP87</type>
+<type>1FP87Z28</type>
+<type>FP22S</type>
+</modele>
+<modele nom="CAPRICE/CAPRICE CLASSIC">
+<type>1AN69</type>
+<type>1B469</type>
+<type>1BL69</type>
+<type>1BN51</type>
+<type>1BN69</type>
+<type>N69</type>
+</modele>
+<modele nom="CAPTIVA 2.0 VCDI">
+<type>CD26RJ</type>
+<type>CF26</type>
+<type>CG26</type>
+</modele>
+<modele nom="CAPTIVA 2.0 VCDI LT PACK/SPORT/LT+/LTZ">
+<type>CD26RJ</type>
+<type>CF26</type>
+<type>CG26</type>
+<type>DC53R</type>
+<type>FC6ER</type>
+</modele>
+<modele nom="CAPTIVA 2.2 VCDI LTZ (184 CH)">
+<type>CD26</type>
+<type>CF26</type>
+</modele>
+<modele nom="CAPTIVA 2.2 VCDI/LS/LT/LT+">
+<type>CF26</type>
+</modele>
+<modele nom="CAPTIVA 2.4">
+<type>DC23F</type>
+</modele>
+<modele nom="CAPTIVA 3.2">
+<type>KL1CD26GJ</type>
+</modele>
+<modele nom="CAVALIER 2.2Ÿ/2.3">
+<type>1B46S</type>
+<type>1JC11</type>
+<type>1JC35</type>
+<type>1JC37</type>
+<type>1JC69</type>
+<type>1JF27</type>
+<type>JC124</type>
+<type>JC144</type>
+<type>JC524</type>
+<type>JC544</type>
+<type>JC844</type>
+<type>JF14T</type>
+<type>JF524</type>
+<type>VL1JC35</type>
+<type>VL1JC37</type>
+<type>VL1JC69</type>
+<type>Z241JF37</type>
+</modele>
+<modele nom="CAVALIER CONVERTIBLE">
+<type>E67</type>
+<type>JC344</type>
+<type>JF11W</type>
+<type>JF31W</type>
+<type>JF34T</type>
+</modele>
+<modele nom="CELEBRITY">
+<type>1AN19X4F</type>
+<type>1AW19XUF</type>
+<type>1AW35AD4</type>
+<type>1AW35B5E</type>
+<type>AW51</type>
+<type>AW51W</type>
+</modele>
+<modele nom="CORSA III HB 1.6">
+<type>SF61X</type>
+</modele>
+<modele nom="CORSICA">
+<type>1LT68</type>
+<type>1LT69</type>
+<type>1LT8</type>
+<type>1LZ69</type>
+<type>ILT69</type>
+<type>ILT8</type>
+<type>LT69</type>
+</modele>
+<modele nom="CORVETTE 6.2 CABRIOLET">
+<type>YY26W</type>
+<type>YY36W</type>
+</modele>
+<modele nom="CORVETTE CONVERTIBLE 6.0">
+<type>1YY67</type>
+<type>E67</type>
+<type>JC344</type>
+<type>JF34</type>
+<type>YY3</type>
+<type>YY36U</type>
+</modele>
+<modele nom="CORVETTE COUPE 5.7">
+<type>YY22G</type>
+<type>YY26W</type>
+</modele>
+<modele nom="CORVETTE COUPE 6.0 À 7.0">
+<type>YA2DW</type>
+<type>YY24U</type>
+</modele>
+<modele nom="CORVETTE GRAND SPORT COUPE 6.2">
+<type>YP2DW</type>
+</modele>
+<modele nom="CORVETTE STRINGRAY 6.2 COUPE/ Z51 COUPE">
+<type>YB2D7</type>
+<type>YC2D7</type>
+<type>YH2D7</type>
+</modele>
+<modele nom="CORVETTE ZR1 COUPE">
+<type>*</type>
+</modele>
+<modele nom="CORVETTE ZR1 COUPE CABRIOLET (TYPE YR.YM)">
+<type>YR25R,YR26R,YM2DT</type>
+</modele>
+<modele nom="CORVETTE/COUPE/HATCHBACK">
+<type>1YY07</type>
+</modele>
+<modele nom="CRUZE 1.4">
+<type>PC5SB</type>
+<type>PF5S9</type>
+<type>PH5SC</type>
+<type>PK5SC</type>
+<type>PL5SC</type>
+</modele>
+<modele nom="CRUZE 1.6">
+<type>JF69E9</type>
+</modele>
+<modele nom="CRUZE 1.8">
+<type>PA5SH9</type>
+</modele>
+<modele nom="CRUZE 2.0 D (TYPE P75SZ )">
+<type>P75SZ</type>
+</modele>
+<modele nom="CRUZE 2.0 D / VCDI">
+<type>JF69R</type>
+</modele>
+<modele nom="EPICA 2.0 VCDI">
+<type>LF69RJ</type>
+</modele>
+<modele nom="EQUINOX 2.4 LS/LT">
+<type>LBEK</type>
+<type>LDEK</type>
+</modele>
+<modele nom="EQUINOX 2.4 LTZ">
+<type>LFEK</type>
+</modele>
+<modele nom="EXPLORER CHEVY VAN 4X4">
+<type>EG25K</type>
+</modele>
+<modele nom="G20 STARCRAFT 6.5 TD">
+<type>G25P</type>
+</modele>
+<modele nom="GEO STORM 4X4/TRACKER 4X4">
+<type>BE18U</type>
+<type>E18U</type>
+<type>J184</type>
+<type>J18U</type>
+<type>Y18U</type>
+</modele>
+<modele nom="GEO STORM COUPE 1.6/1.8">
+<type>RF236</type>
+<type>RF436</type>
+</modele>
+<modele nom="HHR 2.2/2.4/LS/LT">
+<type>A13D</type>
+<type>A15D</type>
+<type>A23D</type>
+<type>A25D</type>
+<type>ABFW</type>
+<type>AEFW</type>
+</modele>
+<modele nom="KALOS 1.2">
+<type>*</type>
+</modele>
+<modele nom="KALOS 1.4">
+<type>SF48A1</type>
+</modele>
+<modele nom="LACETTI 1.4">
+<type>NF487</type>
+</modele>
+<modele nom="LACETTI 1.6">
+<type>NF486</type>
+</modele>
+<modele nom="LACITTI 2.0 TDCI">
+<type>KLAN</type>
+</modele>
+<modele nom="LUMINA">
+<type>1UM06</type>
+<type>1W154</type>
+<type>1WL27</type>
+<type>1WL69</type>
+<type>1WN27ZVB</type>
+<type>1WN69ZVB</type>
+</modele>
+<modele nom="MALIBU">
+<type>T27K</type>
+<type>T35K</type>
+<type>T69K</type>
+<type>W27K</type>
+<type>W35A</type>
+<type>W35K</type>
+<type>W69A</type>
+<type>W69K</type>
+</modele>
+<modele nom="MALIBU 2.2 LS">
+<type>ZS55F</type>
+<type>ZS57F</type>
+<type>ZS58F</type>
+</modele>
+<modele nom="MALIBU 2.2 LT">
+<type>ZT55F</type>
+<type>ZT58N</type>
+</modele>
+<modele nom="MALIBU 2.4 LS ">
+<type>ZB5E1</type>
+<type>ZB5EB</type>
+<type>ZG57B</type>
+<type>ZG58B</type>
+</modele>
+<modele nom="MALIBU 2.4 LT ">
+<type>ZC5E1</type>
+<type>ZC5EB</type>
+<type>ZH57B</type>
+<type>ZH58B</type>
+</modele>
+<modele nom="MALIBU 2.4 LTZ ">
+<type>ZE5E1</type>
+<type>ZE5E7</type>
+<type>ZK57B</type>
+</modele>
+<modele nom="MALIBU 2.5">
+<type>1B5RA</type>
+<type>1B5SA</type>
+<type>1C5RA</type>
+<type>1D5RR</type>
+<type>1H5RA</type>
+</modele>
+<modele nom="MALIBU 3.1 (TYPE ND, NE)">
+<type>LNX56</type>
+<type>ND52J</type>
+<type>ND52M</type>
+<type>NE52J</type>
+<type>NE52M</type>
+</modele>
+<modele nom="MALIBU 3.5/3.6/3.9 LS">
+<type>ZS658</type>
+<type>ZS68N</type>
+<type>ZT528</type>
+<type>ZT628</type>
+</modele>
+<modele nom="MALIBU 3.5/3.6/3.9 LT">
+<type>ZT58N</type>
+<type>ZT658</type>
+<type>ZT68N</type>
+</modele>
+<modele nom="MALIBU 3.5/3.6/3.9 LTZ/SS">
+<type>ZU578</type>
+<type>ZU57N</type>
+<type>ZU678</type>
+<type>ZU67N</type>
+<type>ZW571</type>
+<type>ZW671</type>
+</modele>
+<modele nom="MATIZ 0.8">
+<type>KF484J</type>
+</modele>
+<modele nom="MATIZ 1.0">
+<type>KF480J</type>
+</modele>
+<modele nom="METRO 1.0/1.3">
+<type>MR226</type>
+<type>MR229</type>
+<type>MR529</type>
+</modele>
+<modele nom="MONTE CARLO 3.4 À 3.9/SS/LS/LT/LTZ/COUPE">
+<type>WJ15K</type>
+<type>WK15K</type>
+<type>WN151</type>
+<type>WW12E</type>
+<type>WX12K</type>
+<type>WX15K</type>
+</modele>
+<modele nom="MONTE CARLO SS SUPERCHARGED 3.8/COUPE">
+<type>WZ121</type>
+</modele>
+<modele nom="MONZA">
+<type>1M27C</type>
+</modele>
+<modele nom="NOVA">
+<type>SK514</type>
+<type>SK515</type>
+<type>SK614</type>
+</modele>
+<modele nom="NUBIRA 1.6 BREAK">
+<type>NF356J</type>
+</modele>
+<modele nom="NUBIRA 2.0 TDCI/SW">
+<type>NF19UJ</type>
+</modele>
+<modele nom="OPTRA 1.6">
+<type>JJ626</type>
+</modele>
+<modele nom="OPTRA 2.0">
+<type>JJ586</type>
+</modele>
+<modele nom="ORLANDO 1.8">
+<type>YA7559</type>
+</modele>
+<modele nom="ORLANDO 2.0 VCDI">
+<type>YA75</type>
+<type>YF75</type>
+</modele>
+<modele nom="PRIZM 1.6/1.8">
+<type>SK516</type>
+<type>SK526</type>
+<type>SK536</type>
+<type>SK546</type>
+<type>SK616</type>
+<type>SL515</type>
+<type>SL615</type>
+</modele>
+<modele nom="SPARK 0.8">
+<type>CJ6AD2</type>
+<type>MD614</type>
+</modele>
+<modele nom="SPARK 1.0/SPARK +/LT">
+<type>*</type>
+<type>MF481</type>
+</modele>
+<modele nom="SPECTRUM /IMPALA">
+<type>164390</type>
+<type>JTL69</type>
+</modele>
+<modele nom="SPORTVAN">
+<type>G15H</type>
+<type>G25</type>
+<type>G25H</type>
+<type>G35J</type>
+<type>G35K</type>
+</modele>
+<modele nom="SPRINT 1.3">
+<type>1FP33</type>
+<type>1FP67</type>
+<type>1FP67Z28</type>
+<type>MR68</type>
+</modele>
+<modele nom="SSR 6.0">
+<type>*</type>
+</modele>
+<modele nom="SUBURBAN">
+<type>C16K</type>
+<type>C26K</type>
+<type>FK16</type>
+<type>K16Z</type>
+<type>K20</type>
+<type>K26</type>
+<type>R16K</type>
+<type>R26K</type>
+</modele>
+<modele nom="SUBURBAN 5.3 LTZ/ K1500">
+<type>SKJE37</type>
+</modele>
+<modele nom="SUBURBAN 5.3/ K1500">
+<type>SKJE37</type>
+</modele>
+<modele nom="SUBURBAN 6.0/K2500/ LS/LT">
+<type>K5EG</type>
+<type>K8EG</type>
+<type>KLEG</type>
+<type>KMEG</type>
+</modele>
+<modele nom="TACUMA 1.6">
+<type>UF756J</type>
+</modele>
+<modele nom="TACUMA 2.0">
+<type>*</type>
+</modele>
+<modele nom="TAHOE 5.3 /LS/LT">
+<type>CAE0</type>
+<type>K4E0</type>
+<type>K6KC</type>
+<type>KBE0</type>
+<type>KCKC</type>
+<type>SCBE</type>
+</modele>
+<modele nom="TAHOE 5.3 LS/LT (FC13)">
+<type>FC13</type>
+</modele>
+<modele nom="TAHOE 5.3 LTZ">
+<type>K6KC</type>
+<type>KCE0</type>
+<type>KCKC</type>
+<type>SCBE</type>
+</modele>
+<modele nom="TAHOE 5.3 LTZ (TYPE FC13)">
+<type>FC13</type>
+</modele>
+<modele nom="TAHOE V8">
+<type>EK13R</type>
+<type>K13C</type>
+<type>K13R</type>
+<type>K13V</type>
+</modele>
+<modele nom="TRAILBLAZER">
+<type>DT13S</type>
+<type>DT13SO</type>
+<type>S13S</type>
+<type>S16S</type>
+<type>S16T</type>
+</modele>
+<modele nom="TRANS SPORT 2.3">
+<type>FS2</type>
+<type>MC</type>
+<type>MCU60D91</type>
+</modele>
+<modele nom="TRANS SPORT 3.4">
+<type>*</type>
+</modele>
+<modele nom="TRAX 1.7 VCDI">
+<type>BA76L9</type>
+<type>BF76L9</type>
+</modele>
+<modele nom="VENTURE">
+<type>U03E</type>
+<type>U50E</type>
+<type>X03E</type>
+</modele>
+</marque>
+<marque nom="CHRYSLER">
+<modele nom="300 2.7/LX/TOURING">
+<type>A43R</type>
+<type>A53G</type>
+</modele>
+<modele nom="300 3.5/TOURING/LIMITED">
+<type>A3CV</type>
+<type>A53G</type>
+<type>A5CV</type>
+</modele>
+<modele nom="300 C 2.7">
+<type>AAB3</type>
+</modele>
+<modele nom="300 C 3.0 CRD SRT DESIGN/ BREAK">
+<type>8E3D</type>
+<type>CNXBM</type>
+<type>G6E7M7</type>
+<type>LXAE3D</type>
+</modele>
+<modele nom="300 C 3.0 CRDI/BREAK">
+<type>CNXBM</type>
+<type>G6E7M7</type>
+<type>LXAE3DH1</type>
+</modele>
+<modele nom="300 C 3.5/ TOURING">
+<type>AAB3</type>
+</modele>
+<modele nom="300 C 5.7 HEMI ESSENCE">
+<type>3AA63</type>
+</modele>
+<modele nom="300M 2.7">
+<type>HEB6UX</type>
+</modele>
+<modele nom="300M 3.5">
+<type>E66G</type>
+<type>E76K</type>
+</modele>
+<modele nom="CIRRUS 2.5">
+<type>J56H</type>
+</modele>
+<modele nom="CONCORDE 2.5 À 3.5 LX/LXI">
+<type>D36J</type>
+<type>D36M</type>
+<type>D46R</type>
+<type>D56G</type>
+</modele>
+<modele nom="CONCORDE 3.3">
+<type>L56T</type>
+</modele>
+<modele nom="CROSSFIRE COUPE 3.2">
+<type>*</type>
+</modele>
+<modele nom="DYNASTY">
+<type>N46</type>
+</modele>
+<modele nom="ES">
+<type>8E3D</type>
+<type>CNXBM</type>
+<type>G6E7M7</type>
+<type>LXAE3D</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.5 CRD SE/CRD LIMITED">
+<type>YN17</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.5 CRD SE/CRD LX">
+<type>YN17</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.5 SE ESS">
+<type>ASKH52</type>
+<type>CK5</type>
+<type>CK5K</type>
+<type>CK5KM5</type>
+<type>FK45K</type>
+<type>HN5K</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.5 TD LE">
+<type>180</type>
+<type>GHN4</type>
+<type>GHN5M</type>
+<type>GYN2M</type>
+<type>GYN4</type>
+<type>GYN4M</type>
+<type>HN5M</type>
+<type>J55</type>
+<type>YN2M</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.5 TD SE/XE/XSE">
+<type>180</type>
+<type>GHN4</type>
+<type>GHN5M</type>
+<type>GYN2M</type>
+<type>GYN4</type>
+<type>GYN4M</type>
+<type>HN5M</type>
+<type>J55</type>
+<type>YN2M</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.8 CRD LIMITED ">
+<type>GYB15</type>
+<type>GYB254</type>
+<type>HSH49</type>
+<type>RGYB2504</type>
+<type>RS4051</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.8 CRD LIMITED (TYPE YB45)">
+<type>YB45</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.8 CRD SE/LX (TYPE YB45)">
+<type>YB45</type>
+</modele>
+<modele nom="GRAND VOYAGER 2.8 CRD SE/LX/TOURING ">
+<type>GYB15</type>
+<type>GYB254</type>
+<type>HSH49</type>
+<type>RGYB2504</type>
+<type>RS4051</type>
+</modele>
+<modele nom="GRAND VOYAGER 3.0 … 3.3 LE ESSENCE">
+<type>ASKP52</type>
+<type>CK1KU</type>
+<type>CK53</type>
+<type>CK53A4</type>
+<type>FK45K</type>
+<type>GY54</type>
+<type>HB5R</type>
+</modele>
+<modele nom="GRAND VOYAGER 3.3/LX/V6/LIMITED">
+<type>GYB4R</type>
+</modele>
+<modele nom="GRAND VOYAGER 3.8">
+<type>MC3000AEE123</type>
+</modele>
+<modele nom="IMPERIAL">
+<type>V56L</type>
+<type>Y56L</type>
+</modele>
+<modele nom="INTREPID 2.7/3.2">
+<type>D46R</type>
+<type>D56J</type>
+<type>H56U</type>
+</modele>
+<modele nom="LEBARON CABRIOLET">
+<type>ACJH27</type>
+<type>ACJP27</type>
+<type>CJ53</type>
+<type>CJ53A</type>
+<type>CJ5AM</type>
+<type>CP4JM</type>
+<type>J45</type>
+<type>J55</type>
+<type>XJ45</type>
+</modele>
+<modele nom="LEBARON COUPE">
+<type>ACJH27</type>
+<type>AJCH21</type>
+<type>AJCP21</type>
+<type>CJ13A</type>
+<type>CJ1A</type>
+<type>CJ1J</type>
+<type>CJ1JA</type>
+<type>CJ1JM</type>
+<type>CJ53</type>
+<type>CJ53A</type>
+<type>J51</type>
+<type>UB13</type>
+</modele>
+<modele nom="LEBARON/SEDAN">
+<type>A36K</type>
+<type>CX8K</type>
+</modele>
+<modele nom="LHS">
+<type>C56F</type>
+<type>D56F</type>
+</modele>
+<modele nom="NEON">
+<type>*</type>
+</modele>
+<modele nom="NEW YORKER">
+<type>C46R</type>
+<type>C66R</type>
+<type>U46</type>
+</modele>
+<modele nom="PACIFICA 3.5/TOURING">
+<type>GF6345</type>
+<type>ML48L</type>
+</modele>
+<modele nom="PACIFICA 4.0 LIMITED">
+<type>M78X</type>
+</modele>
+<modele nom="PACIFICA 4.0/TOURING">
+<type>M48L</type>
+<type>M68X</type>
+</modele>
+<modele nom="PT CRUISER 1.6/1.6 I/1.6 TOURING">
+<type>YN8F</type>
+</modele>
+<modele nom="PT CRUISER 2.0">
+<type>*</type>
+</modele>
+<modele nom="PT CRUISER 2.2 CRD">
+<type>CTRL</type>
+<type>FEN8U</type>
+<type>FYN8U</type>
+</modele>
+<modele nom="PT CRUISER 2.4 GT">
+<type>*</type>
+</modele>
+<modele nom="PT CRUISER 2.4 GT CAB/LIMITED CAB">
+<type>*</type>
+</modele>
+<modele nom="PT CRUISER 2.4/2.4 TOURING">
+<type>Y4BB</type>
+<type>Y58B</type>
+</modele>
+<modele nom="SARATOGA">
+<type>CA63</type>
+<type>CA6J</type>
+</modele>
+<modele nom="SEBRING  3.5 CABRIOLET">
+<type>C65M</type>
+<type>LC65</type>
+</modele>
+<modele nom="SEBRING 2.0 A 2.5/CABRIOLET ">
+<type>C45K</type>
+<type>C46K</type>
+<type>C56B</type>
+<type>C66B</type>
+<type>L45H</type>
+<type>L45X</type>
+<type>L55H</type>
+<type>L55X</type>
+</modele>
+<modele nom="SEBRING 2.0 CRD COUPÈ CABRIOLET /LIMITED ">
+<type> ACC5A</type>
+</modele>
+<modele nom="SEBRING 2.0 CRD/LIMITED">
+<type>CC6A</type>
+<type>JSCSCAA</type>
+</modele>
+<modele nom="SEBRING 2.7 … 3.0 CABRIOLET">
+<type>L55R</type>
+<type>L65R</type>
+<type>L75R</type>
+</modele>
+<modele nom="SEBRING 2.7/3.0/COUPE">
+<type>G52H</type>
+<type>L46R</type>
+<type>L56R</type>
+</modele>
+<modele nom="STRATUS 2.0">
+<type>*</type>
+</modele>
+<modele nom="STRATUS 2.0 CABRIOLET">
+<type>LNSC</type>
+</modele>
+<modele nom="STRATUS 2.5">
+<type>MB6H</type>
+<type>MC3000ACB061</type>
+</modele>
+<modele nom="STRATUS 2.5 CABRIOLET">
+<type>*</type>
+</modele>
+<modele nom="TOWN CONTRY V6 VAN">
+<type>GH54R</type>
+<type>H54L</type>
+<type>H54R</type>
+<type>P54R</type>
+<type>P55R</type>
+<type>P64L</type>
+</modele>
+<modele nom="VIPER  8000CC">
+<type>RC5ERE</type>
+<type>RCER2</type>
+</modele>
+<modele nom="VISION 3.5">
+<type>*</type>
+</modele>
+<modele nom="VOYAGER 2.4 SE">
+<type>GJ25BG</type>
+</modele>
+<modele nom="VOYAGER 2.5 CRD LX">
+<type>YN17</type>
+<type>YN27</type>
+</modele>
+<modele nom="VOYAGER 2.5 CRD/SE">
+<type>YN17</type>
+<type>YN27</type>
+</modele>
+<modele nom="VOYAGER 2.5 SE">
+<type>ASKH52</type>
+<type>CK5</type>
+<type>CK5K</type>
+<type>CK5KM5</type>
+<type>FK45K</type>
+<type>HN5K</type>
+</modele>
+<modele nom="VOYAGER 2.5 TD SE">
+<type>180</type>
+<type>GHN4</type>
+<type>GHN5M</type>
+<type>GYN2M</type>
+<type>GYN4</type>
+<type>GYN4M</type>
+<type>HN5M</type>
+<type>J55</type>
+<type>YN2M</type>
+</modele>
+<modele nom="VOYAGER 2.5TD LE">
+<type>180</type>
+<type>GHN4</type>
+<type>GHN5M</type>
+<type>GYN2M</type>
+<type>GYN4</type>
+<type>GYN4M</type>
+<type>HN5M</type>
+<type>J55</type>
+<type>YN2M</type>
+</modele>
+<modele nom="VOYAGER 2.8 CRD/ SE /LX">
+<type>GYB257</type>
+<type>GYB35</type>
+</modele>
+<modele nom="VOYAGER 3.0 … 3.3 LE">
+<type>ASKP52</type>
+<type>CK1KU</type>
+<type>CK53</type>
+<type>CK53A4</type>
+<type>FK45K</type>
+<type>GY54</type>
+<type>HB5R</type>
+</modele>
+<modele nom="VOYAGER 3.3/LX/V6/LIMITED">
+<type>GYB4R</type>
+</modele>
+</marque>
+<marque nom="CITROEN">
+<modele nom="2CVET3CV/AMI/DIANE/SPECIAL/CHARLESTON">
+<type>AMJA</type>
+<type>AY</type>
+<type>AYCB</type>
+<type>AYCD</type>
+<type>AZ</type>
+<type>AZA2</type>
+<type>AZKA</type>
+<type>AZKB</type>
+</modele>
+<modele nom="AX 1.0 SPOT">
+<type>*</type>
+</modele>
+<modele nom="AX 1.4 GT">
+<type>ZAZD</type>
+<type>ZAZY</type>
+</modele>
+<modele nom="AX 1.4 GTI">
+<type>*</type>
+</modele>
+<modele nom="AX 10">
+<type>ZALH</type>
+<type>ZALJ</type>
+<type>ZAZA</type>
+<type>ZAZH</type>
+</modele>
+<modele nom="AX 11">
+<type>ZADA</type>
+<type>ZADB</type>
+<type>ZAZB</type>
+<type>ZAZJ</type>
+<type>ZAZS</type>
+</modele>
+<modele nom="AX 14">
+<type>ZADD</type>
+<type>ZADH</type>
+<type>ZADM</type>
+<type>ZAZC</type>
+<type>ZAZK</type>
+</modele>
+<modele nom="AX 14 DIESEL">
+<type>ZAZT</type>
+<type>ZAZU</type>
+</modele>
+<modele nom="AX IMAGE">
+<type>ZAZB</type>
+<type>ZAZJ</type>
+</modele>
+<modele nom="AX IMAGE DIESEL">
+<type>ZAZU</type>
+</modele>
+<modele nom="AX K.WAY">
+<type>ZAZA</type>
+<type>ZAZB</type>
+<type>ZAZH</type>
+<type>ZAZJ</type>
+</modele>
+<modele nom="AX SPORT">
+<type>ZAZL</type>
+</modele>
+<modele nom="AX SPOT DIES">
+<type>*</type>
+</modele>
+<modele nom="AX THALASSA">
+<type>ZAZB</type>
+<type>ZAZJ</type>
+</modele>
+<modele nom="AX THALASSA DIESEL">
+<type>ZAZU</type>
+</modele>
+<modele nom="AXEL">
+<type>TAOB</type>
+<type>TATB</type>
+<type>TATF</type>
+<type>TATH</type>
+</modele>
+<modele nom="BERLINGO 1.4">
+<type>GJKFWB</type>
+<type>GJKFWC</type>
+<type>MFKFWB</type>
+<type>MFKFXF</type>
+<type>MFKXA</type>
+</modele>
+<modele nom="BERLINGO 1.6">
+<type>MFNFUA</type>
+<type>MFNFUB</type>
+</modele>
+<modele nom="BERLINGO 1.6 (TYPE GJ)">
+<type>GJNFUC</type>
+</modele>
+<modele nom="BERLINGO 1.6 HDI (TYPE GJ)">
+<type>GJ9HWC</type>
+<type>GJ9HXC</type>
+<type>GJNFUC</type>
+</modele>
+<modele nom="BERLINGO 1.6 HDI / MULTISPACE">
+<type>7J9HEC</type>
+<type>7J9HLO</type>
+<type>7J9HN0</type>
+<type>7J9HP0</type>
+<type>7J9HP8</type>
+<type>7J9HTC</type>
+<type>7J9HVC</type>
+<type>7j9hxc</type>
+<type>7J9HZC</type>
+<type>7M9HXC</type>
+<type>7N9HP0</type>
+<type>7N9HTC</type>
+<type>7N9HXC</type>
+<type>7S9HL0</type>
+<type>7S9HXC</type>
+<type>7S9HZC</type>
+</modele>
+<modele nom="BERLINGO 1.8">
+<type>MFLFXF</type>
+</modele>
+<modele nom="BERLINGO 1.8 D/1.9 D">
+<type>MBA9AE</type>
+<type>MBWJZF</type>
+<type>MFD8YF</type>
+<type>MFDJYF</type>
+<type>MFWJYB</type>
+<type>MFWJZF</type>
+</modele>
+<modele nom="BERLINGO 1.9 D (TYPES GJ/GC)">
+<type>GCWJYB</type>
+<type>GJWJXB</type>
+<type>GJWJYB</type>
+</modele>
+<modele nom="BERLINGO 2.0 D/HDI">
+<type>MFRHYB</type>
+<type>MFRHYF</type>
+<type>MFWHZA</type>
+<type>MFWHZF</type>
+</modele>
+<modele nom="BERLINGO 2.0 HDI ">
+<type>GBRHYB</type>
+<type>GJRHYB</type>
+<type>GJRHYK</type>
+</modele>
+<modele nom="BX">
+<type>XBER</type>
+<type>XBXA</type>
+</modele>
+<modele nom="BX 11/14">
+<type>XBER</type>
+<type>XBERB</type>
+<type>XBES</type>
+<type>XBFH</type>
+<type>XBXD</type>
+<type>XBXR</type>
+<type>XBXY</type>
+</modele>
+<modele nom="BX 15">
+<type>XBEE</type>
+<type>XBHP</type>
+</modele>
+<modele nom="BX 16">
+<type>XBXB</type>
+<type>XBXBC</type>
+<type>XBXE</type>
+</modele>
+<modele nom="BX 19">
+<type>XBEH</type>
+<type>XBFS</type>
+<type>XBFT</type>
+<type>XBFZ</type>
+<type>XBHK</type>
+<type>XBHL</type>
+<type>XBXG</type>
+<type>XBXH</type>
+</modele>
+<modele nom="BX 19 DIESEL">
+<type>XBXC</type>
+<type>XBXCAA</type>
+<type>XBXE</type>
+<type>XBXF</type>
+<type>XBXFB</type>
+<type>XBXU</type>
+</modele>
+<modele nom="BX 19 GTI">
+<type>XBEG</type>
+<type>XBFY</type>
+</modele>
+<modele nom="BX 4X4 DIESEL 1905 CC">
+<type>XBHE</type>
+</modele>
+<modele nom="BX 4X4 ESS 1905 CC/GTI">
+<type>XBFF</type>
+<type>XBFR</type>
+<type>XBHA</type>
+<type>XBHN</type>
+</modele>
+<modele nom="BX CALANQUE TD 1769 CC">
+<type>XBXP</type>
+</modele>
+<modele nom="BX CALANQUE TE 1360 CC">
+<type>XBER</type>
+</modele>
+<modele nom="BX DIES 1769CC /DIES TBO">
+<type>XBEK</type>
+<type>XBEL</type>
+<type>XBXP</type>
+</modele>
+<modele nom="BX GTI 16 S 1905 CC">
+<type>XBEJ</type>
+</modele>
+<modele nom="C-CROSSER 2.2 HDI">
+<type>VV4HNH</type>
+</modele>
+<modele nom="C-CROSSER 2.2 HDI EXCLUSIVE">
+<type>VV4HNH</type>
+</modele>
+<modele nom="C1 1.0">
+<type>PMCFB4</type>
+<type>PNCFAC</type>
+</modele>
+<modele nom="C1 1.4 HDI">
+<type>PM8HTC</type>
+<type>PN8HTC</type>
+</modele>
+<modele nom="C15 D/C17 D FOURG VITRE 5PL">
+<type>VDBP</type>
+<type>VDFB</type>
+<type>VDPB</type>
+<type>VDPG</type>
+<type>VDPP</type>
+<type>VDSX</type>
+<type>VDVTE</type>
+</modele>
+<modele nom="C15 E VITRE 5PL">
+<type>BDPJ</type>
+<type>VDPA</type>
+<type>VDPF</type>
+<type>VDPJ</type>
+<type>VDPK</type>
+<type>VDPS</type>
+<type>VDPV</type>
+<type>VDPW</type>
+<type>VDPX</type>
+<type>VDPY</type>
+<type>VDSD</type>
+<type>VDSF</type>
+<type>VSSF</type>
+</modele>
+<modele nom="C2 1.1">
+<type>JMHFXC</type>
+</modele>
+<modele nom="C2 1.4 (TYPE : JMKFVC)">
+<type>JMKFVC</type>
+</modele>
+<modele nom="C2 1.4 HDI">
+<type>*</type>
+</modele>
+<modele nom="C2 1.4 HDI (TYPE JM)">
+<type>JM8HZC</type>
+</modele>
+<modele nom="C2 1.4 I">
+<type>*</type>
+</modele>
+<modele nom="C2 1.6 16V VTR/VTS">
+<type>JMNFSC</type>
+</modele>
+<modele nom="C2 1.6I 16V">
+<type>*</type>
+</modele>
+<modele nom="C25 D/TD FOURG VITRE 9PL">
+<type>280A50</type>
+<type>280B50</type>
+<type>280B90</type>
+<type>280C50</type>
+<type>280C50A</type>
+<type>280C50B</type>
+<type>280C90</type>
+<type>280G50</type>
+<type>280G90</type>
+<type>290B52</type>
+<type>290B92</type>
+<type>290C52</type>
+<type>290C54</type>
+<type>290C92</type>
+</modele>
+<modele nom="C25 FOURG VITRE 9PL(TYPES 280 ET 290)">
+<type>280A10</type>
+<type>280B20</type>
+<type>280C20</type>
+<type>280G20</type>
+<type>290A11</type>
+<type>290A22</type>
+<type>290C22</type>
+</modele>
+<modele nom="C3 1.0">
+<type>SCZMZ0</type>
+</modele>
+<modele nom="C3 1.1">
+<type>*</type>
+</modele>
+<modele nom="C3 1.1 (TYPE FC/SC)">
+<type>FCHFXC</type>
+<type>FCKFVC</type>
+<type>SCHFVO</type>
+</modele>
+<modele nom="C3 1.2 VTI">
+<type>SCHMZ0</type>
+<type>SCHMZ6</type>
+</modele>
+<modele nom="C3 1.4 CABRIOLET  ">
+<type>HBKFVB</type>
+</modele>
+<modele nom="C3 1.4 HDI">
+<type>*</type>
+</modele>
+<modele nom="C3 1.4 HDI (TYPE FC/FL)">
+<type>FC8H</type>
+<type>FC8HZB</type>
+<type>FC8HZC</type>
+<type>FL8HYB</type>
+</modele>
+<modele nom="C3 1.4 HDI (TYPE SR/SC)">
+<type>SC8HR0</type>
+<type>SC8HR4</type>
+<type>SC8HZ</type>
+<type>SR8HR4</type>
+</modele>
+<modele nom="C3 1.4/GNV">
+<type>FCKFUB</type>
+<type>FCKFVB</type>
+<type>FCKFVC</type>
+<type>SC8FPO</type>
+<type>SCKFT0</type>
+</modele>
+<modele nom="C3 1.4I">
+</marque>
+<marque nom="CORVETTE">
+</marques>

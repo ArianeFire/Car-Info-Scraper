@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<pieces>
+<categorie nom="Alimentation carburant">
+<piece>Capteur de niveau de carburant</piece>
+<piece>Pompe d'alimentation</piece>
+<piece>Réservoir à carburant</piece>
+</categorie>
+<categorie nom="Allumage">
+<piece>Bobine d'allumage</piece>
+<piece>Bougie d'allumage</piece>
+<piece>Câble d'allumage</piece>
+<piece>Capteur d’impulsion</piece>
+<piece>Distributeur d'allumage</piece>
+<piece>Kit de câbles haute tension</piece>
+<piece>Module d'allumage</piece>
+<piece>Rotor du distibuteur d’allumage</piece>
+</categorie>
+<categorie nom="Axe de suspension">
+<piece>Arbre de cardan</piece>
+<piece>Arbre de transmission</piece>
+<piece>Barre de direction</piece>
+<piece>Barre de suspension</piece>
+<piece>Disque de cadran/disque Hardi</piece>
+<piece>Fusée d'essieu</piece>
+<piece>Moyeu de roue</piece>
+<piece>Roulement de roue</piece>
+<piece>Stabilisateur</piece>
+<piece>Support du balancier</piece>
+<piece>Triangle de suspension</piece>
+<piece>Volant d'inertie</piece>
+</categorie>
+<categorie nom="Carrosserie">
+<piece>Aile</piece>
+<piece>Bandes décoratives/de protection</piece>
+<piece>Capot de moteur</piece>
+<piece>Clignotant</piece>
+<piece>Hayon</piece>
+<piece>Panneau latéral</piece>
+<piece>Pare-chocs</piece>
+<piece>Passage de roue</piece>
+<piece>Poignée de porte</piece>
+<piece>Poutre de pare-chocs</piece>
+<piece>Rétroviseur extérieur</piece>
+<piece>Spoiler</piece>
+<piece>Tuyau de refroidissement</piece>
+</categorie>
+<categorie nom="Climatisation">
+<piece>Compresseur de climatisation</piece>
+<piece>Condenseur</piece>
+<piece>Dessicateur</piece>
+<piece>Soupape de détente</piece>
+<piece>Tuyau de climatiseur</piece>
+<piece>Vaporisateur</piece>
+</categorie>
+<categorie nom="Commande à courroie">
+<piece>Bras tendeur</piece>
+<piece>Cache de la courroie</piece>
+<piece>Courroie crantée</piece>
+<piece>Courroie trapèzoïdale</piece>
+<piece>Courroie trapézoïdale à nervures</piece>
+<piece>Galet  tendeur de distribution</piece>
+<piece>Kit de distribution</piece>
+<piece>Poulie</piece>
+<piece>Poulie de guidage/ de renvoi</piece>
+<piece>Tendeur de courroie</piece>
+</categorie>
+<categorie nom="Direction de l’automobile">
+<piece>Direction de l’automobile</piece>
+<piece>Embout de la barre de direction</piece>
+<piece>Pompe de direction assistée</piece>
+<piece>Rotule axiale</piece>
+<piece>Rotule de suspension indépendante</piece>
+<piece>Soufflet</piece>
+</categorie>
+<categorie nom="Echappement">
+<piece>Capteur d'oxygène</piece>
+<piece>Catalyseur</piece>
+<piece>Collecteur</piece>
+<piece>Silencieux arrière</piece>
+<piece>Silencieux central</piece>
+<piece>Turbocompresseur</piece>
+</categorie>
+<categorie nom="Embrayage">
+<piece>Butée d'embrayage</piece>
+<piece>Câble d'embrayage</piece>
+<piece>Cylindre émetteur</piece>
+<piece>Disque d'embrayage</piece>
+<piece>Plateau d’embrayage</piece>
+<piece>Récepteur d'embrayage</piece>
+</categorie>
+<categorie nom="Equipement intérieur">
+<piece>Coffre</piece>
+<piece>Lève-vitre</piece>
+<piece>Verrouillage central</piece>
+</categorie>
+<categorie nom="Filtre">
+<piece>Filtre à air</piece>
+<piece>Filtre à carburant</piece>
+<piece>Filtre à huile</piece>
+<piece>Filtre habitacle</piece>
+<piece>Filtre hydraulique</piece>
+</categorie>
+<categorie nom="Freins">
+<piece>Câble frein de stationnement</piece>
+<piece>Capteur  ABS (capteur ESP)</piece>
+<piece>Cylindre de frein</piece>
+<piece>Disques de frein</piece>
+<piece>Etrier de frein</piece>
+<piece>Mâchoires  de frein</piece>
+<piece>Maître-cylindre</piece>
+<piece>Plaquettes de frein</piece>
+<piece>Régulateur de force de freinage</piece>
+<piece>Servofrein</piece>
+<piece>Tambour de frein</piece>
+<piece>Tuyau de frein</piece>
+</categorie>
+<categorie nom="Moteur">
+<piece>Arbre à cames</piece>
+<piece>Capteur des papillons de gaz</piece>
+<piece>Carter d'huile</piece>
+<piece>Carter de vilebrequin</piece>
+<piece>Chapeau de soupape</piece>
+<piece>Jauge d'huile</piece>
+<piece>Joints</piece>
+<piece>Papillon des gaz</piece>
+<piece>Pompe à huile</piece>
+<piece>Poussoir /tige/ tuyau de protection</piece>
+<piece>Roue dentée</piece>
+<piece>Soupape d'admission</piece>
+<piece>Soupape d'échappement</piece>
+<piece>Valve d'injection</piece>
+<piece>Vis de culasse</piece>
+</categorie>
+<categorie nom="Nettoyage des vitres">
+<piece>Balai d'essuie-glace</piece>
+<piece>Biellette du moteur d'essuie-glace</piece>
+<piece>Bras d'essuie-glace</piece>
+<piece>Essuie-glace</piece>
+<piece>Jet de pompe à lavage</piece>
+<piece>Lames d'essuie-glace</piece>
+<piece>Moteur d´essuie-glace</piece>
+<piece>Pompe-à-eau / essuie-glaces</piece>
+</categorie>
+<categorie nom="Refroidissement">
+<piece>Bride</piece>
+<piece>Echangeur de chaleur (Chauffage par radiateur)</piece>
+<piece>Pompe à eau</piece>
+<piece>Radiateur d'huile</piece>
+<piece>Radiateur de refroidissement</piece>
+<piece>Thermostat</piece>
+<piece>Tuyau</piece>
+<piece>Vase d'expansion</piece>
+<piece>Ventilateur</piece>
+<piece>Ventilateur intérieur</piece>
+</categorie>
+<categorie nom="Suspension">
+<piece>Amortisseur</piece>
+<piece>Jambe de suspension</piece>
+<piece>Jeu de protection contre la poussière</piece>
+<piece>Ressort d’amortisseur</piece>
+<piece>Support d'amortisseur</piece>
+<piece>Support-palier d'amortisseur</piece>
+</categorie>
+<categorie nom="Système électrique">
+<piece>Capteur de température d'huile</piece>
+<piece>Capteur de température du liquide de refroidissement</piece>
+<piece>Claxon</piece>
+<piece>Démarreur</piece>
+<piece>Feu arrière</piece>
+<piece>Feu clignotant</piece>
+<piece>Feu clignotant latéral</piece>
+<piece>Feux antibrouillard</piece>
+<piece>Feux de position</piece>
+<piece>Générateur</piece>
+<piece>Projecteur principal</piece>
+<piece>Radar de stationnement</piece>
+<piece>Relais-interrupteur de clignotant</piece>
+<piece>Unité de commande</piece>
+</categorie>
+<categorie nom="Tuyaux">
+<piece>Tuyau de depression</piece>
+<piece>Tuyaux de liquide de refroidissement</piece>
+</categorie>
+</pieces>

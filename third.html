@@ -1,0 +1,360 @@
+
+
+
+
+
+
+
+
+	<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN' 'http://www.w3.org/TR/html4/loose.dtd'>
+
+	<html>
+	<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="type" />
+<!--meta http-equiv="X-UA-Compatible" content="IE=7" /-->
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+<link rel="stylesheet" type="text/css" href="styles/styles.css"  media="all"/>
+<link type="text/css" href="styles/combobox.css" rel="stylesheet" media="all" />
+<link href="styles/jNice.css" rel="stylesheet" type="text/css" />
+<link type="text/css" href="styles/prettyPhoto.css" rel="stylesheet" media="all" />
+
+<title>ADMINISTRATION DES DOUANES ET IMPÔTS INDIRECTS</title>
+
+<script language="JavaScript" type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/jquery.jNice.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/png.js" ></script>
+<script language="JavaScript" type="text/javascript" src="js/jquery.prettyPhoto.js" ></script>
+
+<link type="text/css" href="css2/jquery-ui-1.8.21.custom.css" rel="stylesheet" />
+<script language="JavaScript" type="text/javascript" src="js2/jquery.ui.core.js"></script>
+<script language="JavaScript" type="text/javascript" src="js2/jquery.ui.datepicker.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+	$(document).ready(function(){
+		$(".gallery a[rel^='prettyPhoto']").prettyPhoto({theme:'facebook'});
+	});
+</script>
+
+
+<script type="text/JavaScript" language="JavaScript">
+	function assistanceDate(zoneSaisie)
+	{
+		var date = document.getElementById(zoneSaisie).value;
+		if(date.length == 2 || date.length == 5) {
+			   document.getElementById(zoneSaisie).value = date+"/";
+		}
+	};
+
+
+	function warning() {
+
+		if(document.getElementById('mcvFrmInfoAuto:typeb:0').checked == true) {
+
+			window.showModalDialog('warning.html','',"dialogWidth:600px;dialogHeight:150px; edge: Raised;help: No; resizable: No; status: No;");
+			}
+	};
+
+</script >
+
+
+
+<script>
+$(function() {
+		$( "#mcvFrmInfoAuto\\:datepicker1" ).datepicker({
+			changeMonth: true,
+			changeYear: true,
+			yearRange: "-100:+0",
+			showOn: "button",
+			buttonImage: "images/calender_vert.gif",
+			buttonImageOnly: true
+		});
+	});
+jQuery(function($){
+    $.datepicker.regional['fr'] = {
+            closeText: 'Fermer',
+            prevText: '&#x3c;Pr&eacute;c',
+            nextText: 'Suiv&#x3e;',
+            currentText: 'Courant',
+            monthNames: ['Janvier','F&eacute;vrier','Mars','Avril','Mai','Juin',
+            'Juillet','Ao&ucirc;t','Septembre','Octobre','Novembre','D&eacute;cembre'],
+            monthNamesShort: ['Janvier','F&eacute;vrier','Mars','Avril','Mai','Juin',
+                              'Juillet','Ao&ucirc;t','Septembre','Octobre','Novembre','D&eacute;cembre'],
+            dayNames: ['Dimanche','Lundi','Mardi','Mercredi','Jeudi','Vendredi','Samedi'],
+            dayNamesShort: ['Dim','Lun','Mar','Mer','Jeu','Ven','Sam'],
+            dayNamesMin: ['Di','Lu','Ma','Me','Je','Ve','Sa'],
+            weekHeader: 'Sm',
+            dateFormat: 'dd/mm/yy',
+            firstDay: 1,
+            isRTL: false,
+            showMonthAfterYear: false,
+            yearSuffix: ''};
+    $.datepicker.setDefaults($.datepicker.regional['fr']);
+});
+
+$(document).ready(function(){
+	$('img.ui-datepicker-trigger').css({'cursor' : 'pointer', "vertical-align" : 'middle', "margin-right" : '-22.5px'});
+});
+</script>
+
+<style>
+/* This is the style for the trigger icon. The margin-bottom value causes the icon to shift down to center it. */
+.ui-datepicker-trigger {
+                               margin-right:-22.5px;
+                               margin-bottom: -5.5px;
+                       }
+</style>
+
+</head>
+<body>
+
+
+
+<form id="mcvFrmInfoAuto" name="mcvFrmInfoAuto" method="post" action="/mcv/informationAutomobile.jsf" class="jNice Vert" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="mcvFrmInfoAuto" value="mcvFrmInfoAuto" />
+
+<div id="global">
+
+  <div id="content">
+	<div class="Chemin vert">
+		<a id="mcvFrmInfoAuto:_ol_id_1" name="mcvFrmInfoAuto:_ol_id_1" href="/" target="_top"><span id="mcvFrmInfoAuto:_ot_id_1">Accueil</span></a><span id="mcvFrmInfoAuto:idservice"> | Services en ligne</span><span id="mcvFrmInfoAuto:idLinkDed"> | D&eacute;douanement d'un v&eacute;hicule (MCV)</span>
+		
+		
+	</div>
+
+    <div id="LeftMenu">
+        <ul class="accordion vert" >
+        	<li>
+		    	
+<script type="text/javascript" src="/mcv/com_sun_faces_sunjsf.js.jsf"></script>
+<a id="mcvFrmInfoAuto:idPresentation" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('mcvFrmInfoAuto'),{'mcvFrmInfoAuto:idPresentation':'mcvFrmInfoAuto:idPresentation'},'');}return false">Pr&eacute;sentation
+		     		<span class="TL"></span><span class="TR"></span><span class="BL"></span><span class="BR"></span>
+		  		</a>
+		    </li>
+   	        <li>
+		    	<a href="/mcv/calculDroitTaxe.jsf" title="" rel="titre" class="active"><span class="TL"></span><span class="TR"></span><span class="BL"></span><span class="BR"></span>Calcul des droits et taxes</a>
+		    </li>
+          	<li>
+          		<a id="mcvFrmInfoAuto:idModalit&eacute;s" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('mcvFrmInfoAuto'),{'mcvFrmInfoAuto:idModalit&eacute;s':'mcvFrmInfoAuto:idModalit&eacute;s'},'');}return false">Modalit&eacute;s de d&eacute;douanement
+        			<span class="TL"></span><span class="TR"></span><span class="BL"></span><span class="BR"></span>
+        		</a>
+        	</li>
+          	<li>
+          	    <a id="mcvFrmInfoAuto:idFormulaire" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('mcvFrmInfoAuto'),{'mcvFrmInfoAuto:idFormulaire':'mcvFrmInfoAuto:idFormulaire'},'');}return false">Formulaires
+        			<span class="TL"></span><span class="TR"></span><span class="BL"></span><span class="BR"></span>
+        		</a>
+        	</li>
+            <li>
+                <a id="mcvFrmInfoAuto:idConsultationBureau" href="#" onclick="if(typeof jsfcljs == 'function'){jsfcljs(document.getElementById('mcvFrmInfoAuto'),{'mcvFrmInfoAuto:idConsultationBureau':'mcvFrmInfoAuto:idConsultationBureau'},'');}return false">Bureaux de d&eacute;douanement
+        			<span class="TL"></span><span class="TR"></span><span class="BL"></span><span class="BR"></span>
+        		</a>
+        	</li>
+      </ul>
+    </div>
+
+     <div id="MiddleContent2" class="Themevert">
+
+      <div class="titre">
+		<object data="flash/Titres_Vert.swf" type="application/x-shockwave-flash" width="425" height="25" id="Titres" name="Titres" >
+			<param name="movie" value="flash/Titres_Vert.swf" />
+			<param name="WMode" value="transparent" />
+			<param name="menu" value="false" />
+			<param name="FlashVars" value="titre=Dédouanement d'un véhicule (MCV)" />
+		</object>
+	  </div>
+
+      	<div class="BlocCentent">
+
+      		<h2>Calcul des droits et taxes</h2>
+
+      				<table width="100%" >
+	      				<tr><td align="right">
+	      				<div class="dateConsultation">
+	      					<h3>
+	      					<table id="mcvFrmInfoAuto:dateSys">
+<tbody>
+<tr>
+<td>Consultation du&nbsp;</td>
+<td>27/04/2016</td>
+<td>&nbspà&nbsp</td>
+<td>16:52</td>
+</tr>
+</tbody>
+</table>
+
+	      					</h3>
+	      				</div>
+	      				</td></tr>
+      				</table>
+
+			<div align="left">
+					
+						<span class="gallery">
+							<a id="mcvFrmInfoAuto:ol1" name="mcvFrmInfoAuto:ol1" href=""></a>
+					</span>
+				</div>
+
+      	   		<br clear="all"/>
+
+       			<dl>
+        			<dt><span class="TL"></span><span class="TR"></span><span class="BL"></span><span class="BR"></span>Informations sur le v&eacute;hicule : </dt>
+        		</dl>
+       			<br clear="all" />
+       			<table width="100%" >
+
+       				<tr>
+       					<td height="30" width="240"><strong><span id="mcvFrmInfoAuto:id_genre_veh_mcv">Genre du v&eacute;hicule : </span></strong></td>
+
+       					<td><table id="mcvFrmInfoAuto:genre">
+	<tr>
+<td>
+<input type="radio" name="mcvFrmInfoAuto:genre" id="mcvFrmInfoAuto:genre:0" value="1" onclick="submit();" /><label for="mcvFrmInfoAuto:genre:0"> V&eacute;hicule de tourisme non hybride </label></td>
+<td>
+<input type="radio" name="mcvFrmInfoAuto:genre" id="mcvFrmInfoAuto:genre:1" value="3" onclick="submit();" /><label for="mcvFrmInfoAuto:genre:1"> V&eacute;hicule de tourisme hybride </label></td>
+<td>
+<input type="radio" checked="checked" name="mcvFrmInfoAuto:genre" id="mcvFrmInfoAuto:genre:2" value="2" onclick="submit();" /><label for="mcvFrmInfoAuto:genre:2"> Utilitaire </label></td>
+	</tr>
+</table></td>
+       				</tr>
+       				<tr>
+       					<td height="30"><strong><span id="mcvFrmInfoAuto:id_marque_veh_mcv">Marque du v&eacute;hicule : </span></strong></td>
+
+       					<td>
+       					<div class="wrapper">
+       						<select id="mcvFrmInfoAuto:marque" name="mcvFrmInfoAuto:marque" class="inputSelectVert2" size="1" onchange="submit();">	<option value="-1" selected="selected"></option>
+	<option value="2">ALFA ROMEO</option>
+	<option value="76">AVIA</option>
+	<option value="153">BEDFORD</option>
+	<option value="75">BLMC</option>
+	<option value="8">CHEVROLET / GEO</option>
+	<option value="10">CITROEN</option>
+	<option value="11">DACIA</option>
+	<option value="85">DAEWOO</option>
+	<option value="71">DAF</option>
+	<option value="12">DAIHATSU</option>
+	<option value="13">DATSUN</option>
+	<option value="15">DODGE</option>
+	<option value="17">FIAT</option>
+	<option value="18">FORD</option>
+	<option value="19">FSO</option>
+	<option value="74">G.M.E</option>
+	<option value="72">GMC</option>
+	<option value="20">HONDA/ACCURA</option>
+	<option value="105">HUMMER</option>
+	<option value="69">HYUNDAI</option>
+	<option value="22">ISUZU</option>
+	<option value="151">IVECO</option>
+	<option value="24">JEEP</option>
+	<option value="88">KIA</option>
+	<option value="26">LANCIA</option>
+	<option value="109">LULING</option>
+	<option value="89">MAHINDRA</option>
+	<option value="30">MAZDA</option>
+	<option value="31">MERCEDES</option>
+	<option value="32">MITSUBISHI</option>
+	<option value="35">NISSAN</option>
+	<option value="36">OPEL</option>
+	<option value="38">PEUGEOT</option>
+	<option value="101">PIAGGIO</option>
+	<option value="41">RENAULT</option>
+	<option value="43">ROVER</option>
+	<option value="80">SAVA</option>
+	<option value="46">SEAT</option>
+	<option value="47">SKODA</option>
+	<option value="84">SSANGYONG</option>
+	<option value="56">SUBARU</option>
+	<option value="48">SUZUKI</option>
+	<option value="49">TALBOT</option>
+	<option value="95">TATA</option>
+	<option value="50">TOYOTA</option>
+	<option value="53">VOLKSWAGEN</option>
+</select></div>
+        				</td>
+       				</tr>
+			</table>
+
+			
+
+
+       			 
+       			<br clear="all"/>
+
+       			<div class = "gallery">
+       			<table width="100%">
+					<tr>
+						<td align="center">
+
+							
+						</td>
+					</tr>
+				</table>
+       			</div>
+
+				<br clear="all"/>
+
+					<table>
+					<tr>
+						<td>
+							<span id="mcvFrmInfoAuto:Txt" style="padding-right:200px;"></span>
+						</td>
+						<td>
+						    <input id="mcvFrmInfoAuto:valider" type="image" src="images/bouton/bouton_valider.gif" name="mcvFrmInfoAuto:valider" class="buttonStyle" />
+						</td>
+						<td>
+							<input id="mcvFrmInfoAuto:rafraich&icirc;r" type="image" src="images/bouton/bouton_rafraichir.gif" name="mcvFrmInfoAuto:rafraich&icirc;r" class="buttonStyle" />
+						</td>
+						<td>
+						<span class="gallery">
+						<a  rel="prettyPhoto[mixed]" href="/mcv/aideAuto.jsf?iframe=true&amp;width=800&amp;height=400">
+						<img src="images/bouton/bouton_aide.gif" alt="" title="Aide" class="buttonStyle" /></a>
+						</span>
+						</td>
+					</tr>
+				</table>
+				<br clear="all"/>
+				<table>
+
+				<tr>
+
+				<td>
+				
+
+				</td>
+
+				    </tr>
+
+					<tr>
+						<td>
+							<span id="mcvFrmInfoAuto:nb">Si le type de votre v&eacute;hicule ne figure pas sur le syst&egrave;me, pri&egrave;re de nous en informer &agrave; travers la rubrique </span><a href="/web/16/74" target="_blank">Vos requ&ecirc;tes</a>
+							
+						</td>
+				    </tr>
+				    <tr>
+				    	<td>
+				    		<br></br>
+				    	</td>
+				    </tr>
+			     	 <tr>
+			        	<td>
+			        		<div >
+			        			<font color="#FF0000" size="-1">
+			        			</font>
+			        			
+			        		</div>
+			        	</td>
+					</tr>
+				</table>
+      	</div>
+      <div class="BottomContent"></div>
+      </div>
+
+    <br clear="all" />
+  </div>
+  </div>
+<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id1:j_id12" />
+</form>
+</body>
+</html>
+
